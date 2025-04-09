@@ -1,0 +1,2813 @@
+country,year,health_expenditure,region,gdp,developed_country,undeveloped_country,life_expectancy
+Afghanistan,2002,9.44339085,Asia,320,0,1,56.8
+Afghanistan,2003,8.94125843,Asia,332,0,1,57.3
+Afghanistan,2004,9.80847359,Asia,323,0,1,57.8
+Afghanistan,2005,9.94828892,Asia,346,0,1,58.3
+Afghanistan,2006,10.62276554,Asia,354,0,1,58.8
+Afghanistan,2007,9.90467453,Asia,393,0,1,59.4
+Afghanistan,2008,10.25649548,Asia,399,0,1,59.9
+Afghanistan,2009,9.81848717,Asia,473,0,1,60.5
+Afghanistan,2010,8.56967163,Asia,526,0,1,61.0
+Afghanistan,2011,8.56190777,Asia,512,0,1,61.6
+Afghanistan,2012,7.89716864,Asia,558,0,1,62.1
+Afghanistan,2013,8.80596447,Asia,569,0,1,62.5
+Afghanistan,2014,9.52887821,Asia,565,0,1,63.0
+Afghanistan,2015,10.10534763,Asia,556,0,1,63.4
+Albania,2000,5.94419765,Rest of Europe,1961,0,1,74.0
+Albania,2001,5.92584515,Rest of Europe,2144,0,1,74.3
+Albania,2002,5.66464472,Rest of Europe,2247,0,1,74.6
+Albania,2003,5.91140795,Rest of Europe,2381,0,1,74.8
+Albania,2004,5.89364862,Rest of Europe,2522,0,1,75.0
+Albania,2005,5.72954512,Rest of Europe,2676,0,1,75.2
+Albania,2006,5.63177013,Rest of Europe,2851,0,1,75.4
+Albania,2007,5.92609119,Rest of Europe,3045,0,1,75.6
+Albania,2008,5.50900269,Rest of Europe,3298,0,1,75.9
+Albania,2009,5.82603931,Rest of Europe,3432,0,1,76.2
+Albania,2010,6.23667669,Rest of Europe,3577,0,1,76.6
+Albania,2011,6.18297672,Rest of Europe,3678,0,1,76.9
+Albania,2012,6.15746212,Rest of Europe,3736,0,1,77.3
+Albania,2013,6.28286266,Rest of Europe,3781,0,1,77.6
+Albania,2014,6.43451118,Rest of Europe,3856,0,1,77.8
+Albania,2015,6.46411896,Rest of Europe,3953,0,1,78.0
+Algeria,2000,3.48903275,Africa,3111,0,1,70.6
+Algeria,2001,3.83787704,Africa,3163,0,1,71.1
+Algeria,2002,3.7300415,Africa,3298,0,1,71.6
+Algeria,2003,3.60104108,Africa,3490,0,1,72.1
+Algeria,2004,3.5440731,Africa,3593,0,1,72.6
+Algeria,2005,3.23516107,Africa,3752,0,1,73.1
+Algeria,2006,3.35510349,Africa,3760,0,1,73.5
+Algeria,2007,3.82141757,Africa,3828,0,1,73.9
+Algeria,2008,4.20188284,Africa,3856,0,1,74.3
+Algeria,2009,5.35939837,Africa,3851,0,1,74.6
+Algeria,2010,5.11716986,Africa,3918,0,1,74.9
+Algeria,2011,5.26748085,Africa,3957,0,1,75.2
+Algeria,2012,6.00050974,Africa,4012,0,1,75.4
+Algeria,2013,6.03576279,Africa,4043,0,1,75.7
+Algeria,2014,6.54721403,Africa,4112,0,1,75.9
+Algeria,2015,6.96321011,Africa,4178,0,1,76.1
+Angola,2000,1.90859938,Africa,1832,0,1,46.5
+Angola,2001,4.48351622,Africa,1847,0,1,47.1
+Angola,2002,3.32946134,Africa,2031,0,1,47.7
+Angola,2003,3.54797316,Africa,2022,0,1,48.4
+Angola,2004,3.96719909,Africa,2168,0,1,49.3
+Angola,2005,2.85219526,Africa,2407,0,1,50.2
+Angola,2006,2.68553543,Africa,2589,0,1,51.1
+Angola,2007,2.97439122,Africa,2845,0,1,52.2
+Angola,2008,3.32290339,Africa,3048,0,1,53.2
+Angola,2009,3.84260798,Africa,2962,0,1,54.3
+Angola,2010,2.69509959,Africa,2994,0,1,55.4
+Angola,2011,2.64560771,Africa,2988,0,1,56.3
+Angola,2012,2.39574957,Africa,3128,0,1,57.2
+Angola,2013,2.73282695,Africa,3169,0,1,58.1
+Angola,2014,2.43412876,Africa,3207,0,1,58.8
+Angola,2015,2.60579467,Africa,3128,0,1,59.4
+Antigua and Barbuda,2000,4.71542597,Central America and Caribbean,14070,0,1,73.9
+Antigua and Barbuda,2001,5.43839121,Central America and Caribbean,13220,0,1,74.2
+Antigua and Barbuda,2002,5.28793621,Central America and Caribbean,13171,0,1,74.4
+Antigua and Barbuda,2003,5.58143282,Central America and Caribbean,13793,0,1,74.6
+Antigua and Barbuda,2004,5.11667967,Central America and Caribbean,14400,0,1,74.8
+Antigua and Barbuda,2005,4.99094057,Central America and Caribbean,15122,0,1,75.0
+Antigua and Barbuda,2006,4.63050652,Central America and Caribbean,16786,0,1,75.2
+Antigua and Barbuda,2007,4.44609547,Central America and Caribbean,18062,0,1,75.4
+Antigua and Barbuda,2008,4.20027018,Central America and Caribbean,17771,0,1,75.5
+Antigua and Barbuda,2009,4.17732763,Central America and Caribbean,15402,0,1,75.7
+Antigua and Barbuda,2010,5.37907028,Central America and Caribbean,13987,0,1,75.8
+Antigua and Barbuda,2011,5.44257212,Central America and Caribbean,13525,0,1,76.0
+Antigua and Barbuda,2012,5.47921467,Central America and Caribbean,13803,0,1,76.1
+Antigua and Barbuda,2013,5.50909233,Central America and Caribbean,13554,0,1,76.2
+Antigua and Barbuda,2014,5.87269926,Central America and Caribbean,13909,0,1,76.3
+Antigua and Barbuda,2015,5.27965546,Central America and Caribbean,14285,0,1,76.5
+Argentina,2000,8.22001076,South America,10731,0,1,73.6
+Argentina,2001,8.37179852,South America,10146,0,1,73.8
+Argentina,2002,7.3933115,South America,8943,0,1,73.9
+Argentina,2003,6.89451647,South America,9630,0,1,74.1
+Argentina,2004,7.22868252,South America,10389,0,1,74.3
+Argentina,2005,7.61078882,South America,11192,0,1,74.5
+Argentina,2006,7.64032793,South America,11971,0,1,74.6
+Argentina,2007,7.83455086,South America,12919,0,1,74.8
+Argentina,2008,8.1826973,South America,13311,0,1,75.0
+Argentina,2009,9.45599556,South America,12398,0,1,75.1
+Argentina,2010,9.44546413,South America,13551,0,1,75.3
+Argentina,2011,9.41819859,South America,14200,0,1,75.4
+Argentina,2012,9.82726669,South America,13896,0,1,75.6
+Argentina,2013,9.78097916,South America,14072,0,1,75.8
+Argentina,2014,9.67129993,South America,13568,0,1,75.9
+Argentina,2015,10.22933674,South America,13789,0,1,76.1
+Armenia,2000,4.2,Rest of Europe,1290,0,1,71.4
+Armenia,2001,4.65,Rest of Europe,1422,0,1,71.8
+Armenia,2002,7.61,Rest of Europe,1619,0,1,72.1
+Armenia,2003,7.18,Rest of Europe,1856,0,1,72.3
+Armenia,2004,6.06,Rest of Europe,2062,0,1,72.5
+Armenia,2005,5.86,Rest of Europe,2364,0,1,72.6
+Armenia,2006,5.85,Rest of Europe,2697,0,1,72.7
+Armenia,2007,5.5,Rest of Europe,3093,0,1,72.8
+Armenia,2008,6.64,Rest of Europe,3335,0,1,72.9
+Armenia,2009,8.44,Rest of Europe,2884,0,1,73.1
+Armenia,2010,9.24,Rest of Europe,2959,0,1,73.3
+Armenia,2011,9.38,Rest of Europe,3099,0,1,73.6
+Armenia,2012,9.13,Rest of Europe,3313,0,1,73.8
+Armenia,2013,10.32,Rest of Europe,3407,0,1,74.1
+Armenia,2014,10.18,Rest of Europe,3511,0,1,74.3
+Armenia,2015,10.12,Rest of Europe,3607,0,1,74.5
+Australia,2000,7.59412289,Oceania,45559,1,0,79.2
+Australia,2001,7.67809916,Oceania,45865,1,0,79.6
+Australia,2002,7.87627029,Oceania,47127,1,0,79.9
+Australia,2003,7.88087225,Oceania,47997,1,0,80.2
+Australia,2004,8.08708572,Oceania,49439,1,0,80.5
+Australia,2005,7.97029352,Oceania,50333,1,0,80.8
+Australia,2006,7.97702456,Oceania,50948,1,0,81.0
+Australia,2007,8.05496502,Oceania,52539,1,0,81.3
+Australia,2008,8.24855137,Oceania,53339,1,0,81.4
+Australia,2009,8.54473877,Oceania,53226,1,0,81.5
+Australia,2010,8.42025661,Oceania,53543,1,0,81.7
+Australia,2011,8.53744984,Oceania,54108,1,0,81.9
+Australia,2012,8.67456913,Oceania,55255,1,0,82.0
+Australia,2013,8.75058746,Oceania,55724,1,0,82.1
+Australia,2014,9.83354282,Oceania,56306,1,0,82.3
+Australia,2015,10.18225861,Oceania,56707,1,0,82.4
+Austria,2000,9.2,European Union,38843,1,0,78.1
+Austria,2001,9.27,European Union,39185,1,0,78.6
+Austria,2002,9.39,European Union,39636,1,0,78.7
+Austria,2003,9.55,European Union,39815,1,0,78.6
+Austria,2004,9.71,European Union,40651,1,0,79.2
+Austria,2005,9.63,European Union,41281,1,0,79.3
+Austria,2006,9.53,European Union,42496,1,0,79.9
+Austria,2007,9.53,European Union,43938,1,0,80.2
+Austria,2008,9.73,European Union,44440,1,0,80.4
+Austria,2009,10.23,European Union,42655,1,0,80.3
+Austria,2010,10.22,European Union,43335,1,0,80.6
+Austria,2011,10.03,European Union,44451,1,0,81.0
+Austria,2012,10.2,European Union,44550,1,0,80.9
+Austria,2013,10.29,European Union,44299,1,0,81.1
+Austria,2014,10.37,European Union,44245,1,0,81.5
+Austria,2015,10.37,European Union,44196,1,0,81.2
+Azerbaijan,2000,2.95,Asia,1481,0,1,66.8
+Azerbaijan,2001,2.77,Asia,1615,0,1,67.1
+Azerbaijan,2002,2.73,Asia,1754,0,1,67.4
+Azerbaijan,2003,2.73,Asia,1919,0,1,67.8
+Azerbaijan,2004,2.66,Asia,2078,0,1,68.2
+Azerbaijan,2005,2.23,Asia,2632,0,1,68.7
+Azerbaijan,2006,2.07,Asia,3501,0,1,69.3
+Azerbaijan,2007,1.99,Asia,4327,0,1,69.8
+Azerbaijan,2008,2.05,Asia,4693,0,1,70.2
+Azerbaijan,2009,2.77,Asia,5024,0,1,70.6
+Azerbaijan,2010,2.65,Asia,5215,0,1,70.9
+Azerbaijan,2011,2.6,Asia,5153,0,1,71.2
+Azerbaijan,2012,3.16,Asia,5195,0,1,71.5
+Azerbaijan,2013,3.23,Asia,5426,0,1,71.8
+Azerbaijan,2014,3.59,Asia,5506,0,1,72.0
+Azerbaijan,2015,4.34,Asia,5500,0,1,72.3
+"Bahamas, The",2000,3.80487037,Central America and Caribbean,35794,0,1,71.9
+"Bahamas, The",2001,3.92440891,Central America and Caribbean,36178,0,1,72.0
+"Bahamas, The",2002,3.81251931,Central America and Caribbean,36548,0,1,72.0
+"Bahamas, The",2003,4.01998568,Central America and Caribbean,35456,0,1,72.0
+"Bahamas, The",2004,4.04628181,Central America and Caribbean,35122,0,1,72.0
+"Bahamas, The",2005,4.03196478,Central America and Caribbean,35649,0,1,72.0
+"Bahamas, The",2006,4.30935764,Central America and Caribbean,35863,0,1,72.0
+"Bahamas, The",2007,4.49598694,Central America and Caribbean,35697,0,1,72.0
+"Bahamas, The",2008,4.86261654,Central America and Caribbean,34229,0,1,72.0
+"Bahamas, The",2009,5.1500144,Central America and Caribbean,32244,0,1,72.1
+"Bahamas, The",2010,5.25594234,Central America and Caribbean,32248,0,1,72.1
+"Bahamas, The",2011,5.32398558,Central America and Caribbean,32027,0,1,72.3
+"Bahamas, The",2012,5.3190918,Central America and Caribbean,32652,0,1,72.4
+"Bahamas, The",2013,5.59409571,Central America and Caribbean,31408,0,1,72.6
+"Bahamas, The",2014,5.53944159,Central America and Caribbean,31689,0,1,72.8
+"Bahamas, The",2015,5.16048241,Central America and Caribbean,31699,0,1,73.1
+Bahrain,2000,3.33542562,Middle East,23244,0,1,74.4
+Bahrain,2001,3.48573017,Middle East,22698,0,1,74.6
+Bahrain,2002,3.67866111,Middle East,22258,0,1,74.8
+Bahrain,2003,3.88658071,Middle East,22336,0,1,75.0
+Bahrain,2004,3.49817729,Middle East,22423,0,1,75.2
+Bahrain,2005,3.25870824,Middle East,22344,0,1,75.3
+Bahrain,2006,3.10821271,Middle East,22069,0,1,75.5
+Bahrain,2007,3.29534078,Middle East,22112,0,1,75.6
+Bahrain,2008,3.2038722,Middle East,21833,0,1,75.8
+Bahrain,2009,4.32666922,Middle East,21057,0,1,75.9
+Bahrain,2010,4.08934975,Middle East,20982,0,1,76.1
+Bahrain,2011,3.8651762,Middle East,20774,0,1,76.2
+Bahrain,2012,4.10642147,Middle East,21188,0,1,76.3
+Bahrain,2013,4.30853891,Middle East,22079,0,1,76.5
+Bahrain,2014,4.41240263,Middle East,22677,0,1,76.6
+Bahrain,2015,4.97671938,Middle East,22634,0,1,76.8
+Bangladesh,2000,1.80504513,Asia,654,0,1,65.4
+Bangladesh,2001,1.77201855,Asia,674,0,1,66.0
+Bangladesh,2002,1.93417108,Asia,687,0,1,66.4
+Bangladesh,2003,1.96152198,Asia,708,0,1,66.9
+Bangladesh,2004,1.99854314,Asia,733,0,1,67.3
+Bangladesh,2005,2.05873919,Asia,769,0,1,67.8
+Bangladesh,2006,2.10646582,Asia,809,0,1,68.2
+Bangladesh,2007,2.17268491,Asia,856,0,1,68.6
+Bangladesh,2008,2.11878848,Asia,897,0,1,69.1
+Bangladesh,2009,2.18321705,Asia,932,0,1,69.5
+Bangladesh,2010,2.28807664,Asia,973,0,1,69.9
+Bangladesh,2011,2.36418128,Asia,1024,0,1,70.3
+Bangladesh,2012,2.3537879,Asia,1078,0,1,70.6
+Bangladesh,2013,2.29574466,Asia,1130,0,1,70.9
+Bangladesh,2014,2.27915168,Asia,1185,0,1,71.2
+Bangladesh,2015,2.27217698,Asia,1248,0,1,71.5
+Barbados,2000,5.33187246,Central America and Caribbean,16277,0,1,77.2
+Barbados,2001,5.52529192,Central America and Caribbean,15834,0,1,77.4
+Barbados,2002,5.86123466,Central America and Caribbean,15905,0,1,77.5
+Barbados,2003,6.69148111,Central America and Caribbean,16197,0,1,77.7
+Barbados,2004,7.31297731,Central America and Caribbean,16369,0,1,77.8
+Barbados,2005,6.77536297,Central America and Caribbean,16952,0,1,77.9
+Barbados,2006,6.58370161,Central America and Caribbean,17914,0,1,78.0
+Barbados,2007,6.05665207,Central America and Caribbean,18205,0,1,78.1
+Barbados,2008,6.47753286,Central America and Caribbean,18240,0,1,78.2
+Barbados,2009,7.14522552,Central America and Caribbean,17254,0,1,78.3
+Barbados,2010,6.77094746,Central America and Caribbean,16784,0,1,78.4
+Barbados,2011,6.89690495,Central America and Caribbean,16619,0,1,78.5
+Barbados,2012,7.77819967,Central America and Caribbean,16505,0,1,78.5
+Barbados,2013,7.39825487,Central America and Caribbean,16232,0,1,78.6
+Barbados,2014,6.96651411,Central America and Caribbean,16188,0,1,78.7
+Barbados,2015,6.83201313,Central America and Caribbean,16559,0,1,78.8
+Belarus,2000,5.28,Rest of Europe,2617,0,1,68.9
+Belarus,2001,5.71,Rest of Europe,2755,0,1,68.5
+Belarus,2002,5.62,Rest of Europe,2912,0,1,68.1
+Belarus,2003,5.77,Rest of Europe,3139,0,1,68.6
+Belarus,2004,5.74,Rest of Europe,3522,0,1,69.0
+Belarus,2005,6.07,Rest of Europe,3880,0,1,68.9
+Belarus,2006,5.57,Rest of Europe,4294,0,1,69.4
+Belarus,2007,5.69,Rest of Europe,4685,0,1,70.2
+Belarus,2008,5.29,Rest of Europe,5181,0,1,70.5
+Belarus,2009,5.39,Rest of Europe,5204,0,1,70.4
+Belarus,2010,5.66,Rest of Europe,5622,0,1,70.4
+Belarus,2011,4.87,Rest of Europe,5938,0,1,70.6
+Belarus,2012,5.25,Rest of Europe,6048,0,1,72.0
+Belarus,2013,5.7,Rest of Europe,6111,0,1,72.5
+Belarus,2014,5.39,Rest of Europe,6213,0,1,73.0
+Belarus,2015,6.07,Rest of Europe,5967,0,1,73.6
+Belgium,2000,7.99917603,European Union,35675,1,0,77.7
+Belgium,2001,8.14988804,European Union,35943,1,0,78.0
+Belgium,2002,8.31820965,European Union,36393,1,0,78.1
+Belgium,2003,9.16443539,European Union,36617,1,0,78.1
+Belgium,2004,9.32808781,European Union,37761,1,0,78.9
+Belgium,2005,9.22374916,European Union,38426,1,0,79.0
+Belgium,2006,9.12963009,European Union,39148,1,0,79.4
+Belgium,2007,9.13628674,European Union,40290,1,0,79.8
+Belgium,2008,9.5951395,European Union,40152,1,0,79.7
+Belgium,2009,10.32117939,European Union,39025,1,0,80.0
+Belgium,2010,10.20229435,European Union,39778,1,0,80.2
+Belgium,2011,10.36337948,European Union,39929,1,0,80.6
+Belgium,2012,10.50204754,European Union,39976,1,0,80.4
+Belgium,2013,10.57661152,European Union,39970,1,0,80.6
+Belgium,2014,10.60909367,European Union,40421,1,0,81.3
+Belgium,2015,10.79745102,European Union,41008,1,0,81.0
+Belize,2000,2.98060012,Central America and Caribbean,4275,0,1,68.8
+Belize,2001,3.49099278,Central America and Caribbean,4353,0,1,69.0
+Belize,2002,3.59433174,Central America and Caribbean,4448,0,1,69.3
+Belize,2003,3.56305766,Central America and Caribbean,4736,0,1,69.5
+Belize,2004,3.44779563,Central America and Caribbean,4830,0,1,69.7
+Belize,2005,3.46698904,Central America and Caribbean,4809,0,1,70.0
+Belize,2006,3.57004833,Central America and Caribbean,4898,0,1,70.3
+Belize,2007,4.07867432,Central America and Caribbean,4828,0,1,70.6
+Belize,2008,4.53821993,Central America and Caribbean,4835,0,1,71.1
+Belize,2009,4.52587652,Central America and Caribbean,4729,0,1,71.5
+Belize,2010,4.49519491,Central America and Caribbean,4768,0,1,72.1
+Belize,2011,4.54942894,Central America and Caribbean,4730,0,1,72.6
+Belize,2012,4.36242819,Central America and Caribbean,4734,0,1,73.0
+Belize,2013,4.43660116,Central America and Caribbean,4667,0,1,73.5
+Belize,2014,4.88208723,Central America and Caribbean,4770,0,1,73.8
+Belize,2015,4.65365601,Central America and Caribbean,4805,0,1,74.0
+Benin,2000,2.9591713,Africa,906,0,1,55.4
+Benin,2001,3.30417323,Africa,926,0,1,55.7
+Benin,2002,3.09589195,Africa,940,0,1,56.0
+Benin,2003,3.11678505,Africa,943,0,1,56.4
+Benin,2004,3.23273873,Africa,956,0,1,56.9
+Benin,2005,3.22345805,Africa,944,0,1,57.4
+Benin,2006,3.28773856,Africa,953,0,1,57.8
+Benin,2007,2.93715644,Africa,981,0,1,58.3
+Benin,2008,2.65178108,Africa,1001,0,1,58.7
+Benin,2009,2.88892651,Africa,996,0,1,59.0
+Benin,2010,3.00988984,Africa,989,0,1,59.3
+Benin,2011,2.99707985,Africa,990,0,1,59.6
+Benin,2012,3.07562971,Africa,1009,0,1,59.8
+Benin,2013,2.86880755,Africa,1052,0,1,60.1
+Benin,2014,2.69111967,Africa,1088,0,1,60.3
+Benin,2015,2.72813416,Africa,1077,0,1,60.6
+Bhutan,2000,4.44684267,Asia,1108,0,1,60.9
+Bhutan,2001,5.0041995,Asia,1176,0,1,61.8
+Bhutan,2002,4.59563637,Asia,1279,0,1,62.7
+Bhutan,2003,4.1293807,Asia,1353,0,1,63.6
+Bhutan,2004,4.59777308,Asia,1410,0,1,64.5
+Bhutan,2005,4.13416338,Asia,1489,0,1,65.3
+Bhutan,2006,4.4061017,Asia,1572,0,1,66.0
+Bhutan,2007,4.1298461,Asia,1840,0,1,66.7
+Bhutan,2008,3.38117099,Asia,1909,0,1,67.3
+Bhutan,2009,3.5476253,Asia,2018,0,1,67.9
+Bhutan,2010,3.55879498,Asia,2235,0,1,68.4
+Bhutan,2011,3.34921789,Asia,2387,0,1,68.8
+Bhutan,2012,3.61913681,Asia,2479,0,1,69.3
+Bhutan,2013,3.70787191,Asia,2501,0,1,69.7
+Bhutan,2014,3.55791116,Asia,2613,0,1,70.0
+Bhutan,2015,3.75701189,Asia,2753,0,1,70.4
+Bolivia,2000,4.39554119,South America,2059,0,1,62.5
+Bolivia,2001,4.82522202,South America,2054,0,1,63.1
+Bolivia,2002,4.89645052,South America,2066,0,1,63.6
+Bolivia,2003,5.19709635,South America,2083,0,1,64.2
+Bolivia,2004,4.86315727,South America,2131,0,1,64.8
+Bolivia,2005,5.07408142,South America,2186,0,1,65.3
+Bolivia,2006,4.66087532,South America,2251,0,1,65.9
+Bolivia,2007,4.6968894,South America,2314,0,1,66.4
+Bolivia,2008,4.60677242,South America,2415,0,1,66.9
+Bolivia,2009,5.17444515,South America,2455,0,1,67.5
+Bolivia,2010,5.20230532,South America,2514,0,1,68.0
+Bolivia,2011,5.17306805,South America,2603,0,1,68.5
+Bolivia,2012,5.2539444,South America,2693,0,1,69.0
+Bolivia,2013,5.57465124,South America,2831,0,1,69.5
+Bolivia,2014,5.89613628,South America,2939,0,1,69.9
+Bolivia,2015,6.55064964,South America,3036,0,1,70.3
+Bosnia and Herzegovina,2000,8.0,Rest of Europe,2848,0,1,74.4
+Bosnia and Herzegovina,2001,7.61,Rest of Europe,2913,0,1,74.6
+Bosnia and Herzegovina,2002,7.43,Rest of Europe,3057,0,1,74.8
+Bosnia and Herzegovina,2003,8.31,Rest of Europe,3172,0,1,74.9
+Bosnia and Herzegovina,2004,9.06,Rest of Europe,3371,0,1,75.1
+Bosnia and Herzegovina,2005,9.05,Rest of Europe,3502,0,1,75.2
+Bosnia and Herzegovina,2006,9.17,Rest of Europe,3691,0,1,75.3
+Bosnia and Herzegovina,2007,9.53,Rest of Europe,3910,0,1,75.5
+Bosnia and Herzegovina,2008,9.69,Rest of Europe,4132,0,1,75.7
+Bosnia and Herzegovina,2009,9.02,Rest of Europe,4028,0,1,75.8
+Bosnia and Herzegovina,2010,9.02,Rest of Europe,4096,0,1,76.0
+Bosnia and Herzegovina,2011,9.18,Rest of Europe,4185,0,1,76.2
+Bosnia and Herzegovina,2012,9.49,Rest of Europe,4216,0,1,76.4
+Bosnia and Herzegovina,2013,9.45,Rest of Europe,4391,0,1,76.6
+Bosnia and Herzegovina,2014,9.49,Rest of Europe,4518,0,1,76.7
+Bosnia and Herzegovina,2015,9.24,Rest of Europe,4730,0,1,76.9
+Botswana,2000,6.10838556,Africa,4569,0,1,50.6
+Botswana,2001,6.3660779,Africa,4495,0,1,50.3
+Botswana,2002,6.66529799,Africa,4684,0,1,50.2
+Botswana,2003,6.40933847,Africa,4817,0,1,50.5
+Botswana,2004,6.09125996,Africa,4860,0,1,51.2
+Botswana,2005,5.26532936,Africa,4986,0,1,52.1
+Botswana,2006,4.87599421,Africa,5295,0,1,53.4
+Botswana,2007,5.52080727,Africa,5612,0,1,55.0
+Botswana,2008,5.89747286,Africa,5838,0,1,56.7
+Botswana,2009,6.62081194,Africa,5287,0,1,58.4
+Botswana,2010,6.26718187,Africa,5642,0,1,60.2
+Botswana,2011,5.86915016,Africa,5899,0,1,61.9
+Botswana,2012,6.35010576,Africa,6089,0,1,63.5
+Botswana,2013,6.49913645,Africa,6705,0,1,65.0
+Botswana,2014,5.8804059,Africa,6896,0,1,66.3
+Botswana,2015,6.10287762,Africa,6403,0,1,67.3
+Brazil,2000,8.33457184,South America,6788,0,1,70.1
+Brazil,2001,8.54963303,South America,6789,0,1,70.5
+Brazil,2002,8.69686985,South America,6905,0,1,70.8
+Brazil,2003,8.18899441,South America,6896,0,1,71.2
+Brazil,2004,8.12491989,South America,7206,0,1,71.5
+Brazil,2005,8.03539562,South America,7352,0,1,71.9
+Brazil,2006,8.24952507,South America,7561,0,1,72.3
+Brazil,2007,8.20182991,South America,7937,0,1,72.6
+Brazil,2008,8.01128483,South America,8259,0,1,73.0
+Brazil,2009,8.39480495,South America,8169,0,1,73.3
+Brazil,2010,7.94516611,South America,8702,0,1,73.6
+Brazil,2011,7.78819132,South America,8966,0,1,73.9
+Brazil,2012,7.73637724,South America,9057,0,1,74.2
+Brazil,2013,7.9766016,South America,9248,0,1,74.5
+Brazil,2014,8.39644146,South America,9215,0,1,74.7
+Brazil,2015,8.90929985,South America,8814,0,1,75.0
+Brunei Darussalam,2000,2.5479064,Asia,34064,0,1,73.1
+Brunei Darussalam,2001,2.5465107,Asia,34291,0,1,73.1
+Brunei Darussalam,2002,2.53447938,Asia,34927,0,1,73.3
+Brunei Darussalam,2003,2.60260582,Asia,35278,0,1,73.6
+Brunei Darussalam,2004,2.55193377,Asia,34850,0,1,73.8
+Brunei Darussalam,2005,2.23386168,Asia,34441,0,1,74.0
+Brunei Darussalam,2006,1.9072516,Asia,35456,0,1,74.2
+Brunei Darussalam,2007,1.94145441,Asia,35065,0,1,74.4
+Brunei Darussalam,2008,1.87612021,Asia,33981,0,1,74.5
+Brunei Darussalam,2009,2.39306617,Asia,32992,0,1,74.6
+Brunei Darussalam,2010,2.27826095,Asia,33437,0,1,74.7
+Brunei Darussalam,2011,1.86409724,Asia,34244,0,1,74.9
+Brunei Darussalam,2012,1.85097206,Asia,34097,0,1,75.0
+Brunei Darussalam,2013,1.898314,Asia,32925,0,1,75.1
+Brunei Darussalam,2014,1.91436803,Asia,31679,0,1,75.2
+Brunei Darussalam,2015,2.38708901,Asia,31164,0,1,75.3
+Bulgaria,2000,5.83,European Union,3718,1,0,71.7
+Bulgaria,2001,6.86,European Union,3937,1,0,71.8
+Bulgaria,2002,7.08,European Union,4260,1,0,71.9
+Bulgaria,2003,7.2,European Union,4519,1,0,72.1
+Bulgaria,2004,6.89,European Union,4850,1,0,72.6
+Bulgaria,2005,6.89,European Union,5231,1,0,72.6
+Bulgaria,2006,6.53,European Union,5629,1,0,72.6
+Bulgaria,2007,6.16,European Union,6045,1,0,72.7
+Bulgaria,2008,6.28,European Union,6460,1,0,73.0
+Bulgaria,2009,6.6,European Union,6289,1,0,73.4
+Bulgaria,2010,7.1,European Union,6428,1,0,73.5
+Bulgaria,2011,7.1,European Union,6605,1,0,74.2
+Bulgaria,2012,7.54,European Union,6694,1,0,74.3
+Bulgaria,2013,7.14,European Union,6693,1,0,74.9
+Bulgaria,2014,7.68,European Union,6797,1,0,74.5
+Bulgaria,2015,7.39,European Union,7075,1,0,74.6
+Burkina Faso,2000,2.9502635,Africa,440,0,1,50.5
+Burkina Faso,2001,2.88835382,Africa,456,0,1,50.9
+Burkina Faso,2002,2.97113013,Africa,462,0,1,51.4
+Burkina Faso,2003,3.14307284,Africa,484,0,1,52.0
+Burkina Faso,2004,4.21720934,Africa,491,0,1,52.6
+Burkina Faso,2005,3.95109582,Africa,518,0,1,53.3
+Burkina Faso,2006,4.51446247,Africa,534,0,1,54.1
+Burkina Faso,2007,5.23373222,Africa,540,0,1,54.8
+Burkina Faso,2008,4.64780712,Africa,554,0,1,55.6
+Burkina Faso,2009,5.08159161,Africa,554,0,1,56.4
+Burkina Faso,2010,5.23958349,Africa,582,0,1,57.1
+Burkina Faso,2011,4.64868164,Africa,603,0,1,57.8
+Burkina Faso,2012,4.60267258,Africa,623,0,1,58.4
+Burkina Faso,2013,5.56331587,Africa,639,0,1,58.9
+Burkina Faso,2014,5.00027227,Africa,647,0,1,59.5
+Burkina Faso,2015,5.13192415,Africa,653,0,1,59.9
+Burundi,2000,4.22181606,Africa,307,0,1,49.1
+Burundi,2001,5.68180418,Africa,306,0,1,49.9
+Burundi,2002,5.34983587,Africa,311,0,1,50.8
+Burundi,2003,5.27245188,Africa,298,0,1,51.7
+Burundi,2004,7.09572744,Africa,303,0,1,52.5
+Burundi,2005,7.56016588,Africa,296,0,1,53.4
+Burundi,2006,8.71264839,Africa,302,0,1,54.2
+Burundi,2007,9.1855402,Africa,302,0,1,54.9
+Burundi,2008,7.74147511,Africa,306,0,1,55.7
+Burundi,2009,9.23238468,Africa,308,0,1,56.5
+Burundi,2010,11.28196716,Africa,313,0,1,57.2
+Burundi,2011,10.06996346,Africa,316,0,1,57.9
+Burundi,2012,8.63756466,Africa,319,0,1,58.6
+Burundi,2013,8.62834644,Africa,325,0,1,59.1
+Burundi,2014,7.21081543,Africa,328,0,1,59.7
+Burundi,2015,6.29022646,Africa,306,0,1,60.1
+Cabo Verde,2000,4.43401194,Africa,1974,0,1,68.6
+Cabo Verde,2001,4.75244379,Africa,1983,0,1,69.1
+Cabo Verde,2002,4.7555151,Africa,2053,0,1,69.6
+Cabo Verde,2003,4.50008631,Africa,2106,0,1,69.9
+Cabo Verde,2004,4.37710667,Africa,2287,0,1,70.2
+Cabo Verde,2005,4.27364111,Africa,2411,0,1,70.4
+Cabo Verde,2006,4.48974991,Africa,2569,0,1,70.6
+Cabo Verde,2007,4.18900156,Africa,2922,0,1,70.7
+Cabo Verde,2008,3.58312893,Africa,3079,0,1,70.8
+Cabo Verde,2009,3.88152432,Africa,3004,0,1,70.9
+Cabo Verde,2010,4.47555733,Africa,3011,0,1,71.1
+Cabo Verde,2011,4.30527449,Africa,3091,0,1,71.2
+Cabo Verde,2012,5.13365459,Africa,3085,0,1,71.4
+Cabo Verde,2013,5.28994226,Africa,3070,0,1,71.7
+Cabo Verde,2014,5.32722235,Africa,3050,0,1,71.9
+Cabo Verde,2015,4.82334185,Africa,3043,0,1,72.1
+Cambodia,2000,6.53804731,Asia,487,0,1,58.4
+Cambodia,2001,7.00522089,Asia,516,0,1,59.3
+Cambodia,2002,7.22556973,Asia,539,0,1,60.3
+Cambodia,2003,6.93705606,Asia,575,0,1,61.2
+Cambodia,2004,7.07894278,Asia,625,0,1,62.2
+Cambodia,2005,6.84559298,Asia,696,0,1,63.1
+Cambodia,2006,6.11889315,Asia,760,0,1,63.9
+Cambodia,2007,4.90875959,Asia,825,0,1,64.7
+Cambodia,2008,6.60109425,Asia,867,0,1,65.4
+Cambodia,2009,7.58330584,Asia,855,0,1,66.0
+Cambodia,2010,6.91169977,Asia,892,0,1,66.6
+Cambodia,2011,7.50353098,Asia,940,0,1,67.0
+Cambodia,2012,7.26115417,Asia,993,0,1,67.5
+Cambodia,2013,7.10386753,Asia,1048,0,1,67.9
+Cambodia,2014,6.70157766,Asia,1105,0,1,68.3
+Cambodia,2015,6.19431591,Asia,1163,0,1,68.6
+Cameroon,2000,4.11237431,Africa,1107,0,1,51.0
+Cameroon,2001,3.88486743,Africa,1124,0,1,51.2
+Cameroon,2002,4.02669907,Africa,1144,0,1,51.5
+Cameroon,2003,3.90227985,Africa,1175,0,1,51.9
+Cameroon,2004,3.72798967,Africa,1224,0,1,52.3
+Cameroon,2005,3.77274442,Africa,1218,0,1,52.8
+Cameroon,2006,3.73662806,Africa,1230,0,1,53.2
+Cameroon,2007,3.70858574,Africa,1249,0,1,53.7
+Cameroon,2008,3.65843678,Africa,1249,0,1,54.2
+Cameroon,2009,3.49997187,Africa,1247,0,1,54.6
+Cameroon,2010,3.57742167,Africa,1248,0,1,55.1
+Cameroon,2011,3.85282946,Africa,1255,0,1,55.6
+Cameroon,2012,3.9310236,Africa,1278,0,1,56.1
+Cameroon,2013,3.63111043,Africa,1306,0,1,56.6
+Cameroon,2014,3.78765464,Africa,1344,0,1,57.1
+Cameroon,2015,3.59505081,Africa,1383,0,1,57.6
+Canada,2000,8.24814415,North America,34122,1,0,79.1
+Canada,2001,8.62482357,North America,34227,1,0,79.3
+Canada,2002,8.85670471,North America,35016,1,0,79.5
+Canada,2003,9.01090145,North America,36024,1,0,79.7
+Canada,2004,9.06628132,North America,37086,1,0,79.9
+Canada,2005,9.03540611,North America,38573,1,0,80.2
+Canada,2006,9.34210205,North America,39776,1,0,80.3
+Canada,2007,9.44540119,North America,42097,1,0,80.5
+Canada,2008,9.60754967,North America,42064,1,0,80.7
+Canada,2009,10.66225815,North America,40368,1,0,81.0
+Canada,2010,10.67611408,North America,41155,1,0,81.2
+Canada,2011,10.37950897,North America,42037,1,0,81.4
+Canada,2012,10.50971508,North America,42316,1,0,81.6
+Canada,2013,10.41174984,North America,42846,1,0,81.7
+Canada,2014,10.25765324,North America,43635,1,0,81.8
+Canada,2015,10.73869705,North America,43596,1,0,81.9
+Central African Republic,2000,3.72374984475601,Africa,460,0,1,44.2
+Central African Republic,2000,4.27478504,Africa,460,0,1,44.2
+Central African Republic,2001,3.73958483647087,Africa,470,0,1,44.1
+Central African Republic,2001,3.95594192,Africa,470,0,1,44.1
+Central African Republic,2002,3.3895631269588,Africa,477,0,1,44.1
+Central African Republic,2002,4.22761345,Africa,477,0,1,44.1
+Central African Republic,2003,4.63345806108526,Africa,442,0,1,44.2
+Central African Republic,2003,4.39720297,Africa,442,0,1,44.2
+Central African Republic,2004,4.43972046636584,Africa,459,0,1,44.4
+Central African Republic,2004,4.30442286,Africa,459,0,1,44.4
+Central African Republic,2005,4.24535675714729,Africa,455,0,1,44.7
+Central African Republic,2005,4.36732149,Africa,455,0,1,44.7
+Central African Republic,2006,4.11821802011192,Africa,467,0,1,45.2
+Central African Republic,2006,4.44105434,Africa,467,0,1,45.2
+Central African Republic,2007,3.86948427704768,Africa,479,0,1,45.6
+Central African Republic,2007,4.71851492,Africa,479,0,1,45.6
+Central African Republic,2008,3.69063765855855,Africa,480,0,1,46.2
+Central African Republic,2008,4.08699083,Africa,480,0,1,46.2
+Central African Republic,2009,3.78156320495144,Africa,514,0,1,46.7
+Central African Republic,2009,4.81901121,Africa,514,0,1,46.7
+Central African Republic,2010,3.51214652052283,Africa,532,0,1,47.3
+Central African Republic,2010,3.56699872,Africa,532,0,1,47.3
+Central African Republic,2011,3.54091225979387,Africa,550,0,1,48.0
+Central African Republic,2011,3.67561865,Africa,550,0,1,48.0
+Central African Republic,2012,3.50510321110345,Africa,576,0,1,48.6
+Central African Republic,2012,3.91814446,Africa,576,0,1,48.6
+Central African Republic,2013,3.62966687504206,Africa,365,0,1,49.4
+Central African Republic,2013,4.76660204,Africa,365,0,1,49.4
+Central African Republic,2014,3.63463133695153,Africa,364,0,1,50.1
+Central African Republic,2014,4.56557369,Africa,364,0,1,50.1
+Central African Republic,2015,3.85575400508979,Africa,377,0,1,50.9
+Central African Republic,2015,5.03434181,Africa,377,0,1,50.9
+Chad,2000,5.45750713,Africa,375,0,1,47.7
+Chad,2001,5.2932992,Africa,403,0,1,47.8
+Chad,2002,7.26787424,Africa,421,0,1,47.9
+Chad,2003,5.50940943,Africa,465,0,1,48.1
+Chad,2004,5.50012684,Africa,598,0,1,48.3
+Chad,2005,4.84111166,Africa,676,0,1,48.5
+Chad,2006,4.86643076,Africa,657,0,1,48.9
+Chad,2007,4.34313393,Africa,656,0,1,49.3
+Chad,2008,4.05955124,Africa,654,0,1,49.8
+Chad,2009,4.44166946,Africa,659,0,1,50.3
+Chad,2010,4.06023312,Africa,724,0,1,50.9
+Chad,2011,3.91046357,Africa,701,0,1,51.4
+Chad,2012,3.8560791,Africa,738,0,1,51.9
+Chad,2013,4.06645298,Africa,754,0,1,52.4
+Chad,2014,4.27316904,Africa,780,0,1,52.8
+Chad,2015,4.52395248,Africa,776,0,1,53.1
+Chile,2000,7.00020742,South America,8556,0,1,76.4
+Chile,2001,7.09733057,South America,8727,0,1,76.6
+Chile,2002,7.20833778,South America,8910,0,1,76.9
+Chile,2003,7.25047779,South America,9233,0,1,77.1
+Chile,2004,6.91028547,South America,9748,0,1,77.4
+Chile,2005,6.62372112,South America,10210,0,1,77.6
+Chile,2006,6.07235622,South America,10714,0,1,77.9
+Chile,2007,6.21259642,South America,11148,0,1,78.1
+Chile,2008,6.73954487,South America,11447,0,1,78.3
+Chile,2009,7.25026846,South America,11200,0,1,78.6
+Chile,2010,6.81958437,South America,11733,0,1,78.8
+Chile,2011,6.79947519,South America,12339,0,1,79.0
+Chile,2012,7.01951313,South America,12973,0,1,79.2
+Chile,2013,7.47552633,South America,13272,0,1,79.3
+Chile,2014,7.84150124,South America,13367,0,1,79.5
+Chile,2015,8.3513937,South America,13495,0,1,79.6
+China,2000,4.50828123,Asia,2194,0,1,71.4
+China,2001,4.25330067,Asia,2360,0,1,71.7
+China,2002,4.38285255,Asia,2558,0,1,72.1
+China,2003,4.41762781,Asia,2797,0,1,72.4
+China,2004,4.29347467,Asia,3062,0,1,72.7
+China,2005,4.17605019,Asia,3391,0,1,73.0
+China,2006,3.94742203,Asia,3801,0,1,73.3
+China,2007,3.67491412,Asia,4319,0,1,73.6
+China,2008,3.900002,Asia,4712,0,1,73.8
+China,2009,4.34958458,Asia,5129,0,1,74.1
+China,2010,4.23068333,Asia,5647,0,1,74.4
+China,2011,4.34274387,Asia,6153,0,1,74.7
+China,2012,4.56584787,Asia,6592,0,1,75.0
+China,2013,4.71490669,Asia,7056,0,1,75.3
+China,2014,4.77790594,Asia,7533,0,1,75.6
+China,2015,4.93827963,Asia,8016,0,1,75.9
+Colombia,2000,5.63529348,South America,3962,0,1,72.9
+Colombia,2001,5.94238281,South America,3966,0,1,73.2
+Colombia,2002,5.73296595,South America,4003,0,1,73.5
+Colombia,2003,5.77505445,South America,4099,0,1,73.8
+Colombia,2004,5.79892111,South America,4257,0,1,74.0
+Colombia,2005,6.06710529,South America,4403,0,1,74.3
+Colombia,2006,6.33546638,South America,4638,0,1,74.5
+Colombia,2007,6.49102163,South America,4890,0,1,74.7
+Colombia,2008,6.84192228,South America,4992,0,1,75.0
+Colombia,2009,7.3113451,South America,4993,0,1,75.2
+Colombia,2010,7.07130146,South America,5163,0,1,75.4
+Colombia,2011,6.78076792,South America,5468,0,1,75.7
+Colombia,2012,6.74601603,South America,5631,0,1,75.9
+Colombia,2013,7.01724052,South America,5867,0,1,76.1
+Colombia,2014,7.18553209,South America,6069,0,1,76.3
+Colombia,2015,7.52338552,South America,6176,0,1,76.5
+Comoros,2000,7.5153451,Africa,1190,0,1,59.5
+Comoros,2001,6.65322924,Africa,1188,0,1,59.5
+Comoros,2002,6.68114853,Africa,1186,0,1,59.6
+Comoros,2003,6.65392351,Africa,1183,0,1,59.7
+Comoros,2004,6.58027744,Africa,1177,0,1,59.9
+Comoros,2005,6.12521315,Africa,1182,0,1,60.1
+Comoros,2006,5.77074099,Africa,1185,0,1,60.4
+Comoros,2007,5.41753864,Africa,1166,0,1,60.7
+Comoros,2008,5.06897497,Africa,1183,0,1,61.1
+Comoros,2009,4.92694378,Africa,1193,0,1,61.5
+Comoros,2010,4.99181557,Africa,1208,0,1,61.9
+Comoros,2011,5.3021183,Africa,1228,0,1,62.2
+Comoros,2012,5.17354631,Africa,1237,0,1,62.6
+Comoros,2013,5.10299349,Africa,1261,0,1,62.9
+Comoros,2014,5.23849726,Africa,1258,0,1,63.2
+Comoros,2015,4.60089922,Africa,1243,0,1,63.5
+"Congo, Dem. Rep.",2000,1.46594739,Africa,351,0,1,50.0
+"Congo, Dem. Rep.",2001,2.62310958,Africa,334,0,1,50.7
+"Congo, Dem. Rep.",2002,2.57012916,Africa,334,0,1,51.4
+"Congo, Dem. Rep.",2003,3.73353338,Africa,342,0,1,52.1
+"Congo, Dem. Rep.",2004,4.33564186,Africa,354,0,1,52.9
+"Congo, Dem. Rep.",2005,3.98558235,Africa,364,0,1,53.7
+"Congo, Dem. Rep.",2006,4.06210661,Africa,371,0,1,54.4
+"Congo, Dem. Rep.",2007,3.89384961,Africa,381,0,1,55.1
+"Congo, Dem. Rep.",2008,4.31254768,Africa,392,0,1,55.7
+"Congo, Dem. Rep.",2009,4.51133156,Africa,390,0,1,56.4
+"Congo, Dem. Rep.",2010,3.72224283,Africa,404,0,1,56.9
+"Congo, Dem. Rep.",2011,3.19435549,Africa,418,0,1,57.4
+"Congo, Dem. Rep.",2012,3.2215035,Africa,433,0,1,57.9
+"Congo, Dem. Rep.",2013,3.34057522,Africa,454,0,1,58.4
+"Congo, Dem. Rep.",2014,3.72520614,Africa,481,0,1,58.8
+"Congo, Dem. Rep.",2015,3.74785447,Africa,497,0,1,59.3
+"Congo, Rep.",2000,1.50500846,Africa,2062,0,1,52.1
+"Congo, Rep.",2001,2.18529987,Africa,2080,0,1,52.5
+"Congo, Rep.",2002,1.70167828,Africa,2115,0,1,53.1
+"Congo, Rep.",2003,1.91852403,Africa,2072,0,1,53.8
+"Congo, Rep.",2004,1.92152369,Africa,2080,0,1,54.7
+"Congo, Rep.",2005,1.71774101,Africa,2172,0,1,55.6
+"Congo, Rep.",2006,1.70861316,Africa,2269,0,1,56.6
+"Congo, Rep.",2007,1.90200174,Africa,2047,0,1,57.5
+"Congo, Rep.",2008,2.2392714,Africa,2103,0,1,58.5
+"Congo, Rep.",2009,2.1422224,Africa,2272,0,1,59.3
+"Congo, Rep.",2010,1.85172856,Africa,2423,0,1,60.1
+"Congo, Rep.",2011,1.75237322,Africa,2408,0,1,60.8
+"Congo, Rep.",2012,1.90971065,Africa,2580,0,1,61.4
+"Congo, Rep.",2013,1.94347155,Africa,2499,0,1,62.0
+"Congo, Rep.",2014,1.97311735,Africa,2603,0,1,62.6
+"Congo, Rep.",2015,2.45668483,Africa,2449,0,1,63.1
+Costa Rica,2000,6.56498766,Central America and Caribbean,7678,0,1,77.5
+Costa Rica,2001,6.47409868,Central America and Caribbean,7805,0,1,77.6
+Costa Rica,2002,6.8690877,Central America and Caribbean,7940,0,1,77.7
+Costa Rica,2003,6.9691925,Central America and Caribbean,8158,0,1,77.9
+Costa Rica,2004,6.63006067,Central America and Caribbean,8395,0,1,78.0
+Costa Rica,2005,6.6642971,Central America and Caribbean,8606,0,1,78.1
+Costa Rica,2006,6.93530846,Central America and Caribbean,9110,0,1,78.2
+Costa Rica,2007,6.99642611,Central America and Caribbean,9725,0,1,78.4
+Costa Rica,2008,7.46854782,Central America and Caribbean,10053,0,1,78.5
+Costa Rica,2009,7.86019135,Central America and Caribbean,9838,0,1,78.6
+Costa Rica,2010,8.02937794,Central America and Caribbean,10237,0,1,78.8
+Costa Rica,2011,8.12197781,Central America and Caribbean,10559,0,1,78.9
+Costa Rica,2012,7.78642321,Central America and Caribbean,10945,0,1,79.1
+Costa Rica,2013,7.68229342,Central America and Caribbean,11090,0,1,79.2
+Costa Rica,2014,7.66376162,Central America and Caribbean,11355,0,1,79.4
+Costa Rica,2015,7.59196234,Central America and Caribbean,11643,0,1,79.6
+Cote d'Ivoire,2000,6.12679291,Africa,1848,0,1,49.6
+Cote d'Ivoire,2001,6.01767921,Africa,1765,0,1,49.5
+Cote d'Ivoire,2002,5.90386152,Africa,1679,0,1,49.5
+Cote d'Ivoire,2003,5.47972536,Africa,1567,0,1,49.6
+Cote d'Ivoire,2004,5.47516584,Africa,1583,0,1,49.8
+Cote d'Ivoire,2005,5.00639105,Africa,1565,0,1,50.1
+Cote d'Ivoire,2006,4.76326609,Africa,1575,0,1,50.6
+Cote d'Ivoire,2007,4.55249786,Africa,1558,0,1,51.1
+Cote d'Ivoire,2008,4.56869602,Africa,1596,0,1,51.7
+Cote d'Ivoire,2009,4.46966648,Africa,1616,0,1,52.3
+Cote d'Ivoire,2010,4.41577387,Africa,1687,0,1,53.0
+Cote d'Ivoire,2011,4.39700699,Africa,1559,0,1,53.6
+Cote d'Ivoire,2012,4.4273715,Africa,1637,0,1,54.3
+Cote d'Ivoire,2013,3.71773791,Africa,1769,0,1,54.9
+Cote d'Ivoire,2014,3.7310183,Africa,1887,0,1,55.5
+Cote d'Ivoire,2015,3.2198832,Africa,1973,0,1,56.1
+Croatia,2000,7.65,European Union,8806,1,0,72.8
+Croatia,2001,7.17,European Union,9428,1,0,74.5
+Croatia,2002,6.14,European Union,9962,1,0,74.7
+Croatia,2003,6.3,European Union,10510,1,0,74.6
+Croatia,2004,6.5,European Union,10943,1,0,75.5
+Croatia,2005,6.84,European Union,11400,1,0,75.2
+Croatia,2006,6.91,European Union,11960,1,0,75.8
+Croatia,2007,7.41,European Union,12550,1,0,75.7
+Croatia,2008,7.65,European Union,12790,1,0,75.9
+Croatia,2009,8.08,European Union,11871,1,0,76.2
+Croatia,2010,7.99,European Union,11749,1,0,76.5
+Croatia,2011,7.66,European Union,11780,1,0,76.8
+Croatia,2012,7.68,European Union,11547,1,0,76.9
+Croatia,2013,6.43,European Union,11537,1,0,77.1
+Croatia,2014,6.61,European Union,11544,1,0,77.5
+Croatia,2015,6.69,European Union,11933,1,0,77.3
+Cuba,2000,6.58189821,Central America and Caribbean,4106,0,1,76.7
+Cuba,2001,6.9820981,Central America and Caribbean,4222,0,1,76.9
+Cuba,2002,7.11481619,Central America and Caribbean,4269,0,1,77.1
+Cuba,2003,7.10295439,Central America and Caribbean,4419,0,1,77.3
+Cuba,2004,6.83178711,Central America and Caribbean,4665,0,1,77.5
+Cuba,2005,8.75525475,Central America and Caribbean,5183,0,1,77.7
+Cuba,2006,8.2719059,Central America and Caribbean,5808,0,1,77.9
+Cuba,2007,10.9674921,Central America and Caribbean,6236,0,1,78.0
+Cuba,2008,11.31422806,Central America and Caribbean,6501,0,1,78.2
+Cuba,2009,12.29053974,Central America and Caribbean,6601,0,1,78.3
+Cuba,2010,10.6880827,Central America and Caribbean,6759,0,1,78.3
+Cuba,2011,11.31298637,Central America and Caribbean,6942,0,1,78.4
+Cuba,2012,9.29940987,Central America and Caribbean,7138,0,1,78.4
+Cuba,2013,10.43099499,Central America and Caribbean,7318,0,1,78.5
+Cuba,2014,12.1412344,Central America and Caribbean,7379,0,1,78.5
+Cuba,2015,12.81401348,Central America and Caribbean,7694,0,1,78.6
+Cyprus,2000,5.31,European Union,22382,1,0,78.0
+Cyprus,2001,5.34,European Union,23018,1,0,78.1
+Cyprus,2002,5.62,European Union,23603,1,0,78.3
+Cyprus,2003,5.64,European Union,23929,1,0,78.4
+Cyprus,2004,5.41,European Union,24798,1,0,78.5
+Cyprus,2005,5.44,European Union,25630,1,0,78.6
+Cyprus,2006,5.46,European Union,26394,1,0,78.8
+Cyprus,2007,5.36,European Union,27155,1,0,78.9
+Cyprus,2008,6.01,European Union,27447,1,0,79.1
+Cyprus,2009,6.47,European Union,26182,1,0,79.2
+Cyprus,2010,6.5,European Union,26020,1,0,79.4
+Cyprus,2011,6.43,European Union,25466,1,0,79.6
+Cyprus,2012,6.54,European Union,24217,1,0,79.8
+Cyprus,2013,6.93,European Union,22682,1,0,80.0
+Cyprus,2014,6.93,European Union,22514,1,0,80.2
+Cyprus,2015,6.79,European Union,23408,1,0,80.4
+Czechia,2000,5.70103025,European Union,12312,1,0,75.0
+Czechia,2001,5.86295414,European Union,12735,1,0,75.2
+Czechia,2002,6.17736149,European Union,12960,1,0,75.2
+Czechia,2003,6.52412462,European Union,13428,1,0,75.2
+Czechia,2004,6.35071039,European Union,14070,1,0,75.7
+Czechia,2005,6.34086704,European Union,14978,1,0,75.9
+Czechia,2006,6.16380167,European Union,15949,1,0,76.5
+Czechia,2007,5.98578405,European Union,16739,1,0,76.7
+Czechia,2008,6.33024931,European Union,17047,1,0,77.0
+Czechia,2009,7.24880648,European Union,16161,1,0,77.1
+Czechia,2010,7.58647251,European Union,16506,1,0,77.4
+Czechia,2011,7.5580225,European Union,16762,1,0,77.9
+Czechia,2012,7.62448311,European Union,16607,1,0,78.1
+Czechia,2013,7.52132368,European Union,16594,1,0,78.2
+Czechia,2014,7.61248875,European Union,16951,1,0,78.8
+Czechia,2015,7.36897945,European Union,17830,1,0,78.6
+Denmark,2000,8.1,European Union,49242,1,0,76.6
+Denmark,2001,8.45,European Union,49470,1,0,76.8
+Denmark,2002,8.7,European Union,49542,1,0,76.9
+Denmark,2003,8.9,European Union,49600,1,0,77.1
+Denmark,2004,9.01,European Union,50792,1,0,77.5
+Denmark,2005,9.09,European Union,51836,1,0,77.8
+Denmark,2006,9.17,European Union,53687,1,0,78.1
+Denmark,2007,9.33,European Union,53936,1,0,78.2
+Denmark,2008,9.51,European Union,53345,1,0,78.4
+Denmark,2009,10.67,European Union,50457,1,0,78.6
+Denmark,2010,10.61,European Union,51173,1,0,79.1
+Denmark,2011,10.41,European Union,51644,1,0,79.8
+Denmark,2012,10.52,European Union,51567,1,0,80.1
+Denmark,2013,10.33,European Union,51832,1,0,80.3
+Denmark,2014,10.31,European Union,52405,1,0,80.7
+Denmark,2015,10.34,European Union,53255,1,0,80.7
+Djibouti,2000,3.3991127,Africa,768,0,1,57.0
+Djibouti,2001,3.19861364,Africa,781,0,1,57.1
+Djibouti,2002,3.7554152,Africa,791,0,1,57.2
+Djibouti,2003,4.27386999,Africa,819,0,1,57.4
+Djibouti,2004,3.53825521,Africa,863,0,1,57.7
+Djibouti,2005,3.80623102,Africa,905,0,1,58.0
+Djibouti,2006,4.22306824,Africa,968,0,1,58.3
+Djibouti,2007,4.05582809,Africa,1053,0,1,58.7
+Djibouti,2008,3.61543369,Africa,1224,0,1,59.1
+Djibouti,2009,3.64194465,Africa,1267,0,1,59.6
+Djibouti,2010,3.35966682,Africa,1343,0,1,60.1
+Djibouti,2011,3.37655354,Africa,1452,0,1,60.7
+Djibouti,2012,3.299927,Africa,1559,0,1,61.4
+Djibouti,2013,2.92013574,Africa,2384,0,1,62.2
+Djibouti,2014,2.96726322,Africa,2509,0,1,63.2
+Djibouti,2015,3.3475771,Africa,2653,0,1,64.1
+Dominican Republic,2000,4.88427496,Central America and Caribbean,4209,0,1,69.4
+Dominican Republic,2001,4.88183308,Central America and Caribbean,4249,0,1,69.7
+Dominican Republic,2002,4.98649025,Central America and Caribbean,4376,0,1,70.0
+Dominican Republic,2003,4.38888264,Central America and Caribbean,4256,0,1,70.2
+Dominican Republic,2004,4.2877388,Central America and Caribbean,4305,0,1,70.5
+Dominican Republic,2005,4.35391188,Central America and Caribbean,4647,0,1,70.8
+Dominican Republic,2006,3.99365425,Central America and Caribbean,5007,0,1,71.0
+Dominican Republic,2007,4.08935308,Central America and Caribbean,5309,0,1,71.3
+Dominican Republic,2008,4.56146193,Central America and Caribbean,5410,0,1,71.6
+Dominican Republic,2009,4.76337624,Central America and Caribbean,5393,0,1,71.8
+Dominican Republic,2010,4.92355442,Central America and Caribbean,5772,0,1,72.0
+Dominican Republic,2011,5.03797865,Central America and Caribbean,5881,0,1,72.3
+Dominican Republic,2012,5.04897833,Central America and Caribbean,5969,0,1,72.5
+Dominican Republic,2013,4.91598225,Central America and Caribbean,6187,0,1,72.8
+Dominican Republic,2014,4.79757166,Central America and Caribbean,6547,0,1,73.0
+Dominican Republic,2015,4.72216797,Central America and Caribbean,6922,0,1,73.2
+Ecuador,2000,3.33441973,South America,4209,0,1,72.8
+Ecuador,2001,3.75668859,South America,4299,0,1,73.1
+Ecuador,2002,4.47671938,South America,4397,0,1,73.4
+Ecuador,2003,5.44398975,South America,4441,0,1,73.6
+Ecuador,2004,5.56991434,South America,4725,0,1,73.9
+Ecuador,2005,5.59754324,South America,4893,0,1,74.1
+Ecuador,2006,5.70635176,South America,5023,0,1,74.3
+Ecuador,2007,5.43095398,South America,5048,0,1,74.5
+Ecuador,2008,5.46596193,South America,5281,0,1,74.7
+Ecuador,2009,5.79984474,South America,5225,0,1,74.9
+Ecuador,2010,6.22109413,South America,5324,0,1,75.1
+Ecuador,2011,6.580935,South America,5655,0,1,75.3
+Ecuador,2012,6.86373377,South America,5885,0,1,75.5
+Ecuador,2013,6.88127422,South America,6084,0,1,75.7
+Ecuador,2014,6.83199883,South America,6218,0,1,75.9
+Ecuador,2015,7.60513353,South America,6124,0,1,76.1
+"Egypt, Arab Rep.",2000,4.92244291,Africa,2610,0,1,68.6
+"Egypt, Arab Rep.",2001,5.40030336,Africa,2652,0,1,68.8
+"Egypt, Arab Rep.",2002,5.5107379,Africa,2665,0,1,69.0
+"Egypt, Arab Rep.",2003,5.2242527,Africa,2699,0,1,69.1
+"Egypt, Arab Rep.",2004,4.85732365,Africa,2759,0,1,69.3
+"Egypt, Arab Rep.",2005,4.92229176,Africa,2830,0,1,69.4
+"Egypt, Arab Rep.",2006,4.84190083,Africa,2971,0,1,69.6
+"Egypt, Arab Rep.",2007,4.44493246,Africa,3126,0,1,69.8
+"Egypt, Arab Rep.",2008,4.46634817,Africa,3291,0,1,70.0
+"Egypt, Arab Rep.",2009,4.37870932,Africa,3381,0,1,70.2
+"Egypt, Arab Rep.",2010,4.15319157,Africa,3485,0,1,70.3
+"Egypt, Arab Rep.",2011,4.35707569,Africa,3473,0,1,70.5
+"Egypt, Arab Rep.",2012,4.45891809,Africa,3472,0,1,70.7
+"Egypt, Arab Rep.",2013,4.6710043,Africa,3468,0,1,70.9
+"Egypt, Arab Rep.",2014,4.77415323,Africa,3490,0,1,71.1
+"Egypt, Arab Rep.",2015,5.06153202,Africa,3563,0,1,71.3
+El Salvador,2000,7.84342813,Central America and Caribbean,2993,0,1,68.9
+El Salvador,2001,7.88604879,Central America and Caribbean,2999,0,1,69.2
+El Salvador,2002,7.88565731,Central America and Caribbean,3029,0,1,69.4
+El Salvador,2003,7.77182293,Central America and Caribbean,3060,0,1,69.7
+El Salvador,2004,8.1302166,Central America and Caribbean,3072,0,1,69.9
+El Salvador,2005,9.20057869,Central America and Caribbean,3140,0,1,70.1
+El Salvador,2006,8.69338894,Central America and Caribbean,3262,0,1,70.3
+El Salvador,2007,8.47836304,Central America and Caribbean,3308,0,1,70.5
+El Salvador,2008,8.49585915,Central America and Caribbean,3364,0,1,70.8
+El Salvador,2009,8.83749676,Central America and Caribbean,3280,0,1,71.0
+El Salvador,2010,8.90416241,Central America and Caribbean,3335,0,1,71.2
+El Salvador,2011,8.87645435,Central America and Caribbean,3447,0,1,71.4
+El Salvador,2012,8.60625362,Central America and Caribbean,3529,0,1,71.7
+El Salvador,2013,9.05235958,Central America and Caribbean,3591,0,1,71.9
+El Salvador,2014,8.5989418,Central America and Caribbean,3636,0,1,72.2
+El Salvador,2015,8.75833225,Central America and Caribbean,3706,0,1,72.4
+Equatorial Guinea,2000,1.10720015,Africa,4454,0,1,53.3
+Equatorial Guinea,2001,1.20301282,Africa,6983,0,1,53.6
+Equatorial Guinea,2002,2.74982452,Africa,8004,0,1,53.8
+Equatorial Guinea,2003,1.82749987,Africa,8745,0,1,54.1
+Equatorial Guinea,2004,1.45293343,Africa,11559,0,1,54.3
+Equatorial Guinea,2005,1.29643106,Africa,12908,0,1,54.4
+Equatorial Guinea,2006,1.29171956,Africa,13283,0,1,54.6
+Equatorial Guinea,2007,1.30166054,Africa,14620,0,1,54.8
+Equatorial Guinea,2008,1.11555648,Africa,16439,0,1,55.1
+Equatorial Guinea,2009,1.76790214,Africa,15906,0,1,55.3
+Equatorial Guinea,2010,1.62134683,Africa,13841,0,1,55.6
+Equatorial Guinea,2011,1.42923808,Africa,14099,0,1,55.9
+Equatorial Guinea,2012,1.51459265,Africa,14614,0,1,56.3
+Equatorial Guinea,2013,1.64174569,Africa,13422,0,1,56.6
+Equatorial Guinea,2014,1.75401485,Africa,12927,0,1,57.0
+Equatorial Guinea,2015,2.34058356,Africa,11283,0,1,57.4
+Eritrea,2000,5.76670074,Africa,828,0,1,55.3
+Eritrea,2001,5.91931677,Africa,870,0,1,55.9
+Eritrea,2002,6.68857431,Africa,857,0,1,56.5
+Eritrea,2003,7.33703375,Africa,796,0,1,57.2
+Eritrea,2004,7.00984955,Africa,772,0,1,57.9
+Eritrea,2005,6.8641758,Africa,762,0,1,58.7
+Eritrea,2006,6.85727453,Africa,731,0,1,59.5
+Eritrea,2007,5.2786293,Africa,722,0,1,60.2
+Eritrea,2008,6.415205,Africa,638,0,1,61.0
+Eritrea,2009,5.38878489,Africa,650,0,1,61.6
+Eritrea,2010,4.83844233,Africa,654,0,1,62.2
+Eritrea,2011,5.16795397,Africa,701,0,1,62.7
+Eritrea,2012,3.7449646,Africa,699,0,1,63.2
+Eritrea,2013,4.97097206,Africa,761,0,1,63.7
+Eritrea,2014,4.02524328,Africa,828,0,1,64.2
+Eritrea,2015,4.45034695,Africa,9011,0,1,64.7
+Estonia,2000,5.17029095,European Union,9960,1,0,70.4
+Estonia,2001,4.78060246,European Union,10626,1,0,70.3
+Estonia,2002,4.70329475,European Union,11417,1,0,70.9
+Estonia,2003,5.13883257,European Union,12362,1,0,71.3
+Estonia,2004,5.33758926,European Union,13283,1,0,71.9
+Estonia,2005,5.29536057,European Union,14631,1,0,72.6
+Estonia,2006,4.97390509,European Union,16155,1,0,72.7
+Estonia,2007,5.18455648,European Union,17459,1,0,72.8
+Estonia,2008,5.95724869,European Union,16608,1,0,73.8
+Estonia,2009,6.84477043,European Union,14205,1,0,74.8
+Estonia,2010,6.59433842,European Union,14586,1,0,75.4
+Estonia,2011,6.0781703,European Union,15693,1,0,76.2
+Estonia,2012,6.09506845,European Union,16257,1,0,76.3
+Estonia,2013,6.28062296,European Union,16553,1,0,77.1
+Estonia,2014,6.36199903,European Union,17097,1,0,77.0
+Estonia,2015,6.64135027,European Union,17402,1,0,77.6
+Eswatini,2000,4.60951757,Africa,2472,0,1,47.5
+Eswatini,2001,5.13895369,Africa,2477,0,1,45.8
+Eswatini,2002,5.52298307,Africa,2572,0,1,44.4
+Eswatini,2003,6.37864399,Africa,2662,0,1,43.4
+Eswatini,2004,6.81432486,Africa,2749,0,1,42.7
+Eswatini,2005,7.37623358,Africa,2902,0,1,42.5
+Eswatini,2006,7.82560062,Africa,3060,0,1,42.7
+Eswatini,2007,7.93004131,Africa,3175,0,1,43.3
+Eswatini,2008,8.85792923,Africa,3179,0,1,44.2
+Eswatini,2009,8.63292217,Africa,3206,0,1,45.3
+Eswatini,2010,8.5912571,Africa,3304,0,1,46.6
+Eswatini,2011,8.46997261,Africa,3356,0,1,48.1
+Eswatini,2012,7.82047606,Africa,3513,0,1,49.9
+Eswatini,2013,7.45703411,Africa,3624,0,1,51.7
+Eswatini,2014,7.25596571,Africa,3630,0,1,53.6
+Eswatini,2015,7.05855274,Africa,3680,0,1,55.4
+Ethiopia,2000,4.36504698,Africa,262,0,1,51.9
+Ethiopia,2001,4.72316694,Africa,276,0,1,52.6
+Ethiopia,2002,4.7126298,Africa,272,0,1,53.3
+Ethiopia,2003,4.89970922,Africa,259,0,1,54.2
+Ethiopia,2004,4.31281853,Africa,286,0,1,55.2
+Ethiopia,2005,4.10098124,Africa,310,0,1,56.2
+Ethiopia,2006,4.45757294,Africa,335,0,1,57.3
+Ethiopia,2007,5.00128317,Africa,363,0,1,58.5
+Ethiopia,2008,4.28063869,Africa,391,0,1,59.6
+Ethiopia,2009,4.64983416,Africa,414,0,1,60.6
+Ethiopia,2010,5.46637249,Africa,453,0,1,61.6
+Ethiopia,2011,4.46897745,Africa,490,0,1,62.5
+Ethiopia,2012,4.5395956,Africa,518,0,1,63.3
+Ethiopia,2013,4.07506514,Africa,556,0,1,64.0
+Ethiopia,2014,4.03365517,Africa,596,0,1,64.5
+Ethiopia,2015,3.82316828,Africa,641,0,1,65.0
+Fiji,2000,3.42441177,Oceania,4107,0,1,65.7
+Fiji,2001,2.90547299,Oceania,4174,0,1,65.9
+Fiji,2002,2.98349524,Oceania,4301,0,1,66.0
+Fiji,2003,2.97298193,Oceania,4339,0,1,66.2
+Fiji,2004,3.25768542,Oceania,4559,0,1,66.2
+Fiji,2005,3.25656676,Oceania,4570,0,1,66.3
+Fiji,2006,3.34798193,Oceania,4620,0,1,66.4
+Fiji,2007,3.41514993,Oceania,4535,0,1,66.4
+Fiji,2008,3.18467116,Oceania,4532,0,1,66.5
+Fiji,2009,3.53587627,Oceania,4426,0,1,66.6
+Fiji,2010,3.41664124,Oceania,4524,0,1,66.7
+Fiji,2011,3.14293504,Oceania,4627,0,1,66.8
+Fiji,2012,3.2655499,Oceania,4683,0,1,66.9
+Fiji,2013,3.20040679,Oceania,4902,0,1,67.0
+Fiji,2014,3.36860466,Oceania,5172,0,1,67.0
+Fiji,2015,3.32468939,Oceania,5391,0,1,67.1
+Finland,2000,7.09,European Union,37884,1,0,77.5
+Finland,2001,7.25,European Union,38785,1,0,78.0
+Finland,2002,7.63,European Union,39351,1,0,78.1
+Finland,2003,7.94,European Union,40044,1,0,78.4
+Finland,2004,8.06,European Union,41522,1,0,78.7
+Finland,2005,8.29,European Union,42531,1,0,78.8
+Finland,2006,8.28,European Union,44074,1,0,79.2
+Finland,2007,8.08,European Union,46213,1,0,79.3
+Finland,2008,8.34,European Union,46359,1,0,79.6
+Finland,2009,9.16,European Union,42412,1,0,79.7
+Finland,2010,9.14,European Union,43564,1,0,79.9
+Finland,2011,9.22,European Union,44467,1,0,80.5
+Finland,2012,9.59,European Union,43637,1,0,80.6
+Finland,2013,9.81,European Union,43045,1,0,81.0
+Finland,2014,9.78,European Union,42711,1,0,81.2
+Finland,2015,9.65,European Union,42802,1,0,81.5
+France,2000,9.58447742,European Union,33597,1,0,79.1
+France,2001,9.7056284,European Union,34015,1,0,79.2
+France,2002,10.02218628,European Union,34152,1,0,79.3
+France,2003,10.08283424,European Union,34190,1,0,79.1
+France,2004,10.16429329,European Union,34900,1,0,80.2
+France,2005,10.2148447,European Union,35214,1,0,80.2
+France,2006,10.38566494,European Union,35826,1,0,80.8
+France,2007,10.31564426,European Union,36468,1,0,81.1
+France,2008,10.50084686,European Union,36357,1,0,81.2
+France,2009,11.28756237,European Union,35131,1,0,81.4
+France,2010,11.22560215,European Union,35640,1,0,81.7
+France,2011,11.18497562,European Union,36246,1,0,82.1
+France,2012,11.29740047,European Union,36183,1,0,82.0
+France,2013,11.39603043,European Union,36205,1,0,82.2
+France,2014,11.53937244,European Union,36379,1,0,82.7
+France,2015,11.44817352,European Union,36653,1,0,82.3
+Gabon,2000,2.90186048,Africa,7888,0,1,58.3
+Gabon,2001,3.14902449,Africa,7867,0,1,58.0
+Gabon,2002,3.3248477,Africa,7662,0,1,57.8
+Gabon,2003,3.53258252,Africa,7647,0,1,57.8
+Gabon,2004,3.33045959,Africa,7507,0,1,57.9
+Gabon,2005,2.9324131,Africa,7504,0,1,58.2
+Gabon,2006,3.14333963,Africa,7092,0,1,58.6
+Gabon,2007,3.16288781,Africa,7301,0,1,59.2
+Gabon,2008,2.78980231,Africa,6846,0,1,59.9
+Gabon,2009,3.83571577,Africa,6635,0,1,60.6
+Gabon,2010,2.47556901,Africa,6864,0,1,61.4
+Gabon,2011,2.55771565,Africa,7086,0,1,62.2
+Gabon,2012,2.42097569,Africa,7181,0,1,62.9
+Gabon,2013,2.84087205,Africa,7305,0,1,63.6
+Gabon,2014,2.53282261,Africa,7350,0,1,64.3
+Gabon,2015,2.65743947,Africa,7385,0,1,64.9
+"Gambia, The",2000,6.65441465,Africa,729,0,1,56.0
+"Gambia, The",2001,5.63960838,Africa,747,0,1,56.4
+"Gambia, The",2002,6.27723551,Africa,700,0,1,56.8
+"Gambia, The",2003,5.32621098,Africa,724,0,1,57.2
+"Gambia, The",2004,5.42000151,Africa,751,0,1,57.6
+"Gambia, The",2005,5.38602448,Africa,711,0,1,57.9
+"Gambia, The",2006,5.43720865,Africa,686,0,1,58.3
+"Gambia, The",2007,4.95501947,Africa,686,0,1,58.7
+"Gambia, The",2008,4.65938807,Africa,708,0,1,59.0
+"Gambia, The",2009,4.46430683,Africa,733,0,1,59.3
+"Gambia, The",2010,4.11944056,Africa,753,0,1,59.6
+"Gambia, The",2011,4.36967373,Africa,671,0,1,59.9
+"Gambia, The",2012,4.26872253,Africa,685,0,1,60.2
+"Gambia, The",2013,3.91374874,Africa,684,0,1,60.4
+"Gambia, The",2014,3.05234575,Africa,654,0,1,60.7
+"Gambia, The",2015,3.1761291,Africa,661,0,1,60.9
+Georgia,2000,7.19,Rest of Europe,1567,0,1,69.9
+Georgia,2001,7.17,Rest of Europe,1668,0,1,70.1
+Georgia,2002,7.81,Rest of Europe,1775,0,1,70.2
+Georgia,2003,8.03,Rest of Europe,1984,0,1,70.3
+Georgia,2004,8.09,Rest of Europe,2112,0,1,70.5
+Georgia,2005,8.08,Rest of Europe,2330,0,1,70.5
+Georgia,2006,7.63,Rest of Europe,2564,0,1,70.6
+Georgia,2007,7.44,Rest of Europe,2901,0,1,70.8
+Georgia,2008,8.44,Rest of Europe,2980,0,1,70.9
+Georgia,2009,9.57,Rest of Europe,2897,0,1,71.2
+Georgia,2010,9.07,Rest of Europe,3101,0,1,71.5
+Georgia,2011,8.01,Rest of Europe,3357,0,1,71.8
+Georgia,2012,8.05,Rest of Europe,3597,0,1,72.1
+Georgia,2013,7.88,Rest of Europe,3739,0,1,72.4
+Georgia,2014,7.9,Rest of Europe,3903,0,1,72.7
+Georgia,2015,7.42,Rest of Europe,4014,0,1,73.0
+Germany,2000,9.88843536,European Union,34490,1,0,77.9
+Germany,2001,9.92069149,European Union,35011,1,0,78.3
+Germany,2002,10.18365669,European Union,34883,1,0,78.2
+Germany,2003,10.40202236,European Union,34620,1,0,78.4
+Germany,2004,10.14603233,European Union,35034,1,0,78.7
+Germany,2005,10.31153965,European Union,35310,1,0,78.9
+Germany,2006,10.17995167,European Union,36699,1,0,79.1
+Germany,2007,10.05132961,European Union,37842,1,0,79.5
+Germany,2008,10.25128746,European Union,38278,1,0,79.7
+Germany,2009,11.23791218,European Union,36190,1,0,79.8
+Germany,2010,11.09592915,European Union,37761,1,0,80.0
+Germany,2011,10.77844906,European Union,39977,1,0,80.4
+Germany,2012,10.85345554,European Union,40069,1,0,80.5
+Germany,2013,10.99905777,European Union,40135,1,0,80.5
+Germany,2014,11.02588272,European Union,40851,1,0,81.1
+Germany,2015,11.19047737,European Union,41103,1,0,80.6
+Ghana,2000,2.790447,Africa,1041,0,1,57.0
+Ghana,2001,3.17077661,Africa,1056,0,1,57.2
+Ghana,2002,2.88721824,Africa,1077,0,1,57.4
+Ghana,2003,2.82690215,Africa,1105,0,1,57.8
+Ghana,2004,2.76365352,Africa,1139,0,1,58.2
+Ghana,2005,3.63137388,Africa,1176,0,1,58.7
+Ghana,2006,3.67091465,Africa,1220,0,1,59.2
+Ghana,2007,3.80248857,Africa,1240,0,1,59.7
+Ghana,2008,3.87511325,Africa,1319,0,1,60.2
+Ghana,2009,4.37879181,Africa,1348,0,1,60.6
+Ghana,2010,4.22398996,Africa,1419,0,1,61.0
+Ghana,2011,4.69264126,Africa,1580,0,1,61.4
+Ghana,2012,4.00799608,Africa,1686,0,1,61.7
+Ghana,2013,4.59225416,Africa,1768,0,1,62.1
+Ghana,2014,4.01644135,Africa,1777,0,1,62.4
+Ghana,2015,4.5429678,Africa,1774,0,1,62.8
+Greece,2000,7.24332523,European Union,18643,1,0,77.9
+Greece,2001,7.9878397,European Union,19312,1,0,78.4
+Greece,2002,8.23377991,European Union,19997,1,0,78.6
+Greece,2003,8.44915581,European Union,21105,1,0,78.8
+Greece,2004,8.0939045,European Union,22118,1,0,79.0
+Greece,2005,8.56466961,European Union,22186,1,0,79.2
+Greece,2006,8.25866985,European Union,23369,1,0,79.4
+Greece,2007,8.39808273,European Union,24073,1,0,79.4
+Greece,2008,8.82774162,European Union,23929,1,0,79.9
+Greece,2009,9.40688515,European Union,22839,1,0,80.2
+Greece,2010,9.59662342,European Union,21560,1,0,80.4
+Greece,2011,9.19330311,European Union,19401,1,0,80.7
+Greece,2012,8.92415524,European Union,18124,1,0,80.6
+Greece,2013,8.43796444,European Union,17796,1,0,81.3
+Greece,2014,7.89141178,European Union,18000,1,0,81.4
+Greece,2015,8.22004509,European Union,18084,1,0,81.0
+Grenada,2000,5.35886383,Central America and Caribbean,6977,0,1,72.6
+Grenada,2001,5.62456989,Central America and Caribbean,6809,0,1,72.8
+Grenada,2002,6.17569733,Central America and Caribbean,7016,0,1,72.9
+Grenada,2003,5.28485727,Central America and Caribbean,7653,0,1,73.0
+Grenada,2004,5.36568451,Central America and Caribbean,7578,0,1,73.1
+Grenada,2005,5.14460278,Central America and Caribbean,8559,0,1,73.1
+Grenada,2006,5.11352158,Central America and Caribbean,8195,0,1,73.1
+Grenada,2007,5.23867893,Central America and Caribbean,8677,0,1,73.1
+Grenada,2008,5.386199,Central America and Caribbean,8736,0,1,73.0
+Grenada,2009,5.43471003,Central America and Caribbean,8133,0,1,73.0
+Grenada,2010,5.4188118,Central America and Caribbean,8058,0,1,72.9
+Grenada,2011,5.80423355,Central America and Caribbean,8077,0,1,72.8
+Grenada,2012,5.82235765,Central America and Caribbean,7934,0,1,72.7
+Grenada,2013,5.62652922,Central America and Caribbean,8067,0,1,72.6
+Grenada,2014,4.77353573,Central America and Caribbean,8601,0,1,72.5
+Grenada,2015,4.64675617,Central America and Caribbean,9097,0,1,72.4
+Guatemala,2000,5.39686108,Central America and Caribbean,3195,0,1,67.8
+Guatemala,2001,6.07023716,Central America and Caribbean,3192,0,1,68.3
+Guatemala,2002,6.01301289,Central America and Caribbean,3240,0,1,68.7
+Guatemala,2003,6.15306854,Central America and Caribbean,3251,0,1,69.1
+Guatemala,2004,6.26182795,Central America and Caribbean,3282,0,1,69.4
+Guatemala,2005,6.14826393,Central America and Caribbean,3320,0,1,69.8
+Guatemala,2006,6.36362219,Central America and Caribbean,3428,0,1,70.1
+Guatemala,2007,6.1918335,Central America and Caribbean,3574,0,1,70.4
+Guatemala,2008,6.08129978,Central America and Caribbean,3621,0,1,70.8
+Guatemala,2009,6.33938646,Central America and Caribbean,3570,0,1,71.1
+Guatemala,2010,6.1247797,Central America and Caribbean,3606,0,1,71.5
+Guatemala,2011,5.96306896,Central America and Caribbean,3689,0,1,71.9
+Guatemala,2012,6.07316971,Central America and Caribbean,3732,0,1,72.2
+Guatemala,2013,5.77188921,Central America and Caribbean,3802,0,1,72.6
+Guatemala,2014,5.8885684,Central America and Caribbean,3903,0,1,72.9
+Guatemala,2015,6.00602007,Central America and Caribbean,3995,0,1,73.3
+Guinea,2000,4.74825478,Africa,628,0,1,51.2
+Guinea,2001,4.89139318,Africa,637,0,1,51.3
+Guinea,2002,5.36402321,Africa,657,0,1,51.5
+Guinea,2003,4.78055525,Africa,653,0,1,51.9
+Guinea,2004,4.78467607,Africa,655,0,1,52.5
+Guinea,2005,4.04512262,Africa,661,0,1,53.2
+Guinea,2006,3.61521959,Africa,655,0,1,54.1
+Guinea,2007,3.46627593,Africa,684,0,1,54.9
+Guinea,2008,3.26562262,Africa,696,0,1,55.6
+Guinea,2009,3.58147597,Africa,673,0,1,56.3
+Guinea,2010,3.42782617,Africa,689,0,1,56.9
+Guinea,2011,3.78955102,Africa,712,0,1,57.4
+Guinea,2012,3.50398517,Africa,738,0,1,57.9
+Guinea,2013,3.46108699,Africa,750,0,1,58.4
+Guinea,2014,4.787992,Africa,760,0,1,59.0
+Guinea,2015,5.80919266,Africa,769,0,1,59.6
+Guinea-Bissau,2000,4.18953228,Africa,577,0,1,50.4
+Guinea-Bissau,2001,4.53104782,Africa,578,0,1,50.7
+Guinea-Bissau,2002,3.96902514,Africa,560,0,1,51.1
+Guinea-Bissau,2003,3.53315258,Africa,550,0,1,51.5
+Guinea-Bissau,2004,4.27734661,Africa,552,0,1,51.9
+Guinea-Bissau,2005,4.5516243,Africa,562,0,1,52.3
+Guinea-Bissau,2006,5.0809288,Africa,562,0,1,52.7
+Guinea-Bissau,2007,5.03941393,Africa,566,0,1,53.1
+Guinea-Bissau,2008,5.45864058,Africa,570,0,1,53.6
+Guinea-Bissau,2009,4.73428679,Africa,574,0,1,54.1
+Guinea-Bissau,2010,5.26704073,Africa,586,0,1,54.6
+Guinea-Bissau,2011,6.21634817,Africa,617,0,1,55.1
+Guinea-Bissau,2012,5.94134808,Africa,590,0,1,55.6
+Guinea-Bissau,2013,7.03943443,Africa,593,0,1,56.1
+Guinea-Bissau,2014,9.96897411,Africa,584,0,1,56.6
+Guinea-Bissau,2015,8.13228226,Africa,603,0,1,57.0
+Guyana,2000,3.18737936,South America,3851,0,1,65.2
+Guyana,2001,3.05506778,South America,3947,0,1,65.5
+Guyana,2002,3.19353795,South America,3994,0,1,65.8
+Guyana,2003,3.26884198,South America,3966,0,1,66.1
+Guyana,2004,3.43770432,South America,4025,0,1,66.4
+Guyana,2005,3.79409742,South America,3944,0,1,66.7
+Guyana,2006,3.93144464,South America,4146,0,1,67.0
+Guyana,2007,4.28126192,South America,4443,0,1,67.2
+Guyana,2008,4.20242214,South America,4512,0,1,67.5
+Guyana,2009,4.35117149,South America,4682,0,1,67.8
+Guyana,2010,4.21897697,South America,4847,0,1,68.1
+Guyana,2011,4.17213488,South America,5089,0,1,68.3
+Guyana,2012,3.7081871,South America,5339,0,1,68.6
+Guyana,2013,3.80231309,South America,5505,0,1,68.8
+Guyana,2014,3.94755435,South America,5568,0,1,69.0
+Guyana,2015,4.02264786,South America,5577,0,1,69.3
+Haiti,2000,3.99165702,Central America and Caribbean,1316,0,1,57.1
+Haiti,2001,3.7502923,Central America and Caribbean,1289,0,1,57.4
+Haiti,2002,3.43250132,Central America and Caribbean,1281,0,1,57.7
+Haiti,2003,3.53695321,Central America and Caribbean,1304,0,1,58.0
+Haiti,2004,3.42928433,Central America and Caribbean,1266,0,1,58.3
+Haiti,2005,3.30554652,Central America and Caribbean,1284,0,1,58.7
+Haiti,2006,3.48013902,Central America and Caribbean,1286,0,1,59.0
+Haiti,2007,3.64734101,Central America and Caribbean,1325,0,1,59.4
+Haiti,2008,3.75722051,Central America and Caribbean,1339,0,1,59.8
+Haiti,2009,3.50277376,Central America and Caribbean,1396,0,1,60.1
+Haiti,2010,4.54871035,Central America and Caribbean,1297,0,1,60.5
+Haiti,2011,5.91197777,Central America and Caribbean,1343,0,1,60.9
+Haiti,2012,5.56462336,Central America and Caribbean,1329,0,1,61.3
+Haiti,2013,4.10524035,Central America and Caribbean,1367,0,1,61.7
+Haiti,2014,4.52035809,Central America and Caribbean,1371,0,1,62.1
+Haiti,2015,5.07518148,Central America and Caribbean,1387,0,1,62.5
+Honduras,2000,6.26817989,Central America and Caribbean,1790,0,1,70.7
+Honduras,2001,5.92998314,Central America and Caribbean,1791,0,1,71.0
+Honduras,2002,6.2445755,Central America and Caribbean,1810,0,1,71.2
+Honduras,2003,6.89004707,Central America and Caribbean,1846,0,1,71.5
+Honduras,2004,6.85484362,Central America and Caribbean,1913,0,1,71.8
+Honduras,2005,7.50086403,Central America and Caribbean,1981,0,1,72.0
+Honduras,2006,7.86318684,Central America and Caribbean,2063,0,1,72.3
+Honduras,2007,8.08494949,Central America and Caribbean,2141,0,1,72.5
+Honduras,2008,8.60362625,Central America and Caribbean,2184,0,1,72.8
+Honduras,2009,8.99592495,Central America and Caribbean,2086,0,1,73.1
+Honduras,2010,8.72536373,Central America and Caribbean,2121,0,1,73.3
+Honduras,2011,8.79187012,Central America and Caribbean,2160,0,1,73.6
+Honduras,2012,8.65655136,Central America and Caribbean,2207,0,1,73.8
+Honduras,2013,8.47723007,Central America and Caribbean,2228,0,1,74.1
+Honduras,2014,7.91455746,Central America and Caribbean,2256,0,1,74.3
+Honduras,2015,7.4837904,Central America and Caribbean,2302,0,1,74.5
+Hungary,2000,6.78,European Union,8971,1,0,71.2
+Hungary,2001,6.83,European Union,9357,1,0,72.2
+Hungary,2002,7.12,European Union,9829,1,0,72.3
+Hungary,2003,8.12,European Union,10260,1,0,72.3
+Hungary,2004,7.76,European Union,10797,1,0,72.6
+Hungary,2005,7.98,European Union,11283,1,0,72.6
+Hungary,2006,7.78,European Union,11747,1,0,73.1
+Hungary,2007,7.2,European Union,11797,1,0,73.2
+Hungary,2008,7.09,European Union,11937,1,0,73.7
+Hungary,2009,7.22,European Union,11167,1,0,73.9
+Hungary,2010,7.45,European Union,11314,1,0,74.2
+Hungary,2011,7.48,European Union,11557,1,0,74.9
+Hungary,2012,7.41,European Union,11470,1,0,75.1
+Hungary,2013,7.23,European Union,11710,1,0,75.6
+Hungary,2014,7.05,European Union,12237,1,0,75.8
+Hungary,2015,6.85,European Union,12721,1,0,75.6
+Iceland,2000,8.9,Rest of Europe,42175,1,0,79.7
+Iceland,2001,8.75,Rest of Europe,43288,1,0,80.7
+Iceland,2002,9.4,Rest of Europe,43143,1,0,80.5
+Iceland,2003,9.73,Rest of Europe,43764,1,0,81.0
+Iceland,2004,9.33,Rest of Europe,46766,1,0,81.0
+Iceland,2005,8.95,Rest of Europe,48851,1,0,81.5
+Iceland,2006,8.56,Rest of Europe,50732,1,0,81.2
+Iceland,2007,8.35,Rest of Europe,53646,1,0,81.5
+Iceland,2008,8.34,Rest of Europe,53821,1,0,81.6
+Iceland,2009,8.78,Rest of Europe,49527,1,0,81.8
+Iceland,2010,8.36,Rest of Europe,48194,1,0,81.9
+Iceland,2011,8.2,Rest of Europe,48934,1,0,82.4
+Iceland,2012,8.18,Rest of Europe,49192,1,0,82.9
+Iceland,2013,8.18,Rest of Europe,50947,1,0,82.1
+Iceland,2014,8.23,Rest of Europe,51233,1,0,82.9
+Iceland,2015,8.07,Rest of Europe,52952,1,0,82.5
+India,2000,4.03,Asia,758,0,1,62.5
+India,2001,4.26,Asia,781,0,1,62.9
+India,2002,4.24,Asia,797,0,1,63.3
+India,2003,4.01,Asia,845,0,1,63.7
+India,2004,3.96,Asia,898,0,1,64.1
+India,2005,3.79,Asia,954,0,1,64.5
+India,2006,3.63,Asia,1015,0,1,64.9
+India,2007,3.52,Asia,1076,0,1,65.4
+India,2008,3.51,Asia,1093,0,1,65.8
+India,2009,3.49,Asia,1162,0,1,66.2
+India,2010,3.27,Asia,1244,0,1,66.7
+India,2011,3.25,Asia,1293,0,1,67.1
+India,2012,3.33,Asia,1347,0,1,67.5
+India,2013,3.75,Asia,1416,0,1,67.9
+India,2014,3.62,Asia,1503,0,1,68.3
+India,2015,3.6,Asia,1606,0,1,68.6
+Indonesia,2000,1.85297656,Asia,1868,0,1,65.8
+Indonesia,2001,2.11850214,Asia,1909,0,1,66.0
+Indonesia,2002,1.98062706,Asia,1968,0,1,66.3
+Indonesia,2003,2.24837184,Asia,2035,0,1,66.6
+Indonesia,2004,2.12002277,Asia,2109,0,1,67.0
+Indonesia,2005,2.53189397,Asia,2199,0,1,67.3
+Indonesia,2006,2.61946416,Asia,2289,0,1,67.7
+Indonesia,2007,2.82385564,Asia,2403,0,1,68.1
+Indonesia,2008,2.54842305,Asia,2514,0,1,68.5
+Indonesia,2009,2.62324095,Asia,2595,0,1,68.9
+Indonesia,2010,2.7908783,Asia,2720,0,1,69.2
+Indonesia,2011,2.98942471,Asia,2849,0,1,69.5
+Indonesia,2012,2.91427088,Asia,2981,0,1,69.9
+Indonesia,2013,2.86934805,Asia,3104,0,1,70.2
+Indonesia,2014,2.96433568,Asia,3217,0,1,70.5
+Indonesia,2015,2.92428517,Asia,3332,0,1,70.8
+"Iran, Islamic Rep.",2000,4.72250843,Middle East,3923,0,1,70.2
+"Iran, Islamic Rep.",2001,5.16087341,Middle East,3967,0,1,70.6
+"Iran, Islamic Rep.",2002,4.65182209,Middle East,4234,0,1,70.9
+"Iran, Islamic Rep.",2003,4.95589161,Middle East,4543,0,1,71.3
+"Iran, Islamic Rep.",2004,5.12801409,Middle East,4683,0,1,71.6
+"Iran, Islamic Rep.",2005,5.29996157,Middle East,4777,0,1,71.9
+"Iran, Islamic Rep.",2006,5.15990877,Middle East,4959,0,1,72.3
+"Iran, Islamic Rep.",2007,4.91188192,Middle East,5305,0,1,72.6
+"Iran, Islamic Rep.",2008,5.03990459,Middle East,5260,0,1,73.0
+"Iran, Islamic Rep.",2009,6.11493444,Middle East,5255,0,1,73.5
+"Iran, Islamic Rep.",2010,6.29153061,Middle East,5496,0,1,73.9
+"Iran, Islamic Rep.",2011,6.09787989,Middle East,5576,0,1,74.4
+"Iran, Islamic Rep.",2012,6.12235117,Middle East,5302,0,1,74.8
+"Iran, Islamic Rep.",2013,5.54722023,Middle East,5157,0,1,75.2
+"Iran, Islamic Rep.",2014,6.35239553,Middle East,5346,0,1,75.5
+"Iran, Islamic Rep.",2015,7.53311825,Middle East,5201,0,1,75.8
+Iraq,2003,2.99693584,Middle East,2352,0,1,68.6
+Iraq,2004,3.90128636,Middle East,3515,0,1,68.4
+Iraq,2005,3.01704645,Middle East,3493,0,1,68.3
+Iraq,2006,2.49370432,Middle East,3620,0,1,68.2
+Iraq,2007,3.2148056,Middle East,3627,0,1,68.1
+Iraq,2008,3.06604242,Middle East,3860,0,1,68.2
+Iraq,2009,3.77203989,Middle East,3909,0,1,68.3
+Iraq,2010,3.23955345,Middle East,4052,0,1,68.6
+Iraq,2011,2.80316377,Middle East,4218,0,1,68.8
+Iraq,2012,2.69365859,Middle East,4631,0,1,69.1
+Iraq,2013,2.80868459,Middle East,4794,0,1,69.4
+Iraq,2014,2.78786659,Middle East,4628,0,1,69.7
+Iraq,2015,3.15587044,Middle East,4688,0,1,69.9
+Ireland,2000,5.89902735,European Union,41623,1,0,76.5
+Ireland,2001,6.3924942,European Union,43139,1,0,77.1
+Ireland,2002,6.67263079,European Union,44919,1,0,77.6
+Ireland,2003,7.00761366,European Union,45523,1,0,78.1
+Ireland,2004,7.21972942,European Union,47731,1,0,78.5
+Ireland,2005,7.64242792,European Union,49382,1,0,78.9
+Ireland,2006,7.516469,European Union,50462,1,0,79.2
+Ireland,2007,7.80773783,European Union,51625,1,0,79.6
+Ireland,2008,9.12564754,European Union,48314,1,0,80.1
+Ireland,2009,10.52275658,European Union,45386,1,0,80.2
+Ireland,2010,10.52404499,European Union,45932,1,0,80.7
+Ireland,2011,10.60614967,European Union,46221,1,0,80.7
+Ireland,2012,10.59787655,European Union,46001,1,0,80.8
+Ireland,2013,10.27730751,European Union,46339,1,0,80.9
+Ireland,2014,9.51343918,European Union,50010,1,0,81.3
+Ireland,2015,7.33597517,European Union,62012,1,0,81.5
+Israel,2000,6.62,Middle East,28748,1,0,79.0
+Israel,2001,7.02,Middle East,28107,1,0,79.4
+Israel,2002,6.92,Middle East,27493,1,0,79.5
+Israel,2003,6.86,Middle East,27311,1,0,79.6
+Israel,2004,6.8,Middle East,28151,1,0,80.1
+Israel,2005,6.9,Middle East,28810,1,0,80.2
+Israel,2006,6.71,Middle East,29940,1,0,80.6
+Israel,2007,6.7,Middle East,31208,1,0,80.5
+Israel,2008,6.83,Middle East,31718,1,0,81.0
+Israel,2009,6.92,Middle East,31323,1,0,81.4
+Israel,2010,6.89,Middle East,32505,1,0,81.6
+Israel,2011,6.84,Middle East,33678,1,0,81.7
+Israel,2012,6.98,Middle East,33995,1,0,81.7
+Israel,2013,6.96,Middle East,34961,1,0,82.1
+Israel,2014,7.05,Middle East,35711,1,0,82.2
+Israel,2015,7.02,Middle East,35808,1,0,82.1
+Italy,2000,7.57,European Union,32351,1,0,79.8
+Italy,2001,7.74,European Union,32964,1,0,80.1
+Italy,2002,7.87,European Union,32998,1,0,80.2
+Italy,2003,7.83,European Union,32897,1,0,80.0
+Italy,2004,8.17,European Union,33150,1,0,80.8
+Italy,2005,8.34,European Union,33258,1,0,80.8
+Italy,2006,8.44,European Union,33752,1,0,81.3
+Italy,2007,8.14,European Union,34081,1,0,81.4
+Italy,2008,8.53,European Union,33530,1,0,81.5
+Italy,2009,8.95,European Union,31615,1,0,81.6
+Italy,2010,8.92,European Union,32058,1,0,82.0
+Italy,2011,8.77,European Union,32229,1,0,82.2
+Italy,2012,8.78,European Union,31185,1,0,82.2
+Italy,2013,8.78,European Union,30258,1,0,82.7
+Italy,2014,8.87,European Union,29980,1,0,83.1
+Italy,2015,8.86,European Union,30242,1,0,82.5
+Jamaica,2000,5.64462519,Central America and Caribbean,4841,0,1,74.1
+Jamaica,2001,5.15652943,Central America and Caribbean,4870,0,1,74.1
+Jamaica,2002,4.74544334,Central America and Caribbean,4934,0,1,74.1
+Jamaica,2003,4.22014141,Central America and Caribbean,5083,0,1,74.1
+Jamaica,2004,4.80435276,Central America and Caribbean,5121,0,1,74.1
+Jamaica,2005,4.54581785,Central America and Caribbean,5138,0,1,74.1
+Jamaica,2006,4.20788145,Central America and Caribbean,5260,0,1,74.1
+Jamaica,2007,5.32057667,Central America and Caribbean,5308,0,1,74.1
+Jamaica,2008,5.61143064,Central America and Caribbean,5240,0,1,74.1
+Jamaica,2009,5.14654493,Central America and Caribbean,4987,0,1,74.1
+Jamaica,2010,5.2951932,Central America and Caribbean,4889,0,1,74.0
+Jamaica,2011,5.23845339,Central America and Caribbean,4946,0,1,74.0
+Jamaica,2012,4.88512897,Central America and Caribbean,4888,0,1,74.0
+Jamaica,2013,4.95443439,Central America and Caribbean,4884,0,1,74.0
+Jamaica,2014,5.16564465,Central America and Caribbean,4890,0,1,74.0
+Jamaica,2015,5.62470436,Central America and Caribbean,4908,0,1,74.1
+Japan,2000,7.03,Asia,31431,1,0,81.1
+Japan,2001,7.24,Asia,31476,1,0,81.4
+Japan,2002,7.35,Asia,31416,1,0,81.6
+Japan,2003,7.49,Asia,31830,1,0,81.8
+Japan,2004,7.54,Asia,32515,1,0,82.0
+Japan,2005,7.66,Asia,33099,1,0,81.9
+Japan,2006,7.69,Asia,33532,1,0,82.3
+Japan,2007,7.78,Asia,33990,1,0,82.5
+Japan,2008,8.09,Asia,33558,1,0,82.6
+Japan,2009,8.96,Asia,31651,1,0,82.9
+Japan,2010,9.06,Asia,32942,1,0,82.8
+Japan,2011,10.49,Asia,33011,1,0,82.6
+Japan,2012,10.67,Asia,33518,1,0,83.1
+Japan,2013,10.67,Asia,34240,1,0,83.3
+Japan,2014,10.73,Asia,34387,1,0,83.6
+Japan,2015,10.75,Asia,34961,1,0,83.8
+Jordan,2000,9.34367943,Middle East,3588,0,1,71.7
+Jordan,2001,9.57236385,Middle East,3708,0,1,71.9
+Jordan,2002,9.2786417,Middle East,3849,0,1,72.1
+Jordan,2003,8.78901005,Middle East,3923,0,1,72.3
+Jordan,2004,8.74670506,Middle East,4148,0,1,72.4
+Jordan,2005,8.49441624,Middle East,4341,0,1,72.6
+Jordan,2006,7.67925692,Middle East,4516,0,1,72.8
+Jordan,2007,7.90982628,Middle East,4679,0,1,72.9
+Jordan,2008,8.48880577,Middle East,4787,0,1,73.1
+Jordan,2009,9.22396946,Middle East,4782,0,1,73.3
+Jordan,2010,8.17025661,Middle East,4644,0,1,73.4
+Jordan,2011,8.14807701,Middle East,4521,0,1,73.6
+Jordan,2012,7.81799555,Middle East,4387,0,1,73.7
+Jordan,2013,7.16592407,Middle East,4275,0,1,73.9
+Jordan,2014,7.20892906,Middle East,4221,0,1,74.0
+Jordan,2015,7.4609561,Middle East,4164,0,1,74.1
+Kazakhstan,2000,4.16,Asia,4446,0,1,65.5
+Kazakhstan,2001,3.47,Asia,5055,0,1,65.8
+Kazakhstan,2002,3.61,Asia,5551,0,1,66.0
+Kazakhstan,2003,3.72,Asia,6046,0,1,65.7
+Kazakhstan,2004,3.98,Asia,6581,0,1,66.1
+Kazakhstan,2005,3.9,Asia,7155,0,1,65.9
+Kazakhstan,2006,3.4,Asia,7838,0,1,66.2
+Kazakhstan,2007,2.7,Asia,8438,0,1,66.3
+Kazakhstan,2008,3.05,Asia,8555,0,1,67.1
+Kazakhstan,2009,3.5,Asia,8488,0,1,68.4
+Kazakhstan,2010,2.74,Asia,8979,0,1,68.5
+Kazakhstan,2011,2.6,Asia,9507,0,1,68.7
+Kazakhstan,2012,3.04,Asia,9824,0,1,69.5
+Kazakhstan,2013,2.66,Asia,10264,0,1,70.6
+Kazakhstan,2014,2.97,Asia,10539,0,1,71.4
+Kazakhstan,2015,3.04,Asia,10511,0,1,72.0
+Kenya,2000,3.62714171,Africa,1146,0,1,50.9
+Kenya,2001,3.76578307,Africa,1157,0,1,51.1
+Kenya,2002,3.84691834,Africa,1132,0,1,51.6
+Kenya,2003,4.05870771,Africa,1135,0,1,52.4
+Kenya,2004,4.23645926,Africa,1160,0,1,53.5
+Kenya,2005,4.24245214,Africa,1196,0,1,54.7
+Kenya,2006,5.11269999,Africa,1239,0,1,56.1
+Kenya,2007,5.22106314,Africa,1287,0,1,57.5
+Kenya,2008,5.28900909,Africa,1255,0,1,58.8
+Kenya,2009,5.26973343,Africa,1261,0,1,59.9
+Kenya,2010,5.38849831,Africa,1326,0,1,61.0
+Kenya,2011,5.20212841,Africa,1357,0,1,61.9
+Kenya,2012,5.0180583,Africa,1382,0,1,62.7
+Kenya,2013,4.93100405,Africa,1397,0,1,63.4
+Kenya,2014,4.91267347,Africa,1430,0,1,64.1
+Kenya,2015,4.76439571,Africa,1465,0,1,64.8
+Kiribati,2000,8.65,Oceania,1554,0,1,63.1
+Kiribati,2001,12.3,Oceania,1506,0,1,63.4
+Kiribati,2002,11.87,Oceania,1537,0,1,63.7
+Kiribati,2003,10.7,Oceania,1541,0,1,64.0
+Kiribati,2004,12.43,Oceania,1488,0,1,64.2
+Kiribati,2005,11.52,Oceania,1531,0,1,64.5
+Kiribati,2006,11.54,Oceania,1497,0,1,64.7
+Kiribati,2007,11.36,Oceania,1493,0,1,65.0
+Kiribati,2008,14.08,Oceania,1429,0,1,65.2
+Kiribati,2009,13.49,Oceania,1409,0,1,65.5
+Kiribati,2010,9.34,Oceania,1366,0,1,65.8
+Kiribati,2011,8.67,Oceania,1366,0,1,66.1
+Kiribati,2012,8.69,Oceania,1415,0,1,66.4
+Kiribati,2013,9.53,Oceania,1453,0,1,66.7
+Kiribati,2014,10.09,Oceania,1417,0,1,67.0
+Kiribati,2015,8.11,Oceania,1535,0,1,67.3
+Kuwait,2000,2.20343971,Middle East,29952,0,1,73.1
+Kuwait,2001,3.18838811,Middle East,29186,0,1,73.2
+Kuwait,2002,3.12468719,Middle East,29591,0,1,73.3
+Kuwait,2003,2.76216865,Middle East,34322,0,1,73.4
+Kuwait,2004,2.35702467,Middle East,37169,0,1,73.4
+Kuwait,2005,2.01313829,Middle East,39850,0,1,73.5
+Kuwait,2006,1.8213098,Middle East,40977,0,1,73.7
+Kuwait,2007,1.92673647,Middle East,41171,0,1,73.8
+Kuwait,2008,1.92400301,Middle East,39777,0,1,74.0
+Kuwait,2009,2.70638776,Middle East,34800,0,1,74.2
+Kuwait,2010,2.67879915,Middle East,32035,0,1,74.4
+Kuwait,2011,2.33303547,Middle East,33167,0,1,74.6
+Kuwait,2012,2.33311439,Middle East,33455,0,1,74.7
+Kuwait,2013,2.48789287,Middle East,32136,0,1,74.9
+Kuwait,2014,2.9159987,Middle East,30857,0,1,75.0
+Kuwait,2015,4.21497965,Middle East,29870,0,1,75.1
+Kyrgyz Republic,2000,4.41,Asia,718,0,1,68.6
+Kyrgyz Republic,2001,4.28,Asia,749,0,1,68.7
+Kyrgyz Republic,2002,4.59,Asia,742,0,1,68.2
+Kyrgyz Republic,2003,5.82,Asia,786,0,1,68.3
+Kyrgyz Republic,2004,6.2,Asia,831,0,1,68.2
+Kyrgyz Republic,2005,7.45,Asia,821,0,1,68.0
+Kyrgyz Republic,2006,8.31,Asia,837,0,1,67.7
+Kyrgyz Republic,2007,6.93,Asia,900,0,1,67.9
+Kyrgyz Republic,2008,6.53,Asia,966,0,1,68.5
+Kyrgyz Republic,2009,6.9,Asia,982,0,1,69.1
+Kyrgyz Republic,2010,6.95,Asia,966,0,1,69.3
+Kyrgyz Republic,2011,7.11,Asia,1011,0,1,69.6
+Kyrgyz Republic,2012,8.51,Asia,994,0,1,70.0
+Kyrgyz Republic,2013,8.19,Asia,1081,0,1,70.2
+Kyrgyz Republic,2014,7.36,Asia,1102,0,1,70.4
+Kyrgyz Republic,2015,7.15,Asia,1121,0,1,70.7
+Lao PDR,2000,4.27513599,Asia,936,0,1,58.8
+Lao PDR,2001,4.29031658,Asia,974,0,1,59.4
+Lao PDR,2002,3.69751263,Asia,1016,0,1,59.9
+Lao PDR,2003,4.47920704,Asia,1061,0,1,60.5
+Lao PDR,2004,3.54057336,Asia,1112,0,1,61.1
+Lao PDR,2005,3.33673191,Asia,1172,0,1,61.6
+Lao PDR,2006,2.93200922,Asia,1253,0,1,62.2
+Lao PDR,2007,3.15345573,Asia,1325,0,1,62.7
+Lao PDR,2008,2.76727295,Asia,1405,0,1,63.3
+Lao PDR,2009,3.46300411,Asia,1485,0,1,63.8
+Lao PDR,2010,2.91155219,Asia,1586,0,1,64.3
+Lao PDR,2011,1.94457507,Asia,1687,0,1,64.8
+Lao PDR,2012,2.07637572,Asia,1795,0,1,65.3
+Lao PDR,2013,2.39984965,Asia,1911,0,1,65.7
+Lao PDR,2014,2.29845548,Asia,2025,0,1,66.1
+Lao PDR,2015,2.45366454,Asia,2140,0,1,66.5
+Latvia,2000,5.43,European Union,6727,1,0,70.3
+Latvia,2001,5.77,European Union,7245,1,0,70.8
+Latvia,2002,5.76,European Union,7849,1,0,71.0
+Latvia,2003,5.48,European Union,8593,1,0,71.3
+Latvia,2004,6.2,European Union,9407,1,0,72.0
+Latvia,2005,5.83,European Union,10528,1,0,71.4
+Latvia,2006,5.7,European Union,11896,1,0,70.9
+Latvia,2007,5.51,European Union,13186,1,0,71.0
+Latvia,2008,5.58,European Union,12893,1,0,72.4
+Latvia,2009,6.1,European Union,11240,1,0,73.1
+Latvia,2010,6.1,European Union,10964,1,0,73.5
+Latvia,2011,5.72,European Union,11451,1,0,73.6
+Latvia,2012,5.41,European Union,12410,1,0,73.8
+Latvia,2013,5.41,European Union,12796,1,0,74.0
+Latvia,2014,5.46,European Union,13163,1,0,74.1
+Latvia,2015,5.65,European Union,13786,1,0,74.5
+Lebanon,2000,10.82951355,Middle East,6713,0,1,74.5
+Lebanon,2001,10.56254768,Middle East,6712,0,1,75.0
+Lebanon,2002,9.28233719,Middle East,6625,0,1,75.5
+Lebanon,2003,8.67109871,Middle East,6517,0,1,76.0
+Lebanon,2004,7.99923086,Middle East,6677,0,1,76.4
+Lebanon,2005,7.54867649,Middle East,6668,0,1,76.9
+Lebanon,2006,8.66057873,Middle East,6684,0,1,77.3
+Lebanon,2007,8.55984211,Middle East,7295,0,1,77.6
+Lebanon,2008,7.81751728,Middle East,7961,0,1,77.9
+Lebanon,2009,7.0073576,Middle East,8687,0,1,78.2
+Lebanon,2010,7.43864489,Middle East,9115,0,1,78.4
+Lebanon,2011,8.17744446,Middle East,8754,0,1,78.5
+Lebanon,2012,7.00420094,Middle East,8434,0,1,78.6
+Lebanon,2013,7.06795645,Middle East,8201,0,1,78.7
+Lebanon,2014,7.52279758,Middle East,7938,0,1,78.7
+Lebanon,2015,7.41596651,Middle East,7643,0,1,78.8
+Lesotho,2000,5.6117692,Africa,715,0,1,47.7
+Lesotho,2001,7.27745867,Africa,739,0,1,46.2
+Lesotho,2002,6.54458666,Africa,747,0,1,44.9
+Lesotho,2003,6.04550791,Africa,785,0,1,43.8
+Lesotho,2004,6.05738831,Africa,804,0,1,43.1
+Lesotho,2005,5.44926691,Africa,836,0,1,42.7
+Lesotho,2006,6.11966372,Africa,874,0,1,42.6
+Lesotho,2007,7.22254515,Africa,912,0,1,42.9
+Lesotho,2008,7.66656303,Africa,962,0,1,43.4
+Lesotho,2009,8.95305061,Africa,948,0,1,44.1
+Lesotho,2010,7.64088917,Africa,996,0,1,45.1
+Lesotho,2011,9.07558823,Africa,1037,0,1,46.2
+Lesotho,2012,10.04389858,Africa,1097,0,1,47.4
+Lesotho,2013,10.99592113,Africa,1109,0,1,48.7
+Lesotho,2014,9.99930382,Africa,1120,0,1,49.9
+Lesotho,2015,9.2965641,Africa,1146,0,1,51.0
+Liberia,2000,2.87913179,Africa,776,0,1,51.7
+Liberia,2001,2.27906799,Africa,770,0,1,52.2
+Liberia,2002,2.28035998,Africa,780,0,1,52.8
+Liberia,2003,2.66176748,Africa,536,0,1,53.6
+Liberia,2004,6.3381567,Africa,540,0,1,54.4
+Liberia,2005,7.14322186,Africa,554,0,1,55.4
+Liberia,2006,6.06891537,Africa,578,0,1,56.4
+Liberia,2007,4.32794046,Africa,609,0,1,57.4
+Liberia,2008,5.99615717,Africa,626,0,1,58.2
+Liberia,2009,11.57163811,Africa,634,0,1,59.0
+Liberia,2010,10.35444641,Africa,649,0,1,59.6
+Liberia,2011,9.71052551,Africa,680,0,1,60.1
+Liberia,2012,8.15444565,Africa,713,0,1,60.7
+Liberia,2013,7.09007835,Africa,754,0,1,61.2
+Liberia,2014,8.77403069,Africa,740,0,1,61.7
+Liberia,2015,10.46927643,Africa,722,0,1,62.3
+Libya,2000,3.31908512,Africa,10747,0,1,70.9
+Libya,2001,3.92571616,Africa,10392,0,1,71.0
+Libya,2002,4.73818302,Africa,10129,0,1,71.2
+Libya,2003,3.97301245,Africa,11265,0,1,71.5
+Libya,2004,3.38328195,Africa,11583,0,1,71.7
+Libya,2005,2.51707149,Africa,12760,0,1,71.9
+Libya,2006,2.29996443,Africa,13386,0,1,72.1
+Libya,2007,2.41929626,Africa,14010,0,1,72.2
+Libya,2008,2.24441886,Africa,13794,0,1,72.2
+Libya,2009,3.5828805,Africa,13025,0,1,72.1
+Libya,2010,3.28064442,Africa,13539,0,1,72.0
+Libya,2011,4.01902008,Africa,6670,0,1,72.0
+Lithuania,2000,6.2,European Union,6423,1,0,72.0
+Lithuania,2001,6.01,European Union,6899,1,0,71.7
+Lithuania,2002,6.14,European Union,7424,1,0,71.8
+Lithuania,2003,6.19,European Union,8276,1,0,72.1
+Lithuania,2004,5.51,European Union,8919,1,0,72.0
+Lithuania,2005,5.65,European Union,9766,1,0,71.3
+Lithuania,2006,5.84,European Union,10659,1,0,71.1
+Lithuania,2007,5.76,European Union,11985,1,0,70.9
+Lithuania,2008,6.29,European Union,12425,1,0,71.8
+Lithuania,2009,7.37,European Union,10700,1,0,72.9
+Lithuania,2010,6.81,European Union,11107,1,0,73.3
+Lithuania,2011,6.49,European Union,12047,1,0,73.6
+Lithuania,2012,6.28,European Union,12679,1,0,73.9
+Lithuania,2013,6.13,European Union,13262,1,0,73.9
+Lithuania,2014,6.19,European Union,13850,1,0,74.5
+Lithuania,2015,6.49,European Union,14264,1,0,74.3
+Luxembourg,2000,5.93,European Union,92528,1,0,77.9
+Luxembourg,2001,6.38,European Union,94244,1,0,77.8
+Luxembourg,2002,6.76,European Union,96270,1,0,78.0
+Luxembourg,2003,6.96,European Union,97598,1,0,77.7
+Luxembourg,2004,7.28,European Union,100293,1,0,79.1
+Luxembourg,2005,7.12,European Union,101222,1,0,79.4
+Luxembourg,2006,6.64,European Union,105614,1,0,79.3
+Luxembourg,2007,6.16,European Union,112418,1,0,79.4
+Luxembourg,2008,6.23,European Union,110095,1,0,80.5
+Luxembourg,2009,6.95,European Union,104574,1,0,80.6
+Luxembourg,2010,6.66,European Union,106544,1,0,80.6
+Luxembourg,2011,5.95,European Union,105290,1,0,81.0
+Luxembourg,2012,5.29,European Union,104488,1,0,81.4
+Luxembourg,2013,5.24,European Union,105339,1,0,81.8
+Luxembourg,2014,5.23,European Union,105584,1,0,82.2
+Luxembourg,2015,5.08,European Union,105462,1,0,82.3
+Madagascar,2000,3.99177575,Africa,488,0,1,58.5
+Madagascar,2001,4.11513805,Africa,501,0,1,59.1
+Madagascar,2002,4.92547607,Africa,426,0,1,59.7
+Madagascar,2003,5.00276518,Africa,453,0,1,60.3
+Madagascar,2004,5.25089979,Africa,463,0,1,60.8
+Madagascar,2005,5.2155776,Africa,471,0,1,61.2
+Madagascar,2006,5.07203817,Africa,482,0,1,61.7
+Madagascar,2007,4.60865784,Africa,495,0,1,62.1
+Madagascar,2008,4.08111715,Africa,514,0,1,62.5
+Madagascar,2009,4.38469839,Africa,480,0,1,62.9
+Madagascar,2010,4.69762659,Africa,469,0,1,63.4
+Madagascar,2011,4.521595,Africa,464,0,1,63.8
+Madagascar,2012,3.9110589,Africa,465,0,1,64.3
+Madagascar,2013,3.75156283,Africa,463,0,1,64.7
+Madagascar,2014,4.46240282,Africa,465,0,1,65.1
+Madagascar,2015,5.0062542,Africa,467,0,1,65.5
+Malawi,2000,2.35247517,Africa,294,0,1,45.1
+Malawi,2001,2.06040049,Africa,273,0,1,45.2
+Malawi,2002,2.69725966,Africa,271,0,1,45.5
+Malawi,2003,3.32019806,Africa,279,0,1,46.1
+Malawi,2004,4.07199907,Africa,287,0,1,46.8
+Malawi,2005,4.30046511,Africa,289,0,1,47.8
+Malawi,2006,4.91223288,Africa,295,0,1,49.1
+Malawi,2007,5.44258356,Africa,314,0,1,50.6
+Malawi,2008,6.10668802,Africa,328,0,1,52.2
+Malawi,2009,5.87333822,Africa,346,0,1,53.9
+Malawi,2010,5.14304781,Africa,359,0,1,55.6
+Malawi,2011,5.32226658,Africa,366,0,1,57.2
+Malawi,2012,6.02199793,Africa,362,0,1,58.6
+Malawi,2013,8.22379494,Africa,370,0,1,59.9
+Malawi,2014,6.89776182,Africa,381,0,1,61.0
+Malawi,2015,6.62879086,Africa,381,0,1,62.0
+Malaysia,2000,2.51463366,Asia,6393,0,1,72.6
+Malaysia,2001,2.6753974,Asia,6286,0,1,72.8
+Malaysia,2002,2.66876554,Asia,6488,0,1,73.0
+Malaysia,2003,2.92417073,Asia,6728,0,1,73.2
+Malaysia,2004,2.86016941,Asia,7044,0,1,73.4
+Malaysia,2005,2.78692698,Asia,7275,0,1,73.6
+Malaysia,2006,3.10897732,Asia,7531,0,1,73.7
+Malaysia,2007,3.07041144,Asia,7850,0,1,73.9
+Malaysia,2008,3.00692558,Asia,8074,0,1,74.1
+Malaysia,2009,3.2610569,Asia,7809,0,1,74.3
+Malaysia,2010,3.16474271,Asia,8248,0,1,74.5
+Malaysia,2011,3.31451917,Asia,8550,0,1,74.7
+Malaysia,2012,3.45786357,Asia,8889,0,1,74.9
+Malaysia,2013,3.51276922,Asia,9179,0,1,75.1
+Malaysia,2014,3.71036959,Asia,9601,0,1,75.3
+Malaysia,2015,3.82201481,Asia,9955,0,1,75.5
+Maldives,2000,7.74,Asia,6982,0,1,70.2
+Maldives,2001,8.21,Asia,6544,0,1,71.0
+Maldives,2002,8.78,Asia,6832,0,1,71.7
+Maldives,2003,6.78,Asia,7553,0,1,72.4
+Maldives,2004,7.48,Asia,7788,0,1,73.0
+Maldives,2005,8.83,Asia,6589,0,1,73.6
+Maldives,2006,8.05,Asia,8110,0,1,74.1
+Maldives,2007,8.31,Asia,8535,0,1,74.6
+Maldives,2008,11.47,Asia,9119,0,1,75.1
+Maldives,2009,10.09,Asia,8222,0,1,75.5
+Maldives,2010,8.49,Asia,8522,0,1,75.9
+Maldives,2011,7.92,Asia,8893,0,1,76.3
+Maldives,2012,8.67,Asia,8733,0,1,76.7
+Maldives,2013,8.16,Asia,8955,0,1,77.0
+Maldives,2014,7.91,Asia,9182,0,1,77.4
+Maldives,2015,8.73,Asia,9033,0,1,77.7
+Mali,2000,5.46631575,Africa,572,0,1,48.1
+Mali,2001,4.51950884,Africa,641,0,1,48.8
+Mali,2002,4.99773645,Africa,641,0,1,49.5
+Mali,2003,5.0505991,Africa,678,0,1,50.4
+Mali,2004,5.21767759,Africa,667,0,1,51.2
+Mali,2005,5.19516516,Africa,688,0,1,52.1
+Mali,2006,5.45589256,Africa,697,0,1,52.8
+Mali,2007,5.25303173,Africa,697,0,1,53.6
+Mali,2008,5.02686644,Africa,707,0,1,54.2
+Mali,2009,5.2122364,Africa,717,0,1,54.8
+Mali,2010,4.67865133,Africa,732,0,1,55.3
+Mali,2011,4.01483774,Africa,732,0,1,55.7
+Mali,2012,3.7521615,Africa,705,0,1,56.1
+Mali,2013,3.96750712,Africa,701,0,1,56.6
+Mali,2014,4.48158312,Africa,729,0,1,57.0
+Mali,2015,4.11143351,Africa,751,0,1,57.5
+Malta,2000,6.57,European Union,17189,1,0,78.3
+Malta,2001,7.0,European Union,16860,1,0,78.8
+Malta,2002,7.71,European Union,17165,1,0,78.7
+Malta,2003,7.9,European Union,17747,1,0,78.5
+Malta,2004,8.05,European Union,17653,1,0,79.3
+Malta,2005,8.66,European Union,18134,1,0,79.3
+Malta,2006,8.81,European Union,18522,1,0,79.4
+Malta,2007,8.17,European Union,19338,1,0,79.8
+Malta,2008,7.86,European Union,19948,1,0,79.6
+Malta,2009,7.92,European Union,19574,1,0,80.2
+Malta,2010,7.95,European Union,20558,1,0,81.4
+Malta,2011,8.45,European Union,20566,1,0,80.7
+Malta,2012,8.38,European Union,21222,1,0,80.7
+Malta,2013,8.5,European Union,22071,1,0,81.7
+Malta,2014,9.09,European Union,23286,1,0,82.0
+Malta,2015,8.9,European Union,24922,1,0,81.9
+Mauritania,2000,3.37824655,Africa,1296,0,1,60.7
+Mauritania,2001,3.5718379,Africa,1252,0,1,60.8
+Mauritania,2002,4.00224972,Africa,1234,0,1,60.9
+Mauritania,2003,4.03254652,Africa,1283,0,1,61.0
+Mauritania,2004,3.70429492,Africa,1307,0,1,61.2
+Mauritania,2005,3.40312648,Africa,1379,0,1,61.3
+Mauritania,2006,2.70252752,Africa,1585,0,1,61.6
+Mauritania,2007,2.87644005,Africa,1510,0,1,61.8
+Mauritania,2008,3.01338983,Africa,1462,0,1,62.0
+Mauritania,2009,3.11034036,Africa,1422,0,1,62.3
+Mauritania,2010,2.63618922,Africa,1417,0,1,62.5
+Mauritania,2011,2.47383666,Africa,1433,0,1,62.8
+Mauritania,2012,2.64919329,Africa,1454,0,1,63.1
+Mauritania,2013,2.86799884,Africa,1470,0,1,63.4
+Mauritania,2014,3.46724391,Africa,1489,0,1,63.7
+Mauritania,2015,3.67363763,Africa,1524,0,1,63.9
+Mauritius,2000,2.85734653,Africa,5534,0,1,71.7
+Mauritius,2001,2.92151856,Africa,5674,0,1,71.8
+Mauritius,2002,3.18897271,Africa,5726,0,1,72.0
+Mauritius,2003,3.18201613,Africa,6022,0,1,72.1
+Mauritius,2004,3.31652546,Africa,6243,0,1,72.3
+Mauritius,2005,3.51794028,Africa,6316,0,1,72.4
+Mauritius,2006,3.60573649,Africa,6593,0,1,72.4
+Mauritius,2007,3.52321672,Africa,6939,0,1,72.6
+Mauritius,2008,3.93896508,Africa,7286,0,1,72.6
+Mauritius,2009,4.17035627,Africa,7508,0,1,72.9
+Mauritius,2010,4.51898289,Africa,7818,0,1,73.0
+Mauritius,2011,4.25059652,Africa,8124,0,1,73.3
+Mauritius,2012,4.21993399,Africa,8384,0,1,73.9
+Mauritius,2013,4.620821,Africa,8647,0,1,74.0
+Mauritius,2014,5.38024664,Africa,8955,0,1,74.2
+Mauritius,2015,5.55042362,Africa,9260,0,1,74.4
+Mexico,2000,4.44912481,North America,8862,0,1,74.3
+Mexico,2001,4.8203578,North America,8703,0,1,74.7
+Mexico,2002,5.07164288,North America,8581,0,1,74.9
+Mexico,2003,5.81486416,North America,8587,0,1,75.1
+Mexico,2004,5.95390368,North America,8801,0,1,75.2
+Mexico,2005,5.83612156,North America,8878,0,1,75.3
+Mexico,2006,5.65525532,North America,9143,0,1,75.3
+Mexico,2007,5.76644468,North America,9214,0,1,75.3
+Mexico,2008,5.69886971,North America,9181,0,1,75.2
+Mexico,2009,6.12978411,North America,8569,0,1,75.1
+Mexico,2010,5.73688889,North America,8879,0,1,75.1
+Mexico,2011,5.51883602,North America,9076,0,1,75.0
+Mexico,2012,5.66522074,North America,9280,0,1,75.0
+Mexico,2013,5.80923605,North America,9283,0,1,74.9
+Mexico,2014,5.55340958,North America,9426,0,1,74.9
+Mexico,2015,5.72277355,North America,9617,0,1,74.9
+"Micronesia, Fed. Sts.",2000,7.76511145,Oceania,2895,0,1,64.6
+"Micronesia, Fed. Sts.",2001,8.45260048,Oceania,2964,0,1,64.7
+"Micronesia, Fed. Sts.",2002,7.89720392,Oceania,2984,0,1,64.9
+"Micronesia, Fed. Sts.",2003,9.57150459,Oceania,3035,0,1,65.1
+"Micronesia, Fed. Sts.",2004,12.02715683,Oceania,2949,0,1,65.3
+"Micronesia, Fed. Sts.",2005,17.73306656,Oceania,3023,0,1,65.5
+"Micronesia, Fed. Sts.",2006,10.74129105,Oceania,3042,0,1,65.7
+"Micronesia, Fed. Sts.",2007,11.0585041,Oceania,3013,0,1,65.9
+"Micronesia, Fed. Sts.",2008,11.99137974,Oceania,2966,0,1,66.1
+"Micronesia, Fed. Sts.",2009,12.55259323,Oceania,3015,0,1,66.3
+"Micronesia, Fed. Sts.",2010,13.10624504,Oceania,3085,0,1,66.5
+"Micronesia, Fed. Sts.",2011,13.09527397,Oceania,3167,0,1,66.6
+"Micronesia, Fed. Sts.",2012,12.27709675,Oceania,3076,0,1,66.8
+"Micronesia, Fed. Sts.",2013,12.10208416,Oceania,2923,0,1,67.0
+"Micronesia, Fed. Sts.",2014,11.72290421,Oceania,2815,0,1,67.2
+"Micronesia, Fed. Sts.",2015,12.46286297,Oceania,2907,0,1,67.3
+Moldova,2000,5.93,Rest of Europe,1338,0,1,67.0
+Moldova,2001,6.23,Rest of Europe,1423,0,1,67.2
+Moldova,2002,7.4,Rest of Europe,1538,0,1,67.4
+Moldova,2003,7.02,Rest of Europe,1644,0,1,67.5
+Moldova,2004,8.97,Rest of Europe,1770,0,1,67.7
+Moldova,2005,9.56,Rest of Europe,1907,0,1,67.8
+Moldova,2006,10.54,Rest of Europe,2004,0,1,68.0
+Moldova,2007,11.02,Rest of Europe,2069,0,1,68.3
+Moldova,2008,10.95,Rest of Europe,2235,0,1,68.7
+Moldova,2009,13.68,Rest of Europe,2103,0,1,69.1
+Moldova,2010,10.13,Rest of Europe,2255,0,1,69.6
+Moldova,2011,9.1,Rest of Europe,2388,0,1,70.1
+Moldova,2012,9.14,Rest of Europe,2374,0,1,70.6
+Moldova,2013,8.68,Rest of Europe,2589,0,1,71.0
+Moldova,2014,8.63,Rest of Europe,2720,0,1,71.3
+Moldova,2015,8.56,Rest of Europe,2732,0,1,71.5
+Mongolia,2000,5.69538355,Asia,1592,0,1,62.9
+Mongolia,2001,5.05435562,Asia,1624,0,1,63.3
+Mongolia,2002,5.18856382,Asia,1685,0,1,63.8
+Mongolia,2003,4.10218763,Asia,1784,0,1,64.2
+Mongolia,2004,4.15718555,Asia,1952,0,1,64.7
+Mongolia,2005,3.7552557,Asia,2068,0,1,65.1
+Mongolia,2006,3.74971509,Asia,2217,0,1,65.5
+Mongolia,2007,4.07522774,Asia,2411,0,1,66.0
+Mongolia,2008,4.55693007,Asia,2588,0,1,66.4
+Mongolia,2009,4.45980072,Asia,2515,0,1,66.9
+Mongolia,2010,3.73945689,Asia,2630,0,1,67.4
+Mongolia,2011,3.58612084,Asia,3028,0,1,67.8
+Mongolia,2012,3.85800076,Asia,3336,0,1,68.2
+Mongolia,2013,4.08932018,Asia,3651,0,1,68.6
+Mongolia,2014,4.20989752,Asia,3860,0,1,68.9
+Mongolia,2015,4.23154545,Asia,3875,0,1,69.1
+Montenegro,2011,7.97,Rest of Europe,6169,0,1,76.0
+Montenegro,2012,8.3,Rest of Europe,5996,0,1,76.2
+Montenegro,2013,8.47,Rest of Europe,6203,0,1,76.5
+Montenegro,2014,8.0,Rest of Europe,6307,0,1,76.4
+Montenegro,2015,9.02,Rest of Europe,6517,0,1,76.4
+Morocco,2000,3.69304585,Africa,1763,0,1,68.7
+Morocco,2001,3.81601191,Africa,1870,0,1,69.2
+Morocco,2002,4.06117535,Africa,1905,0,1,69.8
+Morocco,2003,4.08037519,Africa,1995,0,1,70.4
+Morocco,2004,4.23211098,Africa,2066,0,1,71.1
+Morocco,2005,4.37350655,Africa,2109,0,1,71.7
+Morocco,2006,4.56586647,Africa,2242,0,1,72.4
+Morocco,2007,4.80759001,Africa,2295,0,1,73.0
+Morocco,2008,4.83789158,Africa,2402,0,1,73.5
+Morocco,2009,5.27312183,Africa,2473,0,1,74.0
+Morocco,2010,5.41861057,Africa,2534,0,1,74.4
+Morocco,2011,5.37019396,Africa,2631,0,1,74.7
+Morocco,2012,5.39619017,Africa,2673,0,1,75.0
+Morocco,2013,5.25540543,Africa,2755,0,1,75.2
+Morocco,2014,5.41626596,Africa,2789,0,1,75.5
+Morocco,2015,5.10435581,Africa,2875,0,1,75.7
+Mozambique,2000,2.18767238,Africa,295,0,1,48.9
+Mozambique,2001,2.87893057,Africa,321,0,1,49.3
+Mozambique,2002,3.2773509,Africa,341,0,1,49.6
+Mozambique,2003,3.39533854,Africa,353,0,1,49.9
+Mozambique,2004,3.67226458,Africa,370,0,1,50.1
+Mozambique,2005,4.37538815,Africa,384,0,1,50.4
+Mozambique,2006,4.08873844,Africa,409,0,1,50.6
+Mozambique,2007,3.93067098,Africa,429,0,1,50.9
+Mozambique,2008,4.22139311,Africa,448,0,1,51.3
+Mozambique,2009,5.20390034,Africa,463,0,1,51.7
+Mozambique,2010,5.43892908,Africa,480,0,1,52.3
+Mozambique,2011,5.00311899,Africa,502,0,1,53.0
+Mozambique,2012,5.24640608,Africa,523,0,1,53.9
+Mozambique,2013,6.12585449,Africa,544,0,1,54.9
+Mozambique,2014,6.33251858,Africa,569,0,1,56.1
+Mozambique,2015,6.71663332,Africa,590,0,1,57.2
+Myanmar,2000,2.0,Asia,310,0,1,60.1
+Myanmar,2001,2.15,Asia,345,0,1,60.4
+Myanmar,2002,2.58,Asia,381,0,1,60.7
+Myanmar,2003,2.38,Asia,427,0,1,61.0
+Myanmar,2004,2.32,Asia,481,0,1,61.3
+Myanmar,2005,2.33,Asia,542,0,1,61.6
+Myanmar,2006,2.25,Asia,610,0,1,61.9
+Myanmar,2007,2.02,Asia,682,0,1,62.3
+Myanmar,2008,2.11,Asia,753,0,1,62.7
+Myanmar,2009,2.16,Asia,826,0,1,63.1
+Myanmar,2010,1.96,Asia,903,0,1,63.5
+Myanmar,2011,1.93,Asia,963,0,1,64.0
+Myanmar,2012,2.41,Asia,1017,0,1,64.5
+Myanmar,2013,3.2,Asia,1088,0,1,64.9
+Myanmar,2014,4.39,Asia,1168,0,1,65.4
+Myanmar,2015,5.48,Asia,1197,0,1,65.8
+Namibia,2000,9.23999977,Africa,3125,0,1,52.2
+Namibia,2001,9.64409447,Africa,3111,0,1,51.4
+Namibia,2002,9.68074989,Africa,3211,0,1,50.9
+Namibia,2003,9.91340542,Africa,3298,0,1,50.6
+Namibia,2004,10.12623405,Africa,3647,0,1,50.6
+Namibia,2005,10.08441544,Africa,3681,0,1,50.9
+Namibia,2006,10.57086945,Africa,3875,0,1,51.6
+Namibia,2007,10.71633053,Africa,4012,0,1,52.6
+Namibia,2008,9.91801167,Africa,4044,0,1,53.8
+Namibia,2009,9.04967022,Africa,3982,0,1,55.2
+Namibia,2010,9.72781372,Africa,4147,0,1,56.7
+Namibia,2011,9.83193302,Africa,4282,0,1,58.1
+Namibia,2012,9.26659298,Africa,4421,0,1,59.4
+Namibia,2013,9.06448746,Africa,4588,0,1,60.5
+Namibia,2014,8.4089098,Africa,4782,0,1,61.4
+Namibia,2015,9.98109627,Africa,4897,0,1,62.1
+Nepal,2000,3.13,Asia,561,0,1,62.3
+Nepal,2001,3.81,Asia,578,0,1,62.9
+Nepal,2002,3.94,Asia,570,0,1,63.6
+Nepal,2003,3.86,Asia,584,0,1,64.2
+Nepal,2004,4.05,Asia,603,0,1,64.7
+Nepal,2005,3.95,Asia,616,0,1,65.3
+Nepal,2006,3.54,Asia,629,0,1,65.8
+Nepal,2007,3.67,Asia,643,0,1,66.3
+Nepal,2008,3.82,Asia,675,0,1,66.7
+Nepal,2009,3.9,Asia,700,0,1,67.2
+Nepal,2010,4.36,Asia,730,0,1,67.6
+Nepal,2011,4.45,Asia,754,0,1,68.0
+Nepal,2012,4.49,Asia,791,0,1,68.4
+Nepal,2013,4.63,Asia,821,0,1,68.8
+Nepal,2014,5.08,Asia,871,0,1,69.2
+Nepal,2015,5.47,Asia,902,0,1,69.5
+Netherlands,2000,7.71,European Union,40457,1,0,78.0
+Netherlands,2001,8.06,European Union,41087,1,0,78.2
+Netherlands,2002,8.65,European Union,40914,1,0,78.3
+Netherlands,2003,9.06,European Union,40785,1,0,78.5
+Netherlands,2004,9.11,European Union,41450,1,0,79.1
+Netherlands,2005,9.1,European Union,42202,1,0,79.3
+Netherlands,2006,9.08,European Union,43592,1,0,79.7
+Netherlands,2007,9.05,European Union,45139,1,0,80.1
+Netherlands,2008,9.28,European Union,45939,1,0,80.3
+Netherlands,2009,9.99,European Union,44028,1,0,80.5
+Netherlands,2010,10.16,European Union,44391,1,0,80.7
+Netherlands,2011,10.23,European Union,44869,1,0,81.2
+Netherlands,2012,10.54,European Union,44243,1,0,81.1
+Netherlands,2013,10.58,European Union,44055,1,0,81.3
+Netherlands,2014,10.57,European Union,44522,1,0,81.7
+Netherlands,2015,10.32,European Union,45193,1,0,81.5
+New Zealand,2000,7.4700222,Oceania,30863,1,0,78.6
+New Zealand,2001,7.5789361,Oceania,31745,1,0,78.7
+New Zealand,2002,7.90045929,Oceania,32657,1,0,78.8
+New Zealand,2003,7.72169256,Oceania,33475,1,0,79.1
+New Zealand,2004,7.90090561,Oceania,34310,1,0,79.5
+New Zealand,2005,8.27334881,Oceania,35052,1,0,79.9
+New Zealand,2006,8.63841629,Oceania,35625,1,0,80.0
+New Zealand,2007,8.32904434,Oceania,36363,1,0,80.2
+New Zealand,2008,9.12382889,Oceania,35655,1,0,80.4
+New Zealand,2009,9.62076378,Oceania,35252,1,0,80.7
+New Zealand,2010,9.59277534,Oceania,35394,1,0,80.7
+New Zealand,2011,9.51987362,Oceania,35916,1,0,80.9
+New Zealand,2012,9.65163612,Oceania,36521,1,0,81.2
+New Zealand,2013,9.36019325,Oceania,37219,1,0,81.4
+New Zealand,2014,9.40168381,Oceania,38002,1,0,81.4
+New Zealand,2015,9.28344345,Oceania,38631,1,0,81.5
+Nicaragua,2000,5.23883677,Central America and Caribbean,1445,0,1,69.5
+Nicaragua,2001,5.48459768,Central America and Caribbean,1466,0,1,69.9
+Nicaragua,2002,5.73315859,Central America and Caribbean,1456,0,1,70.3
+Nicaragua,2003,6.08317614,Central America and Caribbean,1472,0,1,70.6
+Nicaragua,2004,6.05740356,Central America and Caribbean,1529,0,1,70.9
+Nicaragua,2005,6.22468948,Central America and Caribbean,1573,0,1,71.2
+Nicaragua,2006,6.35756445,Central America and Caribbean,1616,0,1,71.4
+Nicaragua,2007,6.95643044,Central America and Caribbean,1675,0,1,71.7
+Nicaragua,2008,7.16700697,Central America and Caribbean,1709,0,1,71.9
+Nicaragua,2009,7.68584394,Central America and Caribbean,1630,0,1,72.2
+Nicaragua,2010,7.71019173,Central America and Caribbean,1679,0,1,72.4
+Nicaragua,2011,7.44982004,Central America and Caribbean,1761,0,1,72.7
+Nicaragua,2012,7.48836899,Central America and Caribbean,1851,0,1,73.0
+Nicaragua,2013,7.63869238,Central America and Caribbean,1916,0,1,73.2
+Nicaragua,2014,7.97716141,Central America and Caribbean,1982,0,1,73.4
+Nicaragua,2015,7.96303272,Central America and Caribbean,2050,0,1,73.6
+Niger,2000,4.65891504,Africa,399,0,1,49.9
+Niger,2001,4.72659349,Africa,413,0,1,50.6
+Niger,2002,4.82717037,Africa,418,0,1,51.3
+Niger,2003,4.74740648,Africa,411,0,1,52.0
+Niger,2004,4.97818327,Africa,398,0,1,52.7
+Niger,2005,5.87749624,Africa,411,0,1,53.4
+Niger,2006,5.99335575,Africa,420,0,1,54.2
+Niger,2007,5.43105888,Africa,417,0,1,55.0
+Niger,2008,5.24640608,Africa,432,0,1,55.8
+Niger,2009,5.33850145,Africa,424,0,1,56.6
+Niger,2010,4.96100473,Africa,443,0,1,57.3
+Niger,2011,4.87323856,Africa,437,0,1,58.1
+Niger,2012,4.30732679,Africa,464,0,1,58.8
+Niger,2013,4.46636009,Africa,470,0,1,59.5
+Niger,2014,4.45377159,Africa,482,0,1,60.1
+Niger,2015,5.34745932,Africa,484,0,1,60.6
+Nigeria,2000,3.1973834,Africa,1451,0,1,46.3
+Nigeria,2001,3.18946862,Africa,1499,0,1,46.5
+Nigeria,2002,2.49063969,Africa,1685,0,1,46.8
+Nigeria,2003,5.05360985,Africa,1764,0,1,47.2
+Nigeria,2004,4.63368416,Africa,1878,0,1,47.7
+Nigeria,2005,4.46591949,Africa,1948,0,1,48.3
+Nigeria,2006,4.25775146,Africa,2013,0,1,48.8
+Nigeria,2007,3.90997243,Africa,2090,0,1,49.4
+Nigeria,2008,3.69581532,Africa,2173,0,1,49.9
+Nigeria,2009,3.5801971,Africa,2286,0,1,50.4
+Nigeria,2010,3.29653287,Africa,2404,0,1,50.9
+Nigeria,2011,3.32077932,Africa,2464,0,1,51.3
+Nigeria,2012,3.35984254,Africa,2501,0,1,51.8
+Nigeria,2013,3.4206934,Africa,2597,0,1,52.2
+Nigeria,2014,3.34840417,Africa,2688,0,1,52.7
+Nigeria,2015,3.58194995,Africa,2687,0,1,53.1
+North Macedonia,2000,8.87,Rest of Europe,3283,0,1,72.9
+North Macedonia,2001,8.38,Rest of Europe,3169,0,1,73.4
+North Macedonia,2002,8.98,Rest of Europe,3240,0,1,73.0
+North Macedonia,2003,9.01,Rest of Europe,3301,0,1,73.2
+North Macedonia,2004,8.47,Rest of Europe,3446,0,1,73.6
+North Macedonia,2005,7.68,Rest of Europe,3601,0,1,73.7
+North Macedonia,2006,7.38,Rest of Europe,3780,0,1,73.9
+North Macedonia,2007,6.57,Rest of Europe,4018,0,1,73.8
+North Macedonia,2008,6.55,Rest of Europe,4231,0,1,74.4
+North Macedonia,2009,6.53,Rest of Europe,4208,0,1,74.4
+North Macedonia,2010,6.71,Rest of Europe,4340,0,1,75.0
+North Macedonia,2011,6.52,Rest of Europe,4434,0,1,75.1
+North Macedonia,2012,6.61,Rest of Europe,4408,0,1,74.9
+North Macedonia,2013,6.72,Rest of Europe,4531,0,1,75.4
+North Macedonia,2014,6.29,Rest of Europe,4687,0,1,75.5
+North Macedonia,2015,6.34,Rest of Europe,4862,0,1,75.4
+Norway,2000,7.7,Rest of Europe,67438,1,0,78.6
+Norway,2001,8.01,Rest of Europe,68489,1,0,78.8
+Norway,2002,8.98,Rest of Europe,69106,1,0,79.0
+Norway,2003,9.19,Rest of Europe,69327,1,0,79.4
+Norway,2004,8.8,Rest of Europe,71655,1,0,79.8
+Norway,2005,8.3,Rest of Europe,73037,1,0,80.0
+Norway,2006,7.88,Rest of Europe,74190,1,0,80.3
+Norway,2007,8.02,Rest of Europe,75624,1,0,80.4
+Norway,2008,7.92,Rest of Europe,75044,1,0,80.6
+Norway,2009,9.03,Rest of Europe,72823,1,0,80.8
+Norway,2010,8.86,Rest of Europe,72427,1,0,81.0
+Norway,2011,8.73,Rest of Europe,72195,1,0,81.3
+Norway,2012,8.72,Rest of Europe,73179,1,0,81.5
+Norway,2013,8.87,Rest of Europe,73047,1,0,81.8
+Norway,2014,9.28,Rest of Europe,73650,1,0,82.1
+Norway,2015,10.07,Rest of Europe,74356,1,0,82.3
+Oman,2000,2.68485427,Middle East,20625,0,1,72.1
+Oman,2001,2.70073724,Middle East,21296,0,1,72.6
+Oman,2002,2.77737164,Middle East,20702,0,1,73.0
+Oman,2003,2.77524447,Middle East,19716,0,1,73.4
+Oman,2004,2.59660101,Middle East,19486,0,1,73.9
+Oman,2005,2.26479053,Middle East,19448,0,1,74.2
+Oman,2006,2.01985121,Middle East,19941,0,1,74.6
+Oman,2007,2.11371112,Middle East,20230,0,1,74.9
+Oman,2008,1.75567567,Middle East,21143,0,1,75.2
+Oman,2009,2.4694581,Middle East,21458,0,1,75.4
+Oman,2010,2.47588587,Middle East,20640,0,1,75.7
+Oman,2011,2.23611403,Middle East,19868,0,1,75.9
+Oman,2012,2.27702832,Middle East,20102,0,1,76.1
+Oman,2013,2.5054009,Middle East,19654,0,1,76.4
+Oman,2014,3.13740134,Middle East,18611,0,1,76.6
+Oman,2015,4.07826233,Middle East,18445,0,1,76.9
+Pakistan,2000,2.71176577,Asia,1029,0,1,62.8
+Pakistan,2001,2.54956865,Asia,1039,0,1,63.1
+Pakistan,2002,2.66229343,Asia,1040,0,1,63.3
+Pakistan,2003,2.30006313,Asia,1074,0,1,63.5
+Pakistan,2004,2.22177458,Asia,1129,0,1,63.7
+Pakistan,2005,2.55108738,Asia,1175,0,1,64.0
+Pakistan,2006,2.86177492,Asia,1217,0,1,64.2
+Pakistan,2007,2.81689191,Asia,1247,0,1,64.4
+Pakistan,2008,2.71266913,Asia,1239,0,1,64.7
+Pakistan,2009,2.47458911,Asia,1246,0,1,65.0
+Pakistan,2010,2.39686537,Asia,1239,0,1,65.3
+Pakistan,2011,2.14016914,Asia,1246,0,1,65.6
+Pakistan,2012,2.20038652,Asia,1262,0,1,65.8
+Pakistan,2013,2.4017837,Asia,1290,0,1,66.1
+Pakistan,2014,2.45603824,Asia,1323,0,1,66.4
+Pakistan,2015,2.45764351,Asia,1357,0,1,66.6
+Panama,2000,7.23963356,Central America and Caribbean,6955,0,1,75.1
+Panama,2001,7.17009974,Central America and Caribbean,6861,0,1,75.2
+Panama,2002,7.31349277,Central America and Caribbean,6881,0,1,75.4
+Panama,2003,6.95631361,Central America and Caribbean,7037,0,1,75.6
+Panama,2004,7.34004402,Central America and Caribbean,7427,0,1,75.7
+Panama,2005,6.43272924,Central America and Caribbean,7815,0,1,75.9
+Panama,2006,6.7842741,Central America and Caribbean,8338,0,1,76.1
+Panama,2007,7.62018394,Central America and Caribbean,9169,0,1,76.2
+Panama,2008,7.05229712,Central America and Caribbean,9894,0,1,76.4
+Panama,2009,7.24006367,Central America and Caribbean,9840,0,1,76.6
+Panama,2010,7.4865942,Central America and Caribbean,10232,0,1,76.8
+Panama,2011,7.08092785,Central America and Caribbean,11194,0,1,77.0
+Panama,2012,6.74132681,Central America and Caribbean,12080,0,1,77.2
+Panama,2013,6.75967455,Central America and Caribbean,12695,0,1,77.4
+Panama,2014,7.16729832,Central America and Caribbean,13113,0,1,77.6
+Panama,2015,7.18962574,Central America and Caribbean,13630,0,1,77.8
+Papua New Guinea,2000,2.0184176,Oceania,1884,0,1,59.3
+Papua New Guinea,2001,2.3006382,Oceania,1842,0,1,59.5
+Papua New Guinea,2002,2.77562952,Oceania,1801,0,1,59.7
+Papua New Guinea,2003,2.4531486,Oceania,1803,0,1,60.0
+Papua New Guinea,2004,2.59372902,Oceania,1814,0,1,60.2
+Papua New Guinea,2005,2.44874048,Oceania,1888,0,1,60.5
+Papua New Guinea,2006,2.42600322,Oceania,1944,0,1,60.8
+Papua New Guinea,2007,2.42102122,Oceania,2046,0,1,61.1
+Papua New Guinea,2008,2.13526058,Oceania,1991,0,1,61.4
+Papua New Guinea,2009,2.32937527,Oceania,2077,0,1,61.7
+Papua New Guinea,2010,2.10756016,Oceania,2235,0,1,62.0
+Papua New Guinea,2011,2.29397798,Oceania,2211,0,1,62.3
+Papua New Guinea,2012,2.66693544,Oceania,2266,0,1,62.6
+Papua New Guinea,2013,2.99727893,Oceania,2305,0,1,62.9
+Papua New Guinea,2014,3.27119064,Oceania,2565,0,1,63.2
+Papua New Guinea,2015,1.81881714,Oceania,2679,0,1,63.5
+Paraguay,2000,6.01865244,South America,3904,0,1,70.5
+Paraguay,2001,5.60815811,South America,3797,0,1,70.8
+Paraguay,2002,4.75770569,South America,3725,0,1,71.0
+Paraguay,2003,4.90703917,South America,3816,0,1,71.2
+Paraguay,2004,4.93224335,South America,3903,0,1,71.5
+Paraguay,2005,4.82934713,South America,3923,0,1,71.7
+Paraguay,2006,5.01927567,South America,4049,0,1,71.9
+Paraguay,2007,5.02042723,South America,4208,0,1,72.1
+Paraguay,2008,5.03776026,South America,4420,0,1,72.3
+Paraguay,2009,5.52496862,South America,4350,0,1,72.5
+Paraguay,2010,5.46593952,South America,4767,0,1,72.7
+Paraguay,2011,5.82225847,South America,4904,0,1,72.9
+Paraguay,2012,6.53144598,South America,4803,0,1,73.1
+Paraguay,2013,6.0642848,South America,5130,0,1,73.3
+Paraguay,2014,6.62719059,South America,5329,0,1,73.5
+Paraguay,2015,6.69165802,South America,5414,0,1,73.7
+Peru,2000,4.41482639,South America,3304,0,1,71.1
+Peru,2001,4.72161007,South America,3282,0,1,71.5
+Peru,2002,4.93902254,South America,3422,0,1,71.9
+Peru,2003,4.58695936,South America,3529,0,1,72.2
+Peru,2004,4.42970943,South America,3671,0,1,72.6
+Peru,2005,4.66595268,South America,3868,0,1,72.9
+Peru,2006,4.4095645,South America,4124,0,1,73.2
+Peru,2007,4.42612123,South America,4439,0,1,73.5
+Peru,2008,4.5332098,South America,4805,0,1,73.8
+Peru,2009,4.96515894,South America,4819,0,1,74.1
+Peru,2010,4.71503925,South America,5178,0,1,74.4
+Peru,2011,4.53500509,South America,5461,0,1,74.7
+Peru,2012,4.73488665,South America,5749,0,1,75.0
+Peru,2013,4.7487607,South America,6030,0,1,75.3
+Peru,2014,4.96445227,South America,6109,0,1,75.5
+Peru,2015,4.96122217,South America,6229,0,1,75.8
+Philippines,2000,3.06,Asia,1831,0,1,68.8
+Philippines,2001,2.85,Asia,1847,0,1,68.8
+Philippines,2002,2.64,Asia,1876,0,1,68.9
+Philippines,2003,3.08,Asia,1931,0,1,68.9
+Philippines,2004,3.05,Asia,2018,0,1,69.0
+Philippines,2005,3.74,Asia,2078,0,1,69.1
+Philippines,2006,3.78,Asia,2149,0,1,69.2
+Philippines,2007,3.75,Asia,2251,0,1,69.4
+Philippines,2008,3.86,Asia,2310,0,1,69.5
+Philippines,2009,4.16,Asia,2305,0,1,69.7
+Philippines,2010,4.13,Asia,2433,0,1,69.8
+Philippines,2011,4.03,Asia,2484,0,1,70.0
+Philippines,2012,4.18,Asia,2611,0,1,70.1
+Philippines,2013,4.27,Asia,2740,0,1,70.3
+Philippines,2014,3.7,Asia,2867,0,1,70.5
+Philippines,2015,3.9,Asia,3001,0,1,70.6
+Poland,2000,5.29,European Union,7357,1,0,73.7
+Poland,2001,5.67,European Union,7451,1,0,74.2
+Poland,2002,6.07,European Union,7607,1,0,74.5
+Poland,2003,5.95,European Union,7878,1,0,74.6
+Poland,2004,5.87,European Union,8275,1,0,74.8
+Poland,2005,5.81,European Union,8569,1,0,75.0
+Poland,2006,5.8,European Union,9101,1,0,75.1
+Poland,2007,5.87,European Union,9749,1,0,75.2
+Poland,2008,6.38,European Union,10157,1,0,75.5
+Poland,2009,6.59,European Union,10437,1,0,75.7
+Poland,2010,6.47,European Union,10859,1,0,76.2
+Poland,2011,6.29,European Union,11369,1,0,76.7
+Poland,2012,6.27,European Union,11520,1,0,76.7
+Poland,2013,6.48,European Union,11656,1,0,77.0
+Poland,2014,6.43,European Union,12059,1,0,77.6
+Poland,2015,6.4,European Union,12578,1,0,77.5
+Portugal,2000,8.6,European Union,18795,1,0,76.3
+Portugal,2001,8.63,European Union,19026,1,0,76.8
+Portugal,2002,8.79,European Union,19068,1,0,77.1
+Portugal,2003,9.12,European Union,18819,1,0,77.2
+Portugal,2004,9.53,European Union,19110,1,0,77.7
+Portugal,2005,9.65,European Union,19224,1,0,78.1
+Portugal,2006,9.35,European Union,19501,1,0,78.4
+Portugal,2007,9.25,European Union,19951,1,0,78.3
+Portugal,2008,9.58,European Union,19986,1,0,78.5
+Portugal,2009,10.13,European Union,19343,1,0,78.7
+Portugal,2010,10.03,European Union,19670,1,0,79.0
+Portugal,2011,9.73,European Union,19365,1,0,80.5
+Portugal,2012,9.65,European Union,18655,1,0,80.4
+Portugal,2013,9.4,European Union,18585,1,0,80.7
+Portugal,2014,9.34,European Union,18833,1,0,81.1
+Portugal,2015,9.32,European Union,19250,1,0,81.1
+Qatar,2000,1.97258496,Middle East,56865,0,1,77.5
+Qatar,2001,2.3197093,Middle East,56916,0,1,77.6
+Qatar,2002,2.46044064,Middle East,58542,0,1,77.8
+Qatar,2003,3.50257182,Middle East,57076,0,1,77.9
+Qatar,2004,3.18311739,Middle East,61583,0,1,78.1
+Qatar,2005,2.56300044,Middle East,57624,0,1,78.3
+Qatar,2006,2.288064,Middle East,61522,0,1,78.4
+Qatar,2007,2.07008052,Middle East,60927,0,1,78.6
+Qatar,2008,1.63775349,Middle East,60799,0,1,78.8
+Qatar,2009,2.38356304,Middle East,59091,0,1,78.9
+Qatar,2010,1.87017763,Middle East,63002,0,1,79.1
+Qatar,2011,1.599962,Middle East,65129,0,1,79.3
+Qatar,2012,1.74822152,Middle East,63234,0,1,79.4
+Qatar,2013,2.07620168,Middle East,62733,0,1,79.5
+Qatar,2014,2.42293572,Middle East,62785,0,1,79.6
+Qatar,2015,3.63581347,Middle East,63039,0,1,79.8
+Romania,2000,4.21,European Union,4549,1,0,71.2
+Romania,2001,4.38,European Union,4853,1,0,71.2
+Romania,2002,4.58,European Union,5225,1,0,71.0
+Romania,2003,5.37,European Union,5386,1,0,71.3
+Romania,2004,5.48,European Union,5981,1,0,71.6
+Romania,2005,5.53,European Union,6299,1,0,71.9
+Romania,2006,5.07,European Union,6846,1,0,72.2
+Romania,2007,5.02,European Union,7450,1,0,72.6
+Romania,2008,5.02,European Union,8280,1,0,72.6
+Romania,2009,5.28,European Union,7889,1,0,73.3
+Romania,2010,5.64,European Union,7626,1,0,73.5
+Romania,2011,4.48,European Union,7810,1,0,74.4
+Romania,2012,4.51,European Union,8005,1,0,74.4
+Romania,2013,5.22,European Union,8338,1,0,75.1
+Romania,2014,5.03,European Union,8671,1,0,74.9
+Romania,2015,4.94,European Union,8969,1,0,74.9
+Russian Federation,2000,5.02,Rest of Europe,5324,0,1,65.5
+Russian Federation,2001,5.24,Rest of Europe,5619,0,1,65.4
+Russian Federation,2002,5.52,Rest of Europe,5910,0,1,65.1
+Russian Federation,2003,5.16,Rest of Europe,6370,0,1,65.0
+Russian Federation,2004,4.76,Rest of Europe,6857,0,1,65.5
+Russian Federation,2005,4.77,Rest of Europe,7323,0,1,65.5
+Russian Federation,2006,4.77,Rest of Europe,7950,0,1,66.7
+Russian Federation,2007,4.75,Rest of Europe,8640,0,1,67.6
+Russian Federation,2008,4.9,Rest of Europe,9094,0,1,67.9
+Russian Federation,2009,5.64,Rest of Europe,8382,0,1,68.7
+Russian Federation,2010,4.97,Rest of Europe,8755,0,1,68.8
+Russian Federation,2011,4.79,Rest of Europe,9124,0,1,69.7
+Russian Federation,2012,4.94,Rest of Europe,9476,0,1,70.1
+Russian Federation,2013,5.08,Rest of Europe,9622,0,1,70.6
+Russian Federation,2014,5.18,Rest of Europe,9521,0,1,70.7
+Russian Federation,2015,5.3,Rest of Europe,9313,0,1,71.2
+Rwanda,2000,3.57583427,Africa,345,0,1,48.6
+Rwanda,2001,3.31599975,Africa,361,0,1,49.9
+Rwanda,2002,3.13122177,Africa,399,0,1,51.0
+Rwanda,2003,6.93491793,Africa,401,0,1,52.2
+Rwanda,2004,7.50929976,Africa,425,0,1,53.6
+Rwanda,2005,7.72549963,Africa,457,0,1,55.3
+Rwanda,2006,7.60959911,Africa,488,0,1,57.1
+Rwanda,2007,7.86212587,Africa,512,0,1,58.9
+Rwanda,2008,7.5670433,Africa,554,0,1,60.6
+Rwanda,2009,7.80694866,Africa,573,0,1,62.1
+Rwanda,2010,8.08696938,Africa,599,0,1,63.4
+Rwanda,2011,7.93879843,Africa,631,0,1,64.5
+Rwanda,2012,8.10667801,Africa,669,0,1,65.4
+Rwanda,2013,6.77649164,Africa,683,0,1,66.2
+Rwanda,2014,6.98844194,Africa,708,0,1,66.9
+Rwanda,2015,6.65446424,Africa,751,0,1,67.5
+Samoa,2000,4.28232527,Oceania,3059,0,1,68.7
+Samoa,2001,3.81804991,Oceania,3268,0,1,69.1
+Samoa,2002,4.49205494,Oceania,3433,0,1,69.5
+Samoa,2003,4.17237139,Oceania,3590,0,1,69.8
+Samoa,2004,4.52578545,Oceania,3678,0,1,70.1
+Samoa,2005,4.63365459,Oceania,3897,0,1,70.4
+Samoa,2006,4.88451385,Oceania,3955,0,1,70.6
+Samoa,2007,4.7446332,Oceania,3949,0,1,70.9
+Samoa,2008,4.53258085,Oceania,4062,0,1,71.2
+Samoa,2009,5.12732029,Oceania,4012,0,1,71.4
+Samoa,2010,5.15268326,Oceania,4083,0,1,71.7
+Samoa,2011,5.38357162,Oceania,4219,0,1,71.9
+Samoa,2012,4.9883461,Oceania,4012,0,1,72.1
+Samoa,2013,6.2147789,Oceania,3961,0,1,72.4
+Samoa,2014,6.25431204,Oceania,3932,0,1,72.5
+Samoa,2015,6.21226454,Oceania,4074,0,1,72.7
+Sao Tome and Principe,2000,10.51756001,Central America and Caribbean,1081,0,1,61.4
+Sao Tome and Principe,2001,10.83865166,Central America and Caribbean,1081,0,1,62.0
+Sao Tome and Principe,2002,10.69723701,Central America and Caribbean,1087,0,1,62.7
+Sao Tome and Principe,2003,12.6639061,Central America and Caribbean,1136,0,1,63.4
+Sao Tome and Principe,2004,11.91980934,Central America and Caribbean,1154,0,1,64.0
+Sao Tome and Principe,2005,11.55062962,Central America and Caribbean,1206,0,1,64.7
+Sao Tome and Principe,2006,8.30422878,Central America and Caribbean,1282,0,1,65.3
+Sao Tome and Principe,2007,8.20471764,Central America and Caribbean,1287,0,1,65.9
+Sao Tome and Principe,2008,7.16872263,Central America and Caribbean,1353,0,1,66.4
+Sao Tome and Principe,2009,7.24220848,Central America and Caribbean,1348,0,1,66.9
+Sao Tome and Principe,2010,6.86072636,Central America and Caribbean,1402,0,1,67.4
+Sao Tome and Principe,2011,6.76036882,Central America and Caribbean,1431,0,1,67.9
+Sao Tome and Principe,2012,6.47629499,Central America and Caribbean,1446,0,1,68.3
+Sao Tome and Principe,2013,7.93743753,Central America and Caribbean,1486,0,1,68.7
+Sao Tome and Principe,2014,6.73101807,Central America and Caribbean,1554,0,1,69.1
+Sao Tome and Principe,2015,5.34009647,Central America and Caribbean,1585,0,1,69.4
+Saudi Arabia,2000,4.2115941,Middle East,17691,0,1,72.6
+Saudi Arabia,2001,4.4617424,Middle East,17032,0,1,72.8
+Saudi Arabia,2002,4.2493701,Middle East,16095,0,1,72.9
+Saudi Arabia,2003,3.97910738,Middle East,17385,0,1,73.1
+Saudi Arabia,2004,3.58400226,Middle East,18220,0,1,73.2
+Saudi Arabia,2005,3.41866732,Middle East,18683,0,1,73.3
+Saudi Arabia,2006,3.6192224,Middle East,18670,0,1,73.4
+Saudi Arabia,2007,3.56229162,Middle East,18496,0,1,73.5
+Saudi Arabia,2008,2.97100711,Middle East,19118,0,1,73.6
+Saudi Arabia,2009,4.29042768,Middle East,18203,0,1,73.8
+Saudi Arabia,2010,3.64786315,Middle East,18568,0,1,73.9
+Saudi Arabia,2011,3.68218255,Middle East,19813,0,1,74.1
+Saudi Arabia,2012,3.98779702,Middle East,20250,0,1,74.3
+Saudi Arabia,2013,4.42293596,Middle East,20176,0,1,74.4
+Saudi Arabia,2014,5.15801096,Middle East,20328,0,1,74.5
+Saudi Arabia,2015,5.86202002,Middle East,20628,0,1,74.7
+Senegal,2000,3.55015397,Africa,1067,0,1,57.8
+Senegal,2001,3.68148756,Africa,1086,0,1,58.2
+Senegal,2002,3.95294404,Africa,1061,0,1,58.7
+Senegal,2003,4.29703569,Africa,1093,0,1,59.3
+Senegal,2004,4.56856203,Africa,1115,0,1,59.9
+Senegal,2005,3.67466521,Africa,1134,0,1,60.6
+Senegal,2006,3.76337624,Africa,1130,0,1,61.4
+Senegal,2007,3.41496587,Africa,1132,0,1,62.1
+Senegal,2008,3.50687575,Africa,1143,0,1,62.9
+Senegal,2009,3.841573,Africa,1143,0,1,63.6
+Senegal,2010,4.02764368,Africa,1150,0,1,64.3
+Senegal,2011,4.21416712,Africa,1133,0,1,64.9
+Senegal,2012,4.26688004,Africa,1146,0,1,65.4
+Senegal,2013,4.38573599,Africa,1141,0,1,65.9
+Senegal,2014,4.38962269,Africa,1179,0,1,66.4
+Senegal,2015,4.37789631,Africa,1219,0,1,66.7
+Serbia,2000,6.18360472,Rest of Europe,3193,0,1,71.6
+Serbia,2001,6.49679995,Rest of Europe,3419,0,1,72.2
+Serbia,2002,7.59296274,Rest of Europe,3640,0,1,72.3
+Serbia,2003,7.66696072,Rest of Europe,3808,0,1,72.4
+Serbia,2004,7.84200048,Rest of Europe,4162,0,1,72.7
+Serbia,2005,8.28380585,Rest of Europe,4405,0,1,72.8
+Serbia,2006,8.49390411,Rest of Europe,4648,0,1,73.4
+Serbia,2007,9.3764925,Rest of Europe,4968,0,1,73.6
+Serbia,2008,9.48246479,Rest of Europe,5271,0,1,73.9
+Serbia,2009,9.34623528,Rest of Europe,5148,0,1,74.0
+Serbia,2010,9.5273037,Rest of Europe,5206,0,1,74.3
+Serbia,2011,9.11380386,Rest of Europe,5354,0,1,74.5
+Serbia,2012,9.32820415,Rest of Europe,5344,0,1,74.8
+Serbia,2013,9.31232452,Rest of Europe,5525,0,1,75.2
+Serbia,2014,9.24598789,Rest of Europe,5463,0,1,75.3
+Serbia,2015,8.81319809,Rest of Europe,5589,0,1,75.3
+Seychelles,2000,4.61071777,Africa,11178,0,1,72.8
+Seychelles,2001,5.01642942,Africa,10915,0,1,73.3
+Seychelles,2002,4.35287333,Africa,10714,0,1,71.1
+Seychelles,2003,5.08738041,Africa,10198,0,1,71.0
+Seychelles,2004,4.90274191,Africa,9944,0,1,72.7
+Seychelles,2005,4.66865683,Africa,10790,0,1,72.1
+Seychelles,2006,4.39767885,Africa,11562,0,1,72.2
+Seychelles,2007,3.85076666,Africa,12702,0,1,73.1
+Seychelles,2008,3.61745405,Africa,12154,0,1,73.2
+Seychelles,2009,3.54135323,Africa,11973,0,1,73.1
+Seychelles,2010,4.50142097,Africa,12336,0,1,73.2
+Seychelles,2011,4.46079111,Africa,13664,0,1,72.7
+Seychelles,2012,5.39592934,Africa,13701,0,1,74.3
+Seychelles,2013,4.24818325,Africa,14260,0,1,73.1
+Seychelles,2014,4.59131193,Africa,14672,0,1,73.2
+Seychelles,2015,4.37339973,Africa,15158,0,1,74.3
+Sierra Leone,2000,8.48961735,Africa,403,0,1,39.4
+Sierra Leone,2001,8.36564541,Africa,364,0,1,40.4
+Sierra Leone,2002,9.40313911,Africa,441,0,1,41.4
+Sierra Leone,2003,8.4533062,Africa,460,0,1,42.4
+Sierra Leone,2004,8.67061424,Africa,469,0,1,43.5
+Sierra Leone,2005,9.04395866,Africa,472,0,1,44.5
+Sierra Leone,2006,9.02353287,Africa,476,0,1,45.5
+Sierra Leone,2007,8.52283859,Africa,501,0,1,46.5
+Sierra Leone,2008,8.81158161,Africa,516,0,1,47.5
+Sierra Leone,2009,9.68422222,Africa,520,0,1,48.5
+Sierra Leone,2010,9.12688351,Africa,536,0,1,49.4
+Sierra Leone,2011,10.76753807,Africa,557,0,1,50.2
+Sierra Leone,2012,8.94355106,Africa,627,0,1,51.0
+Sierra Leone,2013,11.59017754,Africa,740,0,1,51.7
+Sierra Leone,2014,19.69004631,Africa,757,0,1,52.4
+Sierra Leone,2015,19.65816307,Africa,588,0,1,52.9
+Singapore,2000,3.343364,Asia,34891,0,1,78.0
+Singapore,2001,3.16302657,Asia,33598,0,1,78.3
+Singapore,2002,3.358464,Asia,34599,0,1,78.6
+Singapore,2003,3.60699272,Asia,36710,0,1,79.0
+Singapore,2004,3.15019798,Asia,39857,0,1,79.5
+Singapore,2005,3.03367925,Asia,41799,0,1,80.0
+Singapore,2006,2.9347465,Asia,44160,0,1,80.1
+Singapore,2007,2.83749056,Asia,46180,0,1,80.4
+Singapore,2008,3.19488454,Asia,44602,0,1,80.8
+Singapore,2009,3.39853096,Asia,43333,0,1,81.2
+Singapore,2010,3.20265388,Asia,48753,0,1,81.5
+Singapore,2011,3.15792179,Asia,50714,0,1,81.7
+Singapore,2012,3.32783675,Asia,51680,0,1,82.0
+Singapore,2013,3.68562651,Asia,53300,0,1,82.2
+Singapore,2014,3.87155652,Asia,54683,0,1,82.5
+Singapore,2015,4.18069839,Asia,55647,0,1,82.7
+Slovak Republic,2000,5.3,European Union,8915,1,0,73.1
+Slovak Republic,2001,5.33,European Union,9222,1,0,73.4
+Slovak Republic,2002,5.51,European Union,9641,1,0,73.6
+Slovak Republic,2003,5.45,European Union,10178,1,0,73.6
+Slovak Republic,2004,6.37,European Union,10717,1,0,74.0
+Slovak Republic,2005,6.59,European Union,11426,1,0,73.9
+Slovak Republic,2006,6.85,European Union,12396,1,0,74.2
+Slovak Republic,2007,7.18,European Union,13734,1,0,74.2
+Slovak Republic,2008,6.96,European Union,14488,1,0,74.7
+Slovak Republic,2009,7.95,European Union,13679,1,0,74.9
+Slovak Republic,2010,7.67,European Union,14526,1,0,75.1
+Slovak Republic,2011,7.3,European Union,14890,1,0,76.0
+Slovak Republic,2012,7.54,European Union,15067,1,0,76.1
+Slovak Republic,2013,7.5,European Union,15149,1,0,76.4
+Slovak Republic,2014,6.88,European Union,15547,1,0,76.8
+Slovak Republic,2015,6.76,European Union,16342,1,0,76.6
+Slovenia,2000,7.8,European Union,16241,1,0,75.4
+Slovenia,2001,7.88,European Union,16737,1,0,75.8
+Slovenia,2002,8.02,European Union,17302,1,0,76.0
+Slovenia,2003,8.1,European Union,17803,1,0,76.9
+Slovenia,2004,7.94,European Union,18568,1,0,77.2
+Slovenia,2005,8.0,European Union,19239,1,0,77.6
+Slovenia,2006,7.82,European Union,20280,1,0,78.1
+Slovenia,2007,7.51,European Union,21575,1,0,78.6
+Slovenia,2008,7.85,European Union,22297,1,0,78.8
+Slovenia,2009,8.54,European Union,20428,1,0,79.0
+Slovenia,2010,8.57,European Union,20613,1,0,79.4
+Slovenia,2011,8.54,European Union,20747,1,0,80.0
+Slovenia,2012,8.72,European Union,20157,1,0,80.1
+Slovenia,2013,8.74,European Union,19922,1,0,80.3
+Slovenia,2014,8.5,European Union,20454,1,0,81.1
+Slovenia,2015,8.5,European Union,20890,1,0,80.8
+Solomon Islands,2000,4.82626629,Oceania,1939,0,1,67.4
+Solomon Islands,2001,6.60538721,Oceania,1737,0,1,67.8
+Solomon Islands,2002,10.10495281,Oceania,1644,0,1,68.2
+Solomon Islands,2003,7.075634,Oceania,1706,0,1,68.5
+Solomon Islands,2004,7.72383881,Oceania,1774,0,1,68.8
+Solomon Islands,2005,9.01593494,Oceania,1827,0,1,69.2
+Solomon Islands,2006,8.00584698,Oceania,1871,0,1,69.5
+Solomon Islands,2007,7.18298769,Oceania,1910,0,1,69.8
+Solomon Islands,2008,5.50597048,Oceania,1976,0,1,70.1
+Solomon Islands,2009,6.60598898,Oceania,1980,0,1,70.4
+Solomon Islands,2010,4.66139841,Oceania,2099,0,1,70.7
+Solomon Islands,2011,5.02313328,Oceania,2195,0,1,71.0
+Solomon Islands,2012,4.87480497,Oceania,2178,0,1,71.3
+Solomon Islands,2013,4.57886171,Oceania,2232,0,1,71.6
+Solomon Islands,2014,4.88791895,Oceania,2195,0,1,71.9
+Solomon Islands,2015,4.44578695,Oceania,2167,0,1,72.2
+South Africa,2000,7.3366189,Africa,4930,0,1,56.0
+South Africa,2001,7.12327909,Africa,4996,0,1,55.1
+South Africa,2002,6.67774487,Africa,5116,0,1,54.3
+South Africa,2003,7.04098177,Africa,5203,0,1,53.7
+South Africa,2004,6.938416,Africa,5374,0,1,53.4
+South Africa,2005,6.86216164,Africa,5588,0,1,53.4
+South Africa,2006,6.87650871,Africa,5827,0,1,53.8
+South Africa,2007,6.90510845,Africa,6060,0,1,54.5
+South Africa,2008,7.14832258,Africa,6171,0,1,55.4
+South Africa,2009,7.64941454,Africa,5992,0,1,56.5
+South Africa,2010,7.79358244,Africa,6085,0,1,57.7
+South Africa,2011,7.94434404,Africa,6183,0,1,58.9
+South Africa,2012,8.00428867,Africa,6232,0,1,60.1
+South Africa,2013,8.10322285,Africa,6285,0,1,61.1
+South Africa,2014,7.87136555,Africa,6274,0,1,62.0
+South Africa,2015,8.05304241,Africa,6260,0,1,62.6
+Spain,2000,6.7992177,European Union,23938,1,0,79.0
+Spain,2001,6.76895761,European Union,24708,1,0,79.4
+Spain,2002,6.80052757,European Union,25026,1,0,79.6
+Spain,2003,7.56327057,European Union,25311,1,0,79.6
+Spain,2004,7.65842772,European Union,25655,1,0,79.9
+Spain,2005,7.73191786,European Union,26146,1,0,80.2
+Spain,2006,7.82905865,European Union,26763,1,0,80.8
+Spain,2007,7.9186573,European Union,27219,1,0,80.9
+Spain,2008,8.38225937,European Union,27026,1,0,81.2
+Spain,2009,9.10764122,European Union,25779,1,0,81.5
+Spain,2010,9.11891174,European Union,25703,1,0,81.6
+Spain,2011,9.1679697,European Union,25403,1,0,82.5
+Spain,2012,9.15415382,European Union,24635,1,0,82.4
+Spain,2013,9.06397724,European Union,24361,1,0,83.1
+Spain,2014,9.08488464,European Union,24772,1,0,83.2
+Spain,2015,9.12207508,European Union,25742,1,0,82.8
+Sri Lanka,2000,4.11,Asia,1923,0,1,71.3
+Sri Lanka,2001,4.06,Asia,1880,0,1,72.2
+Sri Lanka,2002,4.04,Asia,1939,0,1,73.1
+Sri Lanka,2003,3.65,Asia,2037,0,1,73.8
+Sri Lanka,2004,4.04,Asia,2130,0,1,74.3
+Sri Lanka,2005,3.88,Asia,2245,0,1,74.7
+Sri Lanka,2006,3.85,Asia,2398,0,1,74.9
+Sri Lanka,2007,3.82,Asia,2543,0,1,75.0
+Sri Lanka,2008,3.85,Asia,2675,0,1,75.2
+Sri Lanka,2009,4.06,Asia,2750,0,1,75.3
+Sri Lanka,2010,3.74,Asia,2950,0,1,75.4
+Sri Lanka,2011,3.58,Asia,3177,0,1,75.6
+Sri Lanka,2012,3.31,Asia,3463,0,1,75.8
+Sri Lanka,2013,3.69,Asia,3553,0,1,76.0
+Sri Lanka,2014,3.47,Asia,3694,0,1,76.1
+Sri Lanka,2015,3.68,Asia,3844,0,1,76.3
+St. Lucia,2000,4.86549902,Central America and Caribbean,9327,0,1,73.3
+St. Lucia,2001,5.12139463,Central America and Caribbean,8927,0,1,73.5
+St. Lucia,2002,5.38887024,Central America and Caribbean,8896,0,1,73.6
+St. Lucia,2003,5.24069643,Central America and Caribbean,9209,0,1,73.8
+St. Lucia,2004,4.76760817,Central America and Caribbean,9800,0,1,74.0
+St. Lucia,2005,4.86039829,Central America and Caribbean,9665,0,1,74.1
+St. Lucia,2006,5.1270175,Central America and Caribbean,10141,0,1,74.3
+St. Lucia,2007,5.54166603,Central America and Caribbean,10174,0,1,74.4
+St. Lucia,2008,5.09061956,Central America and Caribbean,10528,0,1,74.6
+St. Lucia,2009,5.24410772,Central America and Caribbean,10099,0,1,74.7
+St. Lucia,2010,5.05308437,Central America and Caribbean,10151,0,1,74.9
+St. Lucia,2011,5.07998085,Central America and Caribbean,10619,0,1,75.0
+St. Lucia,2012,4.9241581,Central America and Caribbean,10531,0,1,75.1
+St. Lucia,2013,5.04967594,Central America and Caribbean,10148,0,1,75.3
+St. Lucia,2014,4.62420511,Central America and Caribbean,10280,0,1,75.4
+St. Lucia,2015,4.51419878,Central America and Caribbean,10094,0,1,75.6
+St. Vincent and the Grenadines,2000,3.97939277,Central America and Caribbean,5339,0,1,70.8
+St. Vincent and the Grenadines,2001,4.00093412,Central America and Caribbean,5427,0,1,70.9
+St. Vincent and the Grenadines,2002,4.07769632,Central America and Caribbean,5706,0,1,71.0
+St. Vincent and the Grenadines,2003,3.95764542,Central America and Caribbean,6075,0,1,71.1
+St. Vincent and the Grenadines,2004,3.8658421,Central America and Caribbean,6313,0,1,71.2
+St. Vincent and the Grenadines,2005,3.83165979,Central America and Caribbean,6465,0,1,71.3
+St. Vincent and the Grenadines,2006,3.65356708,Central America and Caribbean,6918,0,1,71.4
+St. Vincent and the Grenadines,2007,3.81816602,Central America and Caribbean,7154,0,1,71.6
+St. Vincent and the Grenadines,2008,3.88194203,Central America and Caribbean,7190,0,1,71.6
+St. Vincent and the Grenadines,2009,4.09299564,Central America and Caribbean,7098,0,1,71.7
+St. Vincent and the Grenadines,2010,4.30325222,Central America and Caribbean,6783,0,1,71.8
+St. Vincent and the Grenadines,2011,4.23108053,Central America and Caribbean,6738,0,1,71.8
+St. Vincent and the Grenadines,2012,4.45042276,Central America and Caribbean,6810,0,1,71.9
+St. Vincent and the Grenadines,2013,4.24191046,Central America and Caribbean,6965,0,1,71.9
+St. Vincent and the Grenadines,2014,4.17631912,Central America and Caribbean,7029,0,1,72.0
+St. Vincent and the Grenadines,2015,4.11412001,Central America and Caribbean,7207,0,1,72.1
+Suriname,2000,5.87092161,South America,6202,0,1,67.8
+Suriname,2001,3.82474971,South America,6387,0,1,67.9
+Suriname,2002,5.32991552,South America,6488,0,1,68.1
+Suriname,2003,4.88878393,South America,6816,0,1,68.3
+Suriname,2004,5.4608078,South America,7310,0,1,68.6
+Suriname,2005,5.2439642,South America,7550,0,1,68.9
+Suriname,2006,5.85598755,South America,7896,0,1,69.2
+Suriname,2007,5.22148609,South America,8204,0,1,69.6
+Suriname,2008,4.74699593,South America,8445,0,1,69.9
+Suriname,2009,4.97810316,South America,8600,0,1,70.2
+Suriname,2010,4.6978569,South America,8942,0,1,70.5
+Suriname,2011,4.40932178,South America,9358,0,1,70.7
+Suriname,2012,4.28435707,South America,9502,0,1,70.9
+Suriname,2013,4.48738098,South America,9673,0,1,71.0
+Suriname,2014,4.52127838,South America,9593,0,1,71.1
+Suriname,2015,5.80808163,South America,9168,0,1,71.2
+Sweden,2000,7.33,European Union,41117,1,0,79.6
+Sweden,2001,7.9,European Union,41601,1,0,79.8
+Sweden,2002,8.21,European Union,42377,1,0,79.8
+Sweden,2003,8.32,European Union,43195,1,0,80.1
+Sweden,2004,8.13,European Union,44891,1,0,80.5
+Sweden,2005,8.15,European Union,45990,1,0,80.5
+Sweden,2006,8.05,European Union,47865,1,0,80.7
+Sweden,2007,8.0,European Union,49145,1,0,80.9
+Sweden,2008,8.21,European Union,48544,1,0,81.1
+Sweden,2009,8.77,European Union,46043,1,0,81.4
+Sweden,2010,8.32,European Union,48370,1,0,81.5
+Sweden,2011,10.42,European Union,49540,1,0,81.8
+Sweden,2012,10.74,European Union,48886,1,0,81.7
+Sweden,2013,10.9,European Union,49049,1,0,82.0
+Sweden,2014,10.95,European Union,49855,1,0,82.3
+Sweden,2015,10.8,European Union,51545,1,0,82.2
+Switzerland,2000,9.13442421,Rest of Europe,74013,1,0,79.7
+Switzerland,2001,9.46040154,Rest of Europe,74705,1,0,80.2
+Switzerland,2002,9.88000202,Rest of Europe,74138,1,0,80.4
+Switzerland,2003,10.13696766,Rest of Europe,73556,1,0,80.5
+Switzerland,2004,10.22576523,Rest of Europe,75113,1,0,81.1
+Switzerland,2005,10.05823421,Rest of Europe,76785,1,0,81.2
+Switzerland,2006,9.58019924,Rest of Europe,79368,1,0,81.5
+Switzerland,2007,9.41693878,Rest of Europe,81805,1,0,81.7
+Switzerland,2008,9.53167629,Rest of Europe,82998,1,0,82.0
+Switzerland,2009,10.1415062,Rest of Europe,80262,1,0,82.0
+Switzerland,2010,9.93353558,Rest of Europe,82027,1,0,82.2
+Switzerland,2011,10.04628563,Rest of Europe,82678,1,0,82.7
+Switzerland,2012,10.14446354,Rest of Europe,82800,1,0,82.7
+Switzerland,2013,10.37922478,Rest of Europe,83345,1,0,82.8
+Switzerland,2014,10.42800808,Rest of Europe,84348,1,0,83.2
+Switzerland,2015,10.77887917,Rest of Europe,84776,1,0,82.9
+Syrian Arab Republic,2000,4.55400705,Middle East,1341,0,1,73.1
+Syrian Arab Republic,2001,4.6971879,Middle East,1326,0,1,73.4
+Syrian Arab Republic,2002,4.94717073,Middle East,1353,0,1,73.7
+Syrian Arab Republic,2003,5.11781693,Middle East,1423,0,1,74.0
+Syrian Arab Republic,2004,4.47935343,Middle East,1486,0,1,74.3
+Syrian Arab Republic,2005,4.10970592,Middle East,1532,0,1,74.4
+Syrian Arab Republic,2006,3.77771473,Middle East,1550,0,1,74.4
+Syrian Arab Republic,2007,3.72242856,Middle East,1571,0,1,74.2
+Syrian Arab Republic,2008,3.39762759,Middle East,1579,0,1,73.6
+Syrian Arab Republic,2009,3.5464704,Middle East,1629,0,1,72.9
+Syrian Arab Republic,2010,3.2764473,Middle East,1701,0,1,72.1
+Syrian Arab Republic,2011,2.52865291,Middle East,1773,0,1,71.3
+Syrian Arab Republic,2012,3.04719615,Middle East,1347,0,1,70.6
+Tajikistan,2000,4.26,Asia,434,0,1,62.0
+Tajikistan,2001,4.58,Asia,468,0,1,62.8
+Tajikistan,2002,4.44,Asia,510,0,1,63.7
+Tajikistan,2003,4.7,Asia,556,0,1,64.5
+Tajikistan,2004,4.8,Asia,602,0,1,65.3
+Tajikistan,2005,5.21,Asia,631,0,1,66.1
+Tajikistan,2006,5.03,Asia,662,0,1,66.8
+Tajikistan,2007,5.54,Asia,699,0,1,67.4
+Tajikistan,2008,5.91,Asia,739,0,1,67.9
+Tajikistan,2009,5.86,Asia,752,0,1,68.4
+Tajikistan,2010,5.74,Asia,783,0,1,68.7
+Tajikistan,2011,5.86,Asia,823,0,1,69.1
+Tajikistan,2012,5.98,Asia,865,0,1,69.3
+Tajikistan,2013,6.53,Asia,907,0,1,69.6
+Tajikistan,2014,6.67,Asia,945,0,1,69.9
+Tajikistan,2015,6.91,Asia,978,0,1,70.1
+Tanzania,2000,3.41529942,Africa,568,0,1,50.8
+Tanzania,2001,4.23551702,Africa,587,0,1,51.4
+Tanzania,2002,4.68907642,Africa,611,0,1,52.1
+Tanzania,2003,5.34231472,Africa,634,0,1,52.9
+Tanzania,2004,5.7373414,Africa,663,0,1,53.6
+Tanzania,2005,6.32282543,Africa,692,0,1,54.3
+Tanzania,2006,7.598279,Africa,717,0,1,55.1
+Tanzania,2007,6.88427973,Africa,745,0,1,55.9
+Tanzania,2008,5.55704737,Africa,765,0,1,56.8
+Tanzania,2009,5.06306362,Africa,782,0,1,57.7
+Tanzania,2010,5.22392178,Africa,808,0,1,58.6
+Tanzania,2011,5.0559845,Africa,845,0,1,59.5
+Tanzania,2012,5.01779366,Africa,857,0,1,60.5
+Tanzania,2013,4.64643383,Africa,888,0,1,61.4
+Tanzania,2014,4.01492071,Africa,920,0,1,62.3
+Tanzania,2015,3.64969945,Africa,948,0,1,63.1
+Thailand,2000,3.10125351,Asia,3518,0,1,70.6
+Thailand,2001,3.02623773,Asia,3605,0,1,70.8
+Thailand,2002,3.334723,Asia,3795,0,1,71.1
+Thailand,2003,3.24312782,Asia,4038,0,1,71.4
+Thailand,2004,3.13893151,Asia,4263,0,1,71.7
+Thailand,2005,3.15972233,Asia,4412,0,1,72.1
+Thailand,2006,3.09970832,Asia,4604,0,1,72.5
+Thailand,2007,3.19277525,Asia,4827,0,1,72.9
+Thailand,2008,3.45933938,Asia,4884,0,1,73.3
+Thailand,2009,3.61939645,Asia,4826,0,1,73.8
+Thailand,2010,3.39009809,Asia,5164,0,1,74.2
+Thailand,2011,3.56825495,Asia,5182,0,1,74.6
+Thailand,2012,3.5229404,Asia,5531,0,1,75.0
+Thailand,2013,3.45313334,Asia,5654,0,1,75.4
+Thailand,2014,3.68448091,Asia,5685,0,1,75.7
+Thailand,2015,3.8522861,Asia,5840,0,1,76.1
+Timor-Leste,2003,2.84187031,Oceania,934,0,1,61.9
+Timor-Leste,2004,4.26103544,Oceania,913,0,1,62.9
+Timor-Leste,2005,5.28044748,Oceania,919,0,1,63.9
+Timor-Leste,2006,6.00192022,Oceania,862,0,1,64.8
+Timor-Leste,2007,5.64793253,Oceania,933,0,1,65.6
+Timor-Leste,2008,6.96563959,Oceania,1020,0,1,66.3
+Timor-Leste,2009,7.30931807,Oceania,1104,0,1,66.8
+Timor-Leste,2010,6.47058821,Oceania,1186,0,1,67.2
+Timor-Leste,2011,6.86541462,Oceania,1234,0,1,67.5
+Timor-Leste,2012,6.99215221,Oceania,1271,0,1,67.7
+Timor-Leste,2013,8.5323782,Oceania,1287,0,1,68.0
+Timor-Leste,2014,7.60483742,Oceania,1321,0,1,68.2
+Timor-Leste,2015,7.67216587,Oceania,1333,0,1,68.5
+Togo,2000,2.79418182,Africa,506,0,1,53.5
+Togo,2001,2.88543367,Africa,496,0,1,53.6
+Togo,2002,2.90227056,Africa,501,0,1,53.7
+Togo,2003,2.93837667,Africa,522,0,1,53.9
+Togo,2004,3.0855279,Africa,504,0,1,54.2
+Togo,2005,3.3024261,Africa,468,0,1,54.6
+Togo,2006,3.44603634,Africa,468,0,1,55.1
+Togo,2007,3.8666532,Africa,450,0,1,55.6
+Togo,2008,3.84063601,Africa,456,0,1,56.2
+Togo,2009,4.07616663,Africa,468,0,1,56.8
+Togo,2010,4.45493317,Africa,483,0,1,57.5
+Togo,2011,4.55412722,Africa,501,0,1,58.1
+Togo,2012,4.80787134,Africa,519,0,1,58.7
+Togo,2013,4.94373512,Africa,537,0,1,59.2
+Togo,2014,5.07998943,Africa,554,0,1,59.6
+Togo,2015,4.95647097,Africa,571,0,1,59.9
+Tonga,2000,2.90389204,Oceania,3672,0,1,69.7
+Tonga,2001,3.42501593,Oceania,3790,0,1,69.7
+Tonga,2002,3.58957744,Oceania,3952,0,1,69.8
+Tonga,2003,3.43583083,Oceania,4020,0,1,69.8
+Tonga,2004,4.50741625,Oceania,3899,0,1,69.8
+Tonga,2005,4.38560247,Oceania,3875,0,1,69.8
+Tonga,2006,5.47225046,Oceania,3839,0,1,69.9
+Tonga,2007,4.73330021,Oceania,3817,0,1,69.9
+Tonga,2008,6.05759716,Oceania,3967,0,1,69.9
+Tonga,2009,3.92779636,Oceania,3742,0,1,70.0
+Tonga,2010,4.81632328,Oceania,3769,0,1,70.1
+Tonga,2011,3.82126665,Oceania,4043,0,1,70.1
+Tonga,2012,4.79517698,Oceania,4108,0,1,70.2
+Tonga,2013,3.9839797,Oceania,4160,0,1,70.3
+Tonga,2014,5.00648069,Oceania,4276,0,1,70.4
+Tonga,2015,4.47327423,Oceania,4336,0,1,70.5
+Trinidad and Tobago,2000,4.23492479,Central America and Caribbean,10669,0,1,69.4
+Trinidad and Tobago,2001,4.0346489,Central America and Caribbean,11074,0,1,69.7
+Trinidad and Tobago,2002,4.72302485,Central America and Caribbean,11901,0,1,69.9
+Trinidad and Tobago,2003,4.18767118,Central America and Caribbean,13552,0,1,70.2
+Trinidad and Tobago,2004,4.30805206,Central America and Caribbean,14556,0,1,70.4
+Trinidad and Tobago,2005,4.43451166,Central America and Caribbean,15383,0,1,70.7
+Trinidad and Tobago,2006,4.15431976,Central America and Caribbean,17334,0,1,71.0
+Trinidad and Tobago,2007,4.1536026,Central America and Caribbean,18076,0,1,71.2
+Trinidad and Tobago,2008,3.6575706,Central America and Caribbean,18604,0,1,71.5
+Trinidad and Tobago,2009,5.48676443,Central America and Caribbean,17700,0,1,71.7
+Trinidad and Tobago,2010,5.08042908,Central America and Caribbean,18189,0,1,71.9
+Trinidad and Tobago,2011,4.72197914,Central America and Caribbean,18026,0,1,72.2
+Trinidad and Tobago,2012,4.63289499,Central America and Caribbean,18151,0,1,72.4
+Trinidad and Tobago,2013,4.80276918,Central America and Caribbean,18441,0,1,72.6
+Trinidad and Tobago,2014,4.87136698,Central America and Caribbean,18167,0,1,72.8
+Trinidad and Tobago,2015,5.65026045,Central America and Caribbean,18384,0,1,72.9
+Tunisia,2000,4.81271935,Africa,2881,0,1,73.2
+Tunisia,2001,4.86132765,Africa,2965,0,1,73.4
+Tunisia,2002,5.12036419,Africa,2980,0,1,73.6
+Tunisia,2003,5.20888519,Africa,3097,0,1,73.8
+Tunisia,2004,5.19890785,Africa,3265,0,1,74.0
+Tunisia,2005,5.14555788,Africa,3351,0,1,74.2
+Tunisia,2006,5.13109922,Africa,3494,0,1,74.4
+Tunisia,2007,5.17542839,Africa,3691,0,1,74.6
+Tunisia,2008,5.1644063,Africa,3806,0,1,74.7
+Tunisia,2009,5.40595293,Africa,3881,0,1,74.9
+Tunisia,2010,5.60950756,Africa,3955,0,1,75.0
+Tunisia,2011,6.12299299,Africa,3836,0,1,75.2
+Tunisia,2012,6.28984737,Africa,3959,0,1,75.4
+Tunisia,2013,6.51394987,Africa,4016,0,1,75.6
+Tunisia,2014,6.45006084,Africa,4098,0,1,75.7
+Tunisia,2015,6.21339941,Africa,4095,0,1,75.9
+Turkiye,2000,4.6,Middle East,6544,0,1,70.0
+Turkiye,2001,4.89,Middle East,6076,0,1,70.6
+Turkiye,2002,5.06,Middle East,6373,0,1,71.1
+Turkiye,2003,5.01,Middle East,6644,0,1,71.6
+Turkiye,2004,4.91,Middle East,7195,0,1,72.0
+Turkiye,2005,4.89,Middle East,7739,0,1,72.4
+Turkiye,2006,5.15,Middle East,8174,0,1,72.8
+Turkiye,2007,5.24,Middle East,8484,0,1,73.2
+Turkiye,2008,5.22,Middle East,8451,0,1,73.6
+Turkiye,2009,5.49,Middle East,7942,0,1,74.1
+Turkiye,2010,5.02,Middle East,8492,0,1,74.5
+Turkiye,2011,4.65,Middle East,9299,0,1,74.9
+Turkiye,2012,4.44,Middle East,9587,0,1,75.4
+Turkiye,2013,4.37,Middle East,10226,0,1,75.8
+Turkiye,2014,4.33,Middle East,10550,0,1,76.2
+Turkiye,2015,4.12,Middle East,11006,0,1,76.5
+Turkmenistan,2000,4.07783461,Asia,2288,0,1,63.6
+Turkmenistan,2001,4.82198191,Asia,2363,0,1,63.8
+Turkmenistan,2002,4.15504408,Asia,2345,0,1,64.1
+Turkmenistan,2003,5.0367589,Asia,2398,0,1,64.4
+Turkmenistan,2004,6.25892353,Asia,2492,0,1,64.7
+Turkmenistan,2005,5.65422964,Asia,2787,0,1,65.0
+Turkmenistan,2006,4.97834015,Asia,3057,0,1,65.4
+Turkmenistan,2007,3.12948632,Asia,3353,0,1,65.7
+Turkmenistan,2008,3.49424887,Asia,3795,0,1,66.0
+Turkmenistan,2009,2.84764099,Asia,3968,0,1,66.4
+Turkmenistan,2010,3.24345636,Asia,4266,0,1,66.7
+Turkmenistan,2011,3.24805617,Asia,4811,0,1,66.9
+Turkmenistan,2012,3.36840105,Asia,5250,0,1,67.2
+Turkmenistan,2013,3.93541193,Asia,5679,0,1,67.4
+Turkmenistan,2014,4.30969286,Asia,6149,0,1,67.6
+Turkmenistan,2015,5.11721087,Asia,6433,0,1,67.7
+Uganda,2000,5.08276892,Africa,517,0,1,46.2
+Uganda,2001,5.05207348,Africa,527,0,1,47.2
+Uganda,2002,4.77135611,Africa,555,0,1,48.3
+Uganda,2003,4.29918194,Africa,573,0,1,49.4
+Uganda,2004,4.7002449,Africa,593,0,1,50.6
+Uganda,2005,5.80518579,Africa,610,0,1,51.7
+Uganda,2006,6.46332979,Africa,655,0,1,52.8
+Uganda,2007,6.1131134,Africa,688,0,1,53.9
+Uganda,2008,5.45476198,Africa,725,0,1,55.0
+Uganda,2009,5.78845549,Africa,750,0,1,56.1
+Uganda,2010,6.80890226,Africa,768,0,1,57.1
+Uganda,2011,6.6959095,Africa,814,0,1,58.1
+Uganda,2012,6.10853958,Africa,818,0,1,59.0
+Uganda,2013,5.78252411,Africa,821,0,1,59.9
+Uganda,2014,5.33653069,Africa,834,0,1,60.7
+Uganda,2015,5.0745697,Africa,847,0,1,61.4
+Ukraine,2000,5.31,Rest of Europe,1420,0,1,67.7
+Ukraine,2001,5.73,Rest of Europe,1561,0,1,67.8
+Ukraine,2002,5.99,Rest of Europe,1660,0,1,68.3
+Ukraine,2003,6.55,Rest of Europe,1833,0,1,68.2
+Ukraine,2004,6.17,Rest of Europe,2065,0,1,68.2
+Ukraine,2005,6.35,Rest of Europe,2144,0,1,68.0
+Ukraine,2006,6.42,Rest of Europe,2322,0,1,68.1
+Ukraine,2007,6.02,Rest of Europe,2528,0,1,68.2
+Ukraine,2008,5.5,Rest of Europe,2599,0,1,68.3
+Ukraine,2009,6.61,Rest of Europe,2215,0,1,69.2
+Ukraine,2010,6.81,Rest of Europe,2315,0,1,70.3
+Ukraine,2011,6.82,Rest of Europe,2450,0,1,70.8
+Ukraine,2012,7.12,Rest of Europe,2460,0,1,70.9
+Ukraine,2013,6.94,Rest of Europe,2466,0,1,71.2
+Ukraine,2014,7.2,Rest of Europe,2346,0,1,71.2
+Ukraine,2015,7.78,Rest of Europe,2125,0,1,71.2
+United Arab Emirates,2000,2.37413526,Middle East,60716,0,1,74.3
+United Arab Emirates,2001,2.48437047,Middle East,58422,0,1,74.5
+United Arab Emirates,2002,2.71770859,Middle East,56815,0,1,74.8
+United Arab Emirates,2003,2.64634395,Middle East,57932,0,1,75.0
+United Arab Emirates,2004,2.46204329,Middle East,57910,0,1,75.2
+United Arab Emirates,2005,2.32019687,Middle East,53845,0,1,75.4
+United Arab Emirates,2006,2.3254137,Middle East,51197,0,1,75.6
+United Arab Emirates,2007,2.56569624,Middle East,45389,0,1,75.8
+United Arab Emirates,2008,2.92847514,Middle East,40755,0,1,76.0
+United Arab Emirates,2009,4.04999304,Middle East,34580,0,1,76.1
+United Arab Emirates,2010,3.87873054,Middle East,32535,0,1,76.3
+United Arab Emirates,2011,3.67006993,Middle East,33246,0,1,76.5
+United Arab Emirates,2012,3.33596373,Middle East,33997,0,1,76.7
+United Arab Emirates,2013,3.50222182,Middle East,35496,0,1,76.9
+United Arab Emirates,2014,3.53405499,Middle East,36996,0,1,77.1
+United Arab Emirates,2015,3.46609354,Middle East,38663,0,1,77.3
+United Kingdom,2000,7.12928009,Rest of Europe,39229,1,0,77.7
+United Kingdom,2001,7.34416342,Rest of Europe,39888,1,0,78.0
+United Kingdom,2002,7.65009499,Rest of Europe,40563,1,0,78.1
+United Kingdom,2003,8.05579185,Rest of Europe,41598,1,0,78.4
+United Kingdom,2004,8.30715179,Rest of Europe,42337,1,0,78.7
+United Kingdom,2005,8.36301231,Rest of Europe,43137,1,0,79.0
+United Kingdom,2006,8.62893772,Rest of Europe,43928,1,0,79.2
+United Kingdom,2007,8.62399578,Rest of Europe,44576,1,0,79.4
+United Kingdom,2008,9.02561569,Rest of Europe,44121,1,0,79.6
+United Kingdom,2009,10.04505444,Rest of Europe,41929,1,0,80.1
+United Kingdom,2010,9.92673969,Rest of Europe,42488,1,0,80.4
+United Kingdom,2011,9.92486763,Rest of Europe,42772,1,0,81.0
+United Kingdom,2012,9.95296001,Rest of Europe,43100,1,0,80.9
+United Kingdom,2013,9.87251186,Rest of Europe,43621,1,0,81.0
+United Kingdom,2014,9.86246872,Rest of Europe,44596,1,0,81.3
+United Kingdom,2015,9.79776669,Rest of Europe,45405,1,0,81.0
+United States,2000,12.49002552,North America,48746,1,0,76.6
+United States,2001,13.16811562,North America,48727,1,0,76.8
+United States,2002,13.9952774,North America,49095,1,0,76.9
+United States,2003,14.50551128,North America,50036,1,0,77.0
+United States,2004,14.55115986,North America,51485,1,0,77.5
+United States,2005,14.57938957,North America,52790,1,0,77.5
+United States,2006,14.70870876,North America,53738,1,0,77.7
+United States,2007,14.91824913,North America,54300,1,0,78.0
+United States,2008,15.20718479,North America,53854,1,0,78.0
+United States,2009,16.20063591,North America,51996,1,0,78.4
+United States,2010,16.19719124,North America,52963,1,0,78.5
+United States,2011,16.13996315,North America,53395,1,0,78.6
+United States,2012,16.11969566,North America,54213,1,0,78.7
+United States,2013,15.99170876,North America,54831,1,0,78.7
+United States,2014,16.19919777,North America,55675,1,0,78.8
+United States,2015,16.49056816,North America,56763,1,0,78.7
+Uruguay,2000,9.21095848,South America,10083,0,1,74.7
+Uruguay,2001,9.79864407,South America,9679,0,1,74.9
+Uruguay,2002,9.68134308,South America,8929,0,1,75.2
+Uruguay,2003,9.61753464,South America,9008,0,1,75.4
+Uruguay,2004,8.30145359,South America,9464,0,1,75.6
+Uruguay,2005,7.75686073,South America,10170,0,1,75.8
+Uruguay,2006,7.74287462,South America,10575,0,1,76.0
+Uruguay,2007,7.49349833,South America,11245,0,1,76.3
+Uruguay,2008,8.12533188,South America,12022,0,1,76.4
+Uruguay,2009,7.9498806,South America,12496,0,1,76.6
+Uruguay,2010,7.91117048,South America,13433,0,1,76.8
+Uruguay,2011,7.94897985,South America,14086,0,1,76.9
+Uruguay,2012,8.06757545,South America,14541,0,1,77.0
+Uruguay,2013,8.11897373,South America,15168,0,1,77.1
+Uruguay,2014,8.07319641,South America,15609,0,1,77.2
+Uruguay,2015,8.29225731,South America,15614,0,1,77.4
+Uzbekistan,2000,5.12,Asia,1277,0,1,67.2
+Uzbekistan,2001,5.24,Asia,1313,0,1,67.4
+Uzbekistan,2002,5.14,Asia,1349,0,1,67.6
+Uzbekistan,2003,5.19,Asia,1390,0,1,67.9
+Uzbekistan,2004,4.84,Asia,1476,0,1,68.1
+Uzbekistan,2005,4.78,Asia,1560,0,1,68.4
+Uzbekistan,2006,4.75,Asia,1656,0,1,68.7
+Uzbekistan,2007,4.54,Asia,1787,0,1,68.9
+Uzbekistan,2008,4.7,Asia,1918,0,1,69.2
+Uzbekistan,2009,4.8,Asia,2038,0,1,69.4
+Uzbekistan,2010,5.3,Asia,2131,0,1,69.7
+Uzbekistan,2011,5.26,Asia,2231,0,1,69.9
+Uzbekistan,2012,5.55,Asia,2355,0,1,70.2
+Uzbekistan,2013,5.72,Asia,2487,0,1,70.4
+Uzbekistan,2014,4.43,Asia,2614,0,1,70.7
+Uzbekistan,2015,4.74,Asia,2754,0,1,70.9
+Vanuatu,2000,3.30683255,Oceania,2837,0,1,67.4
+Vanuatu,2001,3.38728333,Oceania,2679,0,1,67.6
+Vanuatu,2002,3.90437746,Oceania,2478,0,1,67.8
+Vanuatu,2003,3.50691938,Oceania,2519,0,1,68.0
+Vanuatu,2004,3.53991532,Oceania,2553,0,1,68.2
+Vanuatu,2005,3.30528617,Oceania,2622,0,1,68.4
+Vanuatu,2006,3.32189322,Oceania,2776,0,1,68.5
+Vanuatu,2007,3.1078558,Oceania,2790,0,1,68.7
+Vanuatu,2008,3.13810205,Oceania,2877,0,1,68.8
+Vanuatu,2009,3.25197887,Oceania,2893,0,1,69.0
+Vanuatu,2010,3.52656102,Oceania,2856,0,1,69.1
+Vanuatu,2011,3.59819388,Oceania,2867,0,1,69.3
+Vanuatu,2012,3.9356277,Oceania,2817,0,1,69.4
+Vanuatu,2013,4.39234495,Oceania,2751,0,1,69.6
+Vanuatu,2014,3.64668846,Oceania,2759,0,1,69.7
+Vanuatu,2015,4.32168293,Oceania,2696,0,1,69.9
+Vietnam,2000,4.10752726,Asia,1170,0,1,73.0
+Vietnam,2001,4.80107498,Asia,1230,0,1,73.2
+Vietnam,2002,3.87075853,Asia,1295,0,1,73.4
+Vietnam,2003,3.94229889,Asia,1372,0,1,73.7
+Vietnam,2004,4.08791971,Asia,1462,0,1,73.9
+Vietnam,2005,4.31821251,Asia,1557,0,1,74.1
+Vietnam,2006,4.56979847,Asia,1651,0,1,74.3
+Vietnam,2007,4.62917614,Asia,1752,0,1,74.5
+Vietnam,2008,4.36028337,Asia,1833,0,1,74.6
+Vietnam,2009,4.48502922,Asia,1913,0,1,74.7
+Vietnam,2010,5.07146072,Asia,2016,0,1,74.8
+Vietnam,2011,4.97468519,Asia,2123,0,1,74.9
+Vietnam,2012,5.00178242,Asia,2217,0,1,75.0
+Vietnam,2013,4.41233158,Asia,2315,0,1,75.0
+Vietnam,2014,4.69078779,Asia,2438,0,1,75.1
+Vietnam,2015,4.71140909,Asia,2582,0,1,75.1
+"Yemen, Rep.",2000,4.66606569,Middle East,2384,0,1,60.7
+"Yemen, Rep.",2001,4.94514799,Middle East,2404,0,1,61.2
+"Yemen, Rep.",2002,4.83237982,Middle East,2427,0,1,61.8
+"Yemen, Rep.",2003,5.75758314,Middle East,2447,0,1,62.4
+"Yemen, Rep.",2004,5.5144043,Middle East,2472,0,1,62.9
+"Yemen, Rep.",2005,5.20585251,Middle East,2536,0,1,63.5
+"Yemen, Rep.",2006,5.52930164,Middle East,2543,0,1,64.0
+"Yemen, Rep.",2007,5.82077599,Middle East,2555,0,1,64.5
+"Yemen, Rep.",2008,5.76191616,Middle East,2574,0,1,64.9
+"Yemen, Rep.",2009,5.98619986,Middle East,2599,0,1,65.3
+"Yemen, Rep.",2010,5.15932894,Middle East,2722,0,1,65.5
+"Yemen, Rep.",2011,4.7695322,Middle East,2311,0,1,65.8
+"Yemen, Rep.",2012,5.19593525,Middle East,2302,0,1,65.9
+"Yemen, Rep.",2013,4.96083164,Middle East,2348,0,1,66.0
+"Yemen, Rep.",2014,4.8418045,Middle East,2283,0,1,66.1
+"Yemen, Rep.",2015,4.25285673,Middle East,1602,0,1,66.1
+Zambia,2000,4.17365646,Africa,774,0,1,44.0
+Zambia,2001,4.82995701,Africa,794,0,1,44.6
+Zambia,2002,5.88845205,Africa,808,0,1,45.4
+Zambia,2003,5.99553585,Africa,843,0,1,46.3
+Zambia,2004,5.48490572,Africa,879,0,1,47.4
+Zambia,2005,6.33088684,Africa,918,0,1,48.5
+Zambia,2006,5.5774231,Africa,965,0,1,49.8
+Zambia,2007,4.57961416,Africa,1018,0,1,51.1
+Zambia,2008,4.46690989,Africa,1068,0,1,52.6
+Zambia,2009,5.15718842,Africa,1134,0,1,54.1
+Zambia,2010,3.97471905,Africa,1215,0,1,55.7
+Zambia,2011,3.95913363,Africa,1244,0,1,57.1
+Zambia,2012,4.04541731,Africa,1298,0,1,58.5
+Zambia,2013,4.57390451,Africa,1321,0,1,59.7
+Zambia,2014,3.82924223,Africa,1341,0,1,60.8
+Zambia,2015,4.42974281,Africa,1338,0,1,61.7
+Zimbabwe,2010,10.47583866,Africa,1110,0,1,50.6
+Zimbabwe,2011,8.08288383,Africa,1249,0,1,52.9
+Zimbabwe,2012,6.91794872,Africa,1432,0,1,55.0
+Zimbabwe,2013,7.10940313,Africa,1435,0,1,56.9
+Zimbabwe,2014,8.13227272,Africa,1444,0,1,58.4
+Zimbabwe,2015,7.44982719,Africa,1445,0,1,59.5
